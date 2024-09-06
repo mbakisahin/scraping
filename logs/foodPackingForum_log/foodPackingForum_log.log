@@ -1,0 +1,112 @@
+2024-09-05 15:52:57,398 - INFO - Starting the scraping process.
+2024-09-05 15:52:57,399 - INFO - Folder structure created for Wettbewerbsrecht.
+2024-09-05 15:53:29,654 - ERROR - Failed to enter keyword 'Wettbewerbsrecht' in the search box: Message: 
+Stacktrace:
+#0 0x5b648a6566ca <unknown>
+#1 0x5b648a327600 <unknown>
+#2 0x5b648a376bcb <unknown>
+#3 0x5b648a376eb1 <unknown>
+#4 0x5b648a3bab24 <unknown>
+#5 0x5b648a3998cd <unknown>
+#6 0x5b648a3b804a <unknown>
+#7 0x5b648a399643 <unknown>
+#8 0x5b648a369d31 <unknown>
+#9 0x5b648a36a79e <unknown>
+#10 0x5b648a61e25b <unknown>
+#11 0x5b648a6221f2 <unknown>
+#12 0x5b648a60b615 <unknown>
+#13 0x5b648a622d82 <unknown>
+#14 0x5b648a5f025f <unknown>
+#15 0x5b648a645e68 <unknown>
+#16 0x5b648a646040 <unknown>
+#17 0x5b648a65549c <unknown>
+#18 0x7b23f6494ac3 <unknown>
+
+2024-09-05 15:53:44,509 - INFO - Starting the scraping process.
+2024-09-05 15:53:44,510 - INFO - Folder structure created for Informationstechnologie.
+2024-09-05 15:54:33,300 - INFO - Starting the scraping process.
+2024-09-05 15:54:33,300 - INFO - Folder structure created for Informationstechnologie.
+2024-09-05 15:56:22,009 - INFO - Starting the scraping process.
+2024-09-05 15:56:22,009 - INFO - Folder structure created for Datenschutz.
+2024-09-05 15:56:44,952 - INFO - Starting the scraping process.
+2024-09-05 15:56:44,953 - INFO - Folder structure created for Environment.
+2024-09-05 15:58:33,530 - INFO - Downloading PDF files for keyword: Environment
+2024-09-05 15:58:33,530 - INFO - Processing non-PDF URLs for keyword: Environment
+2024-09-05 15:58:33,827 - INFO - Summary saved to data/raw/foodPackingForum/Environment/text/Microplastics in aquatic environment.txt
+2024-09-05 15:58:33,827 - INFO - Extracting tables from page: Microplastics in aquatic environment
+2024-09-05 15:58:33,827 - INFO - Extracted summary and checked for tables from: https://www.foodpackagingforum.org/news/microplastics-in-aquatic-environment
+2024-09-05 15:58:33,828 - INFO - Metadata saved to data/raw/foodPackingForum/Environment/metadata/metadata_Microplastics in aquatic environment.json
+2024-09-05 15:58:34,077 - INFO - Summary saved to data/raw/foodPackingForum/Environment/text/Debating environmental risks of microplastics.txt
+2024-09-05 15:58:34,077 - INFO - Extracting tables from page: Debating environmental risks of microplastics
+2024-09-05 15:58:34,077 - INFO - Extracted summary and checked for tables from: https://www.foodpackagingforum.org/news/debating-environmental-risks-of-microplastics
+2024-09-05 15:58:34,077 - INFO - Metadata saved to data/raw/foodPackingForum/Environment/metadata/metadata_Debating environmental risks of microplastics.json
+2024-09-05 15:58:34,316 - INFO - Summary saved to data/raw/foodPackingForum/Environment/text/Cost of environmental hazards.txt
+2024-09-05 15:58:34,317 - INFO - Extracting tables from page: Cost of environmental hazards
+2024-09-05 15:58:34,317 - INFO - Extracted summary and checked for tables from: https://www.foodpackagingforum.org/news/cost-of-environmental-hazards
+2024-09-05 15:58:34,317 - INFO - Metadata saved to data/raw/foodPackingForum/Environment/metadata/metadata_Cost of environmental hazards.json
+2024-09-05 15:58:34,555 - INFO - Summary saved to data/raw/foodPackingForum/Environment/text/Overview reports on EDCs in the environment.txt
+2024-09-05 15:58:34,556 - INFO - Extracting tables from page: Overview reports on EDCs in the environment
+2024-09-05 15:58:34,556 - INFO - Extracted summary and checked for tables from: https://www.foodpackagingforum.org/news/overview-reports-on-edcs-in-the-environment
+2024-09-05 15:58:34,556 - INFO - Metadata saved to data/raw/foodPackingForum/Environment/metadata/metadata_Overview reports on EDCs in the environment.json
+2024-09-05 15:58:34,812 - INFO - Summary saved to data/raw/foodPackingForum/Environment/text/Environmental risks of medium-chain chlorinated paraffins.txt
+2024-09-05 15:58:34,812 - INFO - Extracting tables from page: Environmental risks of medium-chain chlorinated paraffins
+2024-09-05 15:58:34,812 - INFO - Extracted summary and checked for tables from: https://www.foodpackagingforum.org/news/environmental-risks-of-medium-chain-chlorinated-paraffins
+2024-09-05 15:58:34,813 - INFO - Metadata saved to data/raw/foodPackingForum/Environment/metadata/metadata_Environmental risks of medium-chain chlorinated paraffins.json
+2024-09-05 15:59:56,643 - INFO - Starting the scraping process.
+2024-09-05 15:59:56,643 - INFO - Folder structure created for Environment.
+2024-09-05 16:00:23,289 - INFO - Starting the scraping process.
+2024-09-05 16:00:23,289 - INFO - Folder structure created for Environment.
+2024-09-05 16:00:46,702 - INFO - Starting the scraping process.
+2024-09-05 16:00:46,702 - INFO - Folder structure created for Environment.
+2024-09-05 16:01:34,685 - INFO - Starting the scraping process.
+2024-09-05 16:01:34,685 - INFO - Folder structure created for Environment.
+2024-09-05 16:02:12,732 - INFO - Starting the scraping process.
+2024-09-05 16:02:12,732 - INFO - Folder structure created for Environment.
+2024-09-05 16:03:38,176 - INFO - Starting the scraping process.
+2024-09-05 16:03:38,177 - INFO - Folder structure created for Environment.
+2024-09-05 16:04:06,184 - INFO - Starting the scraping process.
+2024-09-05 16:04:06,184 - INFO - Folder structure created for Environment.
+2024-09-05 16:04:24,720 - INFO - Starting the scraping process.
+2024-09-05 16:04:24,720 - INFO - Folder structure created for Environment.
+2024-09-05 16:04:53,722 - INFO - Starting the scraping process.
+2024-09-05 16:04:53,722 - INFO - Folder structure created for Environment.
+2024-09-05 16:07:56,171 - INFO - Starting the scraping process.
+2024-09-05 16:07:56,171 - INFO - Folder structure created for Environment.
+2024-09-05 16:40:21,434 - INFO - Starting the scraping process.
+2024-09-05 16:40:21,434 - INFO - Folder structure created for Environment.
+2024-09-05 19:33:09,119 - INFO - Starting the scraping process.
+2024-09-05 19:33:09,119 - INFO - Folder structure created for Environment.
+2024-09-05 19:33:40,153 - INFO - Starting the scraping process.
+2024-09-05 19:33:40,153 - INFO - Folder structure created for Environment.
+2024-09-05 19:37:57,639 - INFO - Starting the scraping process.
+2024-09-05 19:37:57,640 - INFO - Folder structure created for Food contact materials.
+2024-09-05 19:38:19,082 - INFO - Downloading PDF files for keyword: Food contact materials
+2024-09-05 19:38:19,082 - INFO - Processing non-PDF URLs for keyword: Food contact materials
+2024-09-05 19:38:19,157 - INFO - Scraping process completed.
+2024-09-05 19:38:20,573 - INFO - Starting the scraping process.
+2024-09-05 19:38:20,573 - INFO - Folder structure created for Glass in building.
+2024-09-05 19:38:53,267 - INFO - Downloading PDF files for keyword: Glass in building
+2024-09-05 19:38:53,267 - INFO - Processing non-PDF URLs for keyword: Glass in building
+2024-09-05 19:38:53,566 - INFO - Summary saved to data/raw/foodPackingForum/Glass_in_building/text/2021-03-25-Collaborative_to_verify_and_register_safer_chemical_alternatives.txt
+2024-09-05 19:38:53,566 - INFO - Extracting tables from page: 2021-03-25-Collaborative_to_verify_and_register_safer_chemical_alternatives
+2024-09-05 19:38:53,566 - INFO - Extracted summary and checked for tables from: https://www.foodpackagingforum.org/news/collaborative-to-verify-and-register-safer-chemical-alternatives
+2024-09-05 19:38:53,566 - INFO - Metadata saved to data/raw/foodPackingForum/Glass_in_building/metadata/metadata_2021-03-25-Collaborative_to_verify_and_register_safer_chemical_alternatives.json
+2024-09-05 19:38:53,807 - INFO - Summary saved to data/raw/foodPackingForum/Glass_in_building/text/2017-06-06-New_German_packaging_law.txt
+2024-09-05 19:38:53,807 - INFO - Extracting tables from page: 2017-06-06-New_German_packaging_law
+2024-09-05 19:38:53,808 - INFO - Extracted summary and checked for tables from: https://www.foodpackagingforum.org/news/new-german-packaging-law
+2024-09-05 19:38:53,808 - INFO - Metadata saved to data/raw/foodPackingForum/Glass_in_building/metadata/metadata_2017-06-06-New_German_packaging_law.json
+2024-09-05 19:38:54,096 - INFO - Summary saved to data/raw/foodPackingForum/Glass_in_building/text/2018-12-14-Responsibility_of_(bio)plastics_industry.txt
+2024-09-05 19:38:54,096 - INFO - Extracting tables from page: 2018-12-14-Responsibility_of_(bio)plastics_industry
+2024-09-05 19:38:54,096 - INFO - Extracted summary and checked for tables from: https://www.foodpackagingforum.org/news/responsibility-of-bioplastics-industry
+2024-09-05 19:38:54,096 - INFO - Metadata saved to data/raw/foodPackingForum/Glass_in_building/metadata/metadata_2018-12-14-Responsibility_of_(bio)plastics_industry.json
+2024-09-05 19:38:54,170 - INFO - Scraping process completed.
+2024-09-05 19:38:54,529 - INFO - Starting the scraping process.
+2024-09-05 19:38:54,529 - INFO - Folder structure created for Glass containers.
+2024-09-05 19:39:06,604 - INFO - Starting the scraping process.
+2024-09-05 19:39:06,604 - INFO - Folder structure created for Soda.
+2024-09-05 19:48:32,812 - INFO - Starting the scraping process.
+2024-09-05 19:48:32,812 - INFO - Folder structure created for Soda.
+2024-09-05 19:59:39,792 - INFO - Starting the scraping process.
+2024-09-05 19:59:39,792 - INFO - Folder structure created for Glass containers.
+2024-09-05 20:17:17,023 - INFO - Starting the scraping process.
+2024-09-05 20:17:17,023 - INFO - Folder structure created for Glass containers.

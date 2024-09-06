@@ -1,0 +1,517 @@
+2024-08-15 18:26:04,405 - INFO - Starting the scraping process.
+2024-08-15 18:26:04,405 - INFO - Processing keyword: Atıksu
+2024-08-15 18:26:04,405 - INFO - Creating folder structure for keyword: Atıksu
+2024-08-15 18:26:04,406 - INFO - Searching for keyword: Atıksu
+2024-08-15 18:36:27,612 - ERROR - An error occurred: Message: timeout: Timed out receiving message from renderer: 300,000
+  (Session info: chrome-headless-shell=127.0.6533.88)
+Stacktrace:
+#0 0x5aa8ecd8c6ca <unknown>
+#1 0x5aa8eca5d600 <unknown>
+#2 0x5aa8eca45563 <unknown>
+#3 0x5aa8eca45252 <unknown>
+#4 0x5aa8eca4356c <unknown>
+#5 0x5aa8eca43a5f <unknown>
+#6 0x5aa8eca535cb <unknown>
+#7 0x5aa8eca69964 <unknown>
+#8 0x5aa8eca6effb <unknown>
+#9 0x5aa8eca4416e <unknown>
+#10 0x5aa8eca697bb <unknown>
+#11 0x5aa8ecaedf0f <unknown>
+#12 0x5aa8ecacf643 <unknown>
+#13 0x5aa8eca9fd31 <unknown>
+#14 0x5aa8ecaa079e <unknown>
+#15 0x5aa8ecd5425b <unknown>
+#16 0x5aa8ecd581f2 <unknown>
+#17 0x5aa8ecd41615 <unknown>
+#18 0x5aa8ecd58d82 <unknown>
+#19 0x5aa8ecd2625f <unknown>
+#20 0x5aa8ecd7be68 <unknown>
+#21 0x5aa8ecd7c040 <unknown>
+#22 0x5aa8ecd8b49c <unknown>
+#23 0x7e0725c94ac3 <unknown>
+. Continuing with the next iteration.
+2024-08-15 18:41:27,637 - ERROR - Next button could not be found or clicked: Message: timeout: Timed out receiving message from renderer: 300,000
+  (Session info: chrome-headless-shell=127.0.6533.88)
+Stacktrace:
+#0 0x5aa8ecd8c6ca <unknown>
+#1 0x5aa8eca5d600 <unknown>
+#2 0x5aa8eca45563 <unknown>
+#3 0x5aa8eca45252 <unknown>
+#4 0x5aa8eca4356c <unknown>
+#5 0x5aa8eca43a5f <unknown>
+#6 0x5aa8eca535cb <unknown>
+#7 0x5aa8eca69964 <unknown>
+#8 0x5aa8eca6effb <unknown>
+#9 0x5aa8eca4416e <unknown>
+#10 0x5aa8eca697bb <unknown>
+#11 0x5aa8ecaedf0f <unknown>
+#12 0x5aa8ecacf643 <unknown>
+#13 0x5aa8eca9fd31 <unknown>
+#14 0x5aa8ecaa079e <unknown>
+#15 0x5aa8ecd5425b <unknown>
+#16 0x5aa8ecd581f2 <unknown>
+#17 0x5aa8ecd41615 <unknown>
+#18 0x5aa8ecd58d82 <unknown>
+#19 0x5aa8ecd2625f <unknown>
+#20 0x5aa8ecd7be68 <unknown>
+#21 0x5aa8ecd7c040 <unknown>
+#22 0x5aa8ecd8b49c <unknown>
+#23 0x7e0725c94ac3 <unknown>
+. Ending the loop.
+2024-08-15 18:41:27,637 - INFO - Downloading PDF files for keyword: Atıksu
+2024-08-15 18:41:27,770 - INFO - Downloaded: 28.06.2024_—_Kahramanmaraş_Merk
+2024-08-15 18:41:27,770 - INFO - Saving metadata for: 28.06.2024_—_Kahramanmaraş_Merk
+2024-08-15 18:41:27,770 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_28.06.2024_—_Kahramanmaraş_Merk.json
+2024-08-15 18:41:30,158 - INFO - Downloaded: 25.05.2024_––_Şehir_Altyapısı_K
+2024-08-15 18:41:30,158 - INFO - Saving metadata for: 25.05.2024_––_Şehir_Altyapısı_K
+2024-08-15 18:41:30,159 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_25.05.2024_––_Şehir_Altyapısı_K.json
+2024-08-15 18:41:30,303 - INFO - Downloaded: 12.01.2024_––_Bursa_İli,_Mustaf
+2024-08-15 18:41:30,304 - INFO - Saving metadata for: 12.01.2024_––_Bursa_İli,_Mustaf
+2024-08-15 18:41:30,304 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_12.01.2024_––_Bursa_İli,_Mustaf.json
+2024-08-15 18:41:30,549 - INFO - Downloaded: 2017_10385_2017_10385_____“Veli
+2024-08-15 18:41:30,549 - INFO - Saving metadata for: 2017_10385_2017_10385_____“Veli
+2024-08-15 18:41:30,550 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2017_10385_2017_10385_____“Veli.json
+2024-08-15 18:41:30,773 - INFO - Downloaded: 06.01.2017_2016_8885_____Tekird
+2024-08-15 18:41:30,773 - INFO - Saving metadata for: 06.01.2017_2016_8885_____Tekird
+2024-08-15 18:41:30,774 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_06.01.2017_2016_8885_____Tekird.json
+2024-08-15 18:41:30,949 - INFO - Downloaded: 23.06.2016_2016_8867___İstanbul
+2024-08-15 18:41:30,950 - INFO - Saving metadata for: 23.06.2016_2016_8867___İstanbul
+2024-08-15 18:41:30,950 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_23.06.2016_2016_8867___İstanbul.json
+2024-08-15 18:41:30,950 - INFO - Saving PDF data for keyword: Atıksu
+2024-08-15 18:41:30,950 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/28.06.2024_—_Kahramanmaraş_Merk.pdf
+2024-08-15 18:41:30,953 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/25.05.2024_––_Şehir_Altyapısı_K.pdf
+2024-08-15 18:41:30,953 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/12.01.2024_––_Bursa_İli,_Mustaf.pdf
+2024-08-15 18:41:30,954 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/2017_10385_2017_10385_____“Veli.pdf
+2024-08-15 18:41:30,954 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/06.01.2017_2016_8885_____Tekird.pdf
+2024-08-15 18:41:30,954 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/23.06.2016_2016_8867___İstanbul.pdf
+2024-08-15 18:41:30,954 - INFO - Processing non-PDF URLs for keyword: Atıksu
+2024-08-15 18:41:31,076 - INFO - Saving summary for: 14.03.2024_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,076 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/14.03.2024_––_Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:31,077 - INFO - Extracting tables from page: 14.03.2024_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,077 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/03/20240314-2.htm
+2024-08-15 18:41:31,077 - INFO - Saving metadata for: 14.03.2024_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,078 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_14.03.2024_––_Atıksu_Altyapı_ve.json
+2024-08-15 18:41:31,238 - INFO - Saving summary for: 08.12.2023_––_Kentsel_Atıksu_Ar
+2024-08-15 18:41:31,238 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/08.12.2023_––_Kentsel_Atıksu_Ar.txt
+2024-08-15 18:41:31,238 - INFO - Extracting tables from page: 08.12.2023_––_Kentsel_Atıksu_Ar
+2024-08-15 18:41:31,239 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231208-1.htm
+2024-08-15 18:41:31,239 - INFO - Saving metadata for: 08.12.2023_––_Kentsel_Atıksu_Ar
+2024-08-15 18:41:31,239 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_08.12.2023_––_Kentsel_Atıksu_Ar.json
+2024-08-15 18:41:31,342 - INFO - Saving summary for: 11.11.2023_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:31,342 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/11.11.2023_––_Atıksu_Arıtma_Tes.txt
+2024-08-15 18:41:31,342 - INFO - Extracting tables from page: 11.11.2023_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:31,343 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/11/20231111-3.htm
+2024-08-15 18:41:31,344 - INFO - Saving metadata for: 11.11.2023_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:31,344 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_11.11.2023_––_Atıksu_Arıtma_Tes.json
+2024-08-15 18:41:31,554 - INFO - Saving summary for: 25.10.2022_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:31,554 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/25.10.2022_––_Atıksu_Arıtma_Tes.txt
+2024-08-15 18:41:31,554 - INFO - Extracting tables from page: 25.10.2022_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:31,554 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/10/20221025-11.htm
+2024-08-15 18:41:31,554 - INFO - Saving metadata for: 25.10.2022_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:31,554 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_25.10.2022_––_Atıksu_Arıtma_Tes.json
+2024-08-15 18:41:31,647 - INFO - Saving summary for: 09.07.2022_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,648 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/09.07.2022_––_Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:31,648 - INFO - Extracting tables from page: 09.07.2022_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,648 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/07/20220709-2.htm
+2024-08-15 18:41:31,648 - INFO - Saving metadata for: 09.07.2022_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,648 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_09.07.2022_––_Atıksu_Altyapı_ve.json
+2024-08-15 18:41:31,759 - INFO - Saving summary for: 14.04.2022_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,759 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/14.04.2022_––_Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:31,759 - INFO - Extracting tables from page: 14.04.2022_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,759 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/04/20220414-1.htm
+2024-08-15 18:41:31,759 - INFO - Saving metadata for: 14.04.2022_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,759 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_14.04.2022_––_Atıksu_Altyapı_ve.json
+2024-08-15 18:41:31,856 - INFO - Saving summary for: 02.02.2021_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,856 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/02.02.2021_––_Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:31,857 - INFO - Extracting tables from page: 02.02.2021_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,860 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/02/20210202-1.htm
+2024-08-15 18:41:31,860 - INFO - Saving metadata for: 02.02.2021_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:31,860 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_02.02.2021_––_Atıksu_Altyapı_ve.json
+2024-08-15 18:41:31,970 - INFO - Saving summary for: 16.07.2019_––_Sürekli_Atıksu_İz
+2024-08-15 18:41:31,970 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/16.07.2019_––_Sürekli_Atıksu_İz.txt
+2024-08-15 18:41:31,970 - INFO - Extracting tables from page: 16.07.2019_––_Sürekli_Atıksu_İz
+2024-08-15 18:41:31,971 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/07/20190716-5.htm
+2024-08-15 18:41:31,971 - INFO - Saving metadata for: 16.07.2019_––_Sürekli_Atıksu_İz
+2024-08-15 18:41:31,971 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_16.07.2019_––_Sürekli_Atıksu_İz.json
+2024-08-15 18:41:32,090 - INFO - Saving summary for: 23.05.2019_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:32,090 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/23.05.2019_––_Atıksu_Arıtma_Tes.txt
+2024-08-15 18:41:32,090 - INFO - Extracting tables from page: 23.05.2019_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:32,092 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/05/20190523-21.htm
+2024-08-15 18:41:32,092 - INFO - Saving metadata for: 23.05.2019_––_Atıksu_Arıtma_Tes
+2024-08-15 18:41:32,092 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_23.05.2019_––_Atıksu_Arıtma_Tes.json
+2024-08-15 18:41:32,200 - INFO - Saving summary for: 02.02.2019_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:32,200 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/02.02.2019_––_Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:32,200 - INFO - Extracting tables from page: 02.02.2019_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:32,202 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/02/20190202-1.htm
+2024-08-15 18:41:32,202 - INFO - Saving metadata for: 02.02.2019_––_Atıksu_Altyapı_ve
+2024-08-15 18:41:32,202 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_02.02.2019_––_Atıksu_Altyapı_ve.json
+2024-08-15 18:41:32,348 - INFO - Saving summary for: 22.05.2018_––__Atıksu_Altyapı_v
+2024-08-15 18:41:32,348 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/22.05.2018_––__Atıksu_Altyapı_v.txt
+2024-08-15 18:41:32,349 - INFO - Extracting tables from page: 22.05.2018_––__Atıksu_Altyapı_v
+2024-08-15 18:41:32,351 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2018/05/20180522-2.htm
+2024-08-15 18:41:32,351 - INFO - Saving metadata for: 22.05.2018_––__Atıksu_Altyapı_v
+2024-08-15 18:41:32,351 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_22.05.2018_––__Atıksu_Altyapı_v.json
+2024-08-15 18:41:32,430 - INFO - Saving summary for: 25.01.2018_—___Atıksu_Altyapı_v
+2024-08-15 18:41:32,431 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/25.01.2018_—___Atıksu_Altyapı_v.txt
+2024-08-15 18:41:32,431 - INFO - Extracting tables from page: 25.01.2018_—___Atıksu_Altyapı_v
+2024-08-15 18:41:32,432 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2018/01/20180125-5.htm
+2024-08-15 18:41:32,432 - INFO - Saving metadata for: 25.01.2018_—___Atıksu_Altyapı_v
+2024-08-15 18:41:32,432 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_25.01.2018_—___Atıksu_Altyapı_v.json
+2024-08-15 18:41:32,512 - INFO - Saving summary for: 23.06.2017_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:32,512 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/23.06.2017_—__Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:32,512 - INFO - Extracting tables from page: 23.06.2017_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:32,513 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2017/01/20170125-1.htm
+2024-08-15 18:41:32,513 - INFO - Saving metadata for: 23.06.2017_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:32,514 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_23.06.2017_—__Atıksu_Altyapı_ve.json
+2024-08-15 18:41:32,646 - INFO - Saving summary for: 25.01.2017_—__Atıksu_Toplama_ve
+2024-08-15 18:41:32,646 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/25.01.2017_—__Atıksu_Toplama_ve.txt
+2024-08-15 18:41:32,646 - INFO - Extracting tables from page: 25.01.2017_—__Atıksu_Toplama_ve
+2024-08-15 18:41:32,650 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2017/01/20170106-1.htm
+2024-08-15 18:41:32,650 - INFO - Saving metadata for: 25.01.2017_—__Atıksu_Toplama_ve
+2024-08-15 18:41:32,650 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_25.01.2017_—__Atıksu_Toplama_ve.json
+2024-08-15 18:41:32,775 - INFO - Saving summary for: 10.01.2016_—_Kentsel_Atıksu_Arı
+2024-08-15 18:41:32,775 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/10.01.2016_—_Kentsel_Atıksu_Arı.txt
+2024-08-15 18:41:32,775 - INFO - Extracting tables from page: 10.01.2016_—_Kentsel_Atıksu_Arı
+2024-08-15 18:41:32,775 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2016/01/20160110-5.htm
+2024-08-15 18:41:32,775 - INFO - Saving metadata for: 10.01.2016_—_Kentsel_Atıksu_Arı
+2024-08-15 18:41:32,775 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_10.01.2016_—_Kentsel_Atıksu_Arı.json
+2024-08-15 18:41:32,878 - INFO - Saving summary for: 30.12.2015_––__Atıksu_Altyapı_v
+2024-08-15 18:41:32,879 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/30.12.2015_––__Atıksu_Altyapı_v.txt
+2024-08-15 18:41:32,879 - INFO - Extracting tables from page: 30.12.2015_––__Atıksu_Altyapı_v
+2024-08-15 18:41:32,880 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2015/12/20151230-2.htm
+2024-08-15 18:41:32,880 - INFO - Saving metadata for: 30.12.2015_––__Atıksu_Altyapı_v
+2024-08-15 18:41:32,880 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_30.12.2015_––__Atıksu_Altyapı_v.json
+2024-08-15 18:41:33,031 - INFO - Saving summary for: 22.03.2015_—__Sürekli_Atıksu_İz
+2024-08-15 18:41:33,031 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/22.03.2015_—__Sürekli_Atıksu_İz.txt
+2024-08-15 18:41:33,031 - INFO - Extracting tables from page: 22.03.2015_—__Sürekli_Atıksu_İz
+2024-08-15 18:41:33,037 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2015/03/20150322-4.htm
+2024-08-15 18:41:33,037 - INFO - Saving metadata for: 22.03.2015_—__Sürekli_Atıksu_İz
+2024-08-15 18:41:33,037 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_22.03.2015_—__Sürekli_Atıksu_İz.json
+2024-08-15 18:41:33,147 - INFO - Saving summary for: 23.12.2014_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:33,147 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/23.12.2014_—__Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:33,147 - INFO - Extracting tables from page: 23.12.2014_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:33,148 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2014/12/20141223-6.htm
+2024-08-15 18:41:33,148 - INFO - Saving metadata for: 23.12.2014_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:33,148 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_23.12.2014_—__Atıksu_Altyapı_ve.json
+2024-08-15 18:41:33,232 - INFO - Saving summary for: 18.05.2014_2014_6357____Tekirda
+2024-08-15 18:41:33,233 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/18.05.2014_2014_6357____Tekirda.txt
+2024-08-15 18:41:33,233 - INFO - Extracting tables from page: 18.05.2014_2014_6357____Tekirda
+2024-08-15 18:41:33,233 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2014/05/20140518-1.htm
+2024-08-15 18:41:33,233 - INFO - Saving metadata for: 18.05.2014_2014_6357____Tekirda
+2024-08-15 18:41:33,234 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_18.05.2014_2014_6357____Tekirda.json
+2024-08-15 18:41:33,400 - INFO - Saving summary for: 17.05.2014_—___Çevre_Kanununun_
+2024-08-15 18:41:33,400 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/17.05.2014_—___Çevre_Kanununun_.txt
+2024-08-15 18:41:33,400 - INFO - Extracting tables from page: 17.05.2014_—___Çevre_Kanununun_
+2024-08-15 18:41:33,408 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2014/05/20140517-2.htm
+2024-08-15 18:41:33,408 - INFO - Saving metadata for: 17.05.2014_—___Çevre_Kanununun_
+2024-08-15 18:41:33,408 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_17.05.2014_—___Çevre_Kanununun_.json
+2024-08-15 18:41:33,499 - INFO - Saving summary for: 18.04.2014_2014_6194__Ergene_Ha
+2024-08-15 18:41:33,499 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/18.04.2014_2014_6194__Ergene_Ha.txt
+2024-08-15 18:41:33,499 - INFO - Extracting tables from page: 18.04.2014_2014_6194__Ergene_Ha
+2024-08-15 18:41:33,500 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2014/04/20140418-9.htm
+2024-08-15 18:41:33,500 - INFO - Saving metadata for: 18.04.2014_2014_6194__Ergene_Ha
+2024-08-15 18:41:33,500 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_18.04.2014_2014_6194__Ergene_Ha.json
+2024-08-15 18:41:33,585 - INFO - Saving summary for: 06.10.2013_2013_5321___Sakarya_
+2024-08-15 18:41:33,586 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/06.10.2013_2013_5321___Sakarya_.txt
+2024-08-15 18:41:33,586 - INFO - Extracting tables from page: 06.10.2013_2013_5321___Sakarya_
+2024-08-15 18:41:33,588 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2013/10/20131006-7.htm
+2024-08-15 18:41:33,588 - INFO - Saving metadata for: 06.10.2013_2013_5321___Sakarya_
+2024-08-15 18:41:33,588 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_06.10.2013_2013_5321___Sakarya_.json
+2024-08-15 18:41:33,715 - INFO - Saving summary for: 24.07.2013_2013_5053_______Deni
+2024-08-15 18:41:33,715 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/24.07.2013_2013_5053_______Deni.txt
+2024-08-15 18:41:33,715 - INFO - Extracting tables from page: 24.07.2013_2013_5053_______Deni
+2024-08-15 18:41:33,717 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2013/07/20130724-5.htm
+2024-08-15 18:41:33,717 - INFO - Saving metadata for: 24.07.2013_2013_5053_______Deni
+2024-08-15 18:41:33,717 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_24.07.2013_2013_5053_______Deni.json
+2024-08-15 18:41:33,807 - INFO - Saving summary for: 02.07.2013_2013_4969_______Erge
+2024-08-15 18:41:33,807 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/02.07.2013_2013_4969_______Erge.txt
+2024-08-15 18:41:33,807 - INFO - Extracting tables from page: 02.07.2013_2013_4969_______Erge
+2024-08-15 18:41:33,808 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2013/07/20130702-16.htm
+2024-08-15 18:41:33,808 - INFO - Saving metadata for: 02.07.2013_2013_4969_______Erge
+2024-08-15 18:41:33,808 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_02.07.2013_2013_4969_______Erge.json
+2024-08-15 18:41:33,939 - INFO - Saving summary for: 26.06.2013_2013_4783_______Erge
+2024-08-15 18:41:33,940 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/26.06.2013_2013_4783_______Erge.txt
+2024-08-15 18:41:33,940 - INFO - Extracting tables from page: 26.06.2013_2013_4783_______Erge
+2024-08-15 18:41:33,941 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2013/06/20130626-3.htm
+2024-08-15 18:41:33,941 - INFO - Saving metadata for: 26.06.2013_2013_4783_______Erge
+2024-08-15 18:41:33,941 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_26.06.2013_2013_4783_______Erge.json
+2024-08-15 18:41:34,029 - INFO - Saving summary for: 15.02.2013_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:34,029 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/15.02.2013_—__Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:34,029 - INFO - Extracting tables from page: 15.02.2013_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:34,031 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2013/02/20130215-4.htm
+2024-08-15 18:41:34,031 - INFO - Saving metadata for: 15.02.2013_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:34,031 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_15.02.2013_—__Atıksu_Altyapı_ve.json
+2024-08-15 18:41:34,129 - INFO - Saving summary for: 27.01.2013_2013_4192____Çanakka
+2024-08-15 18:41:34,129 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/27.01.2013_2013_4192____Çanakka.txt
+2024-08-15 18:41:34,129 - INFO - Extracting tables from page: 27.01.2013_2013_4192____Çanakka
+2024-08-15 18:41:34,131 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2013/01/20130127-3.htm
+2024-08-15 18:41:34,131 - INFO - Saving metadata for: 27.01.2013_2013_4192____Çanakka
+2024-08-15 18:41:34,131 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_27.01.2013_2013_4192____Çanakka.json
+2024-08-15 18:41:34,258 - INFO - Saving summary for: 05.08.2012_2012_3428__Şanlıurfa
+2024-08-15 18:41:34,259 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/05.08.2012_2012_3428__Şanlıurfa.txt
+2024-08-15 18:41:34,259 - INFO - Extracting tables from page: 05.08.2012_2012_3428__Şanlıurfa
+2024-08-15 18:41:34,261 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2012/08/20120805-4.htm
+2024-08-15 18:41:34,261 - INFO - Saving metadata for: 05.08.2012_2012_3428__Şanlıurfa
+2024-08-15 18:41:34,261 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_05.08.2012_2012_3428__Şanlıurfa.json
+2024-08-15 18:41:34,362 - INFO - Saving summary for: 28.03.2012_—__Çevre_Kanununun_2
+2024-08-15 18:41:34,362 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/28.03.2012_—__Çevre_Kanununun_2.txt
+2024-08-15 18:41:34,363 - INFO - Extracting tables from page: 28.03.2012_—__Çevre_Kanununun_2
+2024-08-15 18:41:34,364 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2012/03/20120328-4.htm
+2024-08-15 18:41:34,364 - INFO - Saving metadata for: 28.03.2012_—__Çevre_Kanununun_2
+2024-08-15 18:41:34,364 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_28.03.2012_—__Çevre_Kanununun_2.json
+2024-08-15 18:41:34,450 - INFO - Saving summary for: 23.10.2011_2011_2245_______Atık
+2024-08-15 18:41:34,450 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/23.10.2011_2011_2245_______Atık.txt
+2024-08-15 18:41:34,450 - INFO - Extracting tables from page: 23.10.2011_2011_2245_______Atık
+2024-08-15 18:41:34,451 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2011/10/20111023-12.htm
+2024-08-15 18:41:34,451 - INFO - Saving metadata for: 23.10.2011_2011_2245_______Atık
+2024-08-15 18:41:34,452 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_23.10.2011_2011_2245_______Atık.json
+2024-08-15 18:41:34,547 - INFO - Saving summary for: 15.09.2011_—__“Belediye_Altyapı
+2024-08-15 18:41:34,547 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/15.09.2011_—__“Belediye_Altyapı.txt
+2024-08-15 18:41:34,547 - INFO - Extracting tables from page: 15.09.2011_—__“Belediye_Altyapı
+2024-08-15 18:41:34,549 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2011/09/20110915-1.htm
+2024-08-15 18:41:34,549 - INFO - Saving metadata for: 15.09.2011_—__“Belediye_Altyapı
+2024-08-15 18:41:34,549 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_15.09.2011_—__“Belediye_Altyapı.json
+2024-08-15 18:41:34,686 - INFO - Saving summary for: 27.10.2010_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:34,686 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/27.10.2010_—__Atıksu_Altyapı_ve.txt
+2024-08-15 18:41:34,686 - INFO - Extracting tables from page: 27.10.2010_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:34,689 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2010/10/20101027-7.htm
+2024-08-15 18:41:34,689 - INFO - Saving metadata for: 27.10.2010_—__Atıksu_Altyapı_ve
+2024-08-15 18:41:34,689 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_27.10.2010_—__Atıksu_Altyapı_ve.json
+2024-08-15 18:41:34,780 - INFO - Saving summary for: 01.10.2010_—__Çevre_Kanununun_2
+2024-08-15 18:41:34,781 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/01.10.2010_—__Çevre_Kanununun_2.txt
+2024-08-15 18:41:34,781 - INFO - Extracting tables from page: 01.10.2010_—__Çevre_Kanununun_2
+2024-08-15 18:41:34,782 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2010/10/20101001-10.htm
+2024-08-15 18:41:34,782 - INFO - Saving metadata for: 01.10.2010_—__Çevre_Kanununun_2
+2024-08-15 18:41:34,782 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_01.10.2010_—__Çevre_Kanununun_2.json
+2024-08-15 18:41:34,928 - INFO - Saving summary for: 20.03.2010_—___Atıksu_Arıtma_Te
+2024-08-15 18:41:34,929 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/20.03.2010_—___Atıksu_Arıtma_Te.txt
+2024-08-15 18:41:34,929 - INFO - Extracting tables from page: 20.03.2010_—___Atıksu_Arıtma_Te
+2024-08-15 18:41:34,936 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2010/03/20100320-7.htm
+2024-08-15 18:41:34,936 - INFO - Saving metadata for: 20.03.2010_—___Atıksu_Arıtma_Te
+2024-08-15 18:41:34,936 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_20.03.2010_—___Atıksu_Arıtma_Te.json
+2024-08-15 18:41:35,036 - INFO - Saving summary for: 27.06.2009_—_____Kentsel_Atıksu
+2024-08-15 18:41:35,036 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/27.06.2009_—_____Kentsel_Atıksu.txt
+2024-08-15 18:41:35,036 - INFO - Extracting tables from page: 27.06.2009_—_____Kentsel_Atıksu
+2024-08-15 18:41:35,037 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2009/06/20090627-18.htm
+2024-08-15 18:41:35,037 - INFO - Saving metadata for: 27.06.2009_—_____Kentsel_Atıksu
+2024-08-15 18:41:35,037 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_27.06.2009_—_____Kentsel_Atıksu.json
+2024-08-15 18:41:35,186 - INFO - Saving summary for: 2008_14233_2008_14233__Kırıkkal
+2024-08-15 18:41:35,186 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2008_14233_2008_14233__Kırıkkal.txt
+2024-08-15 18:41:35,186 - INFO - Extracting tables from page: 2008_14233_2008_14233__Kırıkkal
+2024-08-15 18:41:35,189 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2008/10/20081022-2.htm
+2024-08-15 18:41:35,189 - INFO - Saving metadata for: 2008_14233_2008_14233__Kırıkkal
+2024-08-15 18:41:35,189 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2008_14233_2008_14233__Kırıkkal.json
+2024-08-15 18:41:35,311 - INFO - Saving summary for: 22.10.2008_2007_11935__İstanbul
+2024-08-15 18:41:35,311 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/22.10.2008_2007_11935__İstanbul.txt
+2024-08-15 18:41:35,311 - INFO - Extracting tables from page: 22.10.2008_2007_11935__İstanbul
+2024-08-15 18:41:35,312 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2007/04/20070421-3.htm
+2024-08-15 18:41:35,312 - INFO - Saving metadata for: 22.10.2008_2007_11935__İstanbul
+2024-08-15 18:41:35,312 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_22.10.2008_2007_11935__İstanbul.json
+2024-08-15 18:41:35,444 - INFO - Saving summary for: 2007_11935_—_Kentsel_Atıksu_Arı
+2024-08-15 18:41:35,445 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2007_11935_—_Kentsel_Atıksu_Arı.txt
+2024-08-15 18:41:35,445 - INFO - Extracting tables from page: 2007_11935_—_Kentsel_Atıksu_Arı
+2024-08-15 18:41:35,449 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2006/01/20060108-2.htm
+2024-08-15 18:41:35,449 - INFO - Saving metadata for: 2007_11935_—_Kentsel_Atıksu_Arı
+2024-08-15 18:41:35,449 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2007_11935_—_Kentsel_Atıksu_Arı.json
+2024-08-15 18:41:35,511 - INFO - Scraping process completed.
+2024-08-16 09:46:17,033 - INFO - Starting the scraping process.
+2024-08-16 09:46:17,033 - INFO - Processing keyword: Atıksu
+2024-08-16 09:46:17,033 - INFO - Creating folder structure for keyword: Atıksu
+2024-08-16 09:46:17,033 - INFO - Searching for keyword: Atıksu
+2024-08-16 09:46:35,182 - INFO - Processing page 1
+2024-08-16 09:59:37,194 - INFO - Starting the scraping process.
+2024-08-16 09:59:37,194 - INFO - Processing keyword: Atıksu
+2024-08-16 09:59:37,194 - INFO - Creating folder structure for keyword: Atıksu
+2024-08-16 09:59:37,194 - INFO - Searching for keyword: Atıksu
+2024-08-16 09:59:55,347 - INFO - Processing page 1
+2024-08-16 10:01:03,375 - INFO - Processing page 2
+2024-08-16 10:01:37,814 - ERROR - An error occurred: not enough values to unpack (expected 3, got 1). Continuing with the next iteration.
+2024-08-16 10:01:37,820 - INFO - Downloading PDF files for keyword: Atıksu
+2024-08-16 10:01:38,007 - INFO - Downloaded: 2024-06-28-—_Kahramanmaraş_Merk
+2024-08-16 10:01:38,007 - INFO - Saving metadata for: 2024-06-28-—_Kahramanmaraş_Merk
+2024-08-16 10:01:38,008 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2024-06-28-—_Kahramanmaraş_Merk.json
+2024-08-16 10:01:39,549 - INFO - Downloaded: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 10:01:39,549 - INFO - Saving metadata for: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 10:01:39,549 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2024-05-25-––_Şehir_Altyapısı_K.json
+2024-08-16 10:01:39,936 - INFO - Downloaded: 2024-01-12-––_Bursa_İli,_Mustaf
+2024-08-16 10:01:39,936 - INFO - Saving metadata for: 2024-01-12-––_Bursa_İli,_Mustaf
+2024-08-16 10:01:39,936 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2024-01-12-––_Bursa_İli,_Mustaf.json
+2024-08-16 10:01:39,936 - INFO - Saving PDF data for keyword: Atıksu
+2024-08-16 10:01:39,937 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/2024-06-28-—_Kahramanmaraş_Merk.pdf
+2024-08-16 10:01:39,939 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/2024-05-25-––_Şehir_Altyapısı_K.pdf
+2024-08-16 10:01:39,939 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/2024-01-12-––_Bursa_İli,_Mustaf.pdf
+2024-08-16 10:01:39,939 - INFO - Processing non-PDF URLs for keyword: Atıksu
+2024-08-16 10:01:40,170 - INFO - Saving summary for: 2024-03-14-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,171 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2024-03-14-––_Atıksu_Altyapı_ve.txt
+2024-08-16 10:01:40,171 - INFO - Extracting tables from page: 2024-03-14-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,171 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/03/20240314-2.htm
+2024-08-16 10:01:40,171 - INFO - Saving metadata for: 2024-03-14-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,171 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2024-03-14-––_Atıksu_Altyapı_ve.json
+2024-08-16 10:01:40,282 - INFO - Saving summary for: 2023-12-08-––_Kentsel_Atıksu_Ar
+2024-08-16 10:01:40,282 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2023-12-08-––_Kentsel_Atıksu_Ar.txt
+2024-08-16 10:01:40,282 - INFO - Extracting tables from page: 2023-12-08-––_Kentsel_Atıksu_Ar
+2024-08-16 10:01:40,283 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231208-1.htm
+2024-08-16 10:01:40,283 - INFO - Saving metadata for: 2023-12-08-––_Kentsel_Atıksu_Ar
+2024-08-16 10:01:40,283 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2023-12-08-––_Kentsel_Atıksu_Ar.json
+2024-08-16 10:01:40,387 - INFO - Saving summary for: 2023-11-11-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:40,388 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2023-11-11-––_Atıksu_Arıtma_Tes.txt
+2024-08-16 10:01:40,388 - INFO - Extracting tables from page: 2023-11-11-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:40,390 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/11/20231111-3.htm
+2024-08-16 10:01:40,390 - INFO - Saving metadata for: 2023-11-11-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:40,390 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2023-11-11-––_Atıksu_Arıtma_Tes.json
+2024-08-16 10:01:40,495 - INFO - Saving summary for: 2022-10-25-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:40,496 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2022-10-25-––_Atıksu_Arıtma_Tes.txt
+2024-08-16 10:01:40,496 - INFO - Extracting tables from page: 2022-10-25-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:40,496 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/10/20221025-11.htm
+2024-08-16 10:01:40,496 - INFO - Saving metadata for: 2022-10-25-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:40,496 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2022-10-25-––_Atıksu_Arıtma_Tes.json
+2024-08-16 10:01:40,661 - INFO - Saving summary for: 2022-07-09-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,661 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2022-07-09-––_Atıksu_Altyapı_ve.txt
+2024-08-16 10:01:40,661 - INFO - Extracting tables from page: 2022-07-09-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,661 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/07/20220709-2.htm
+2024-08-16 10:01:40,661 - INFO - Saving metadata for: 2022-07-09-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,661 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2022-07-09-––_Atıksu_Altyapı_ve.json
+2024-08-16 10:01:40,774 - INFO - Saving summary for: 2022-04-14-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,774 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2022-04-14-––_Atıksu_Altyapı_ve.txt
+2024-08-16 10:01:40,774 - INFO - Extracting tables from page: 2022-04-14-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,774 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/04/20220414-1.htm
+2024-08-16 10:01:40,774 - INFO - Saving metadata for: 2022-04-14-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,774 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2022-04-14-––_Atıksu_Altyapı_ve.json
+2024-08-16 10:01:40,882 - INFO - Saving summary for: 2021-02-02-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,882 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2021-02-02-––_Atıksu_Altyapı_ve.txt
+2024-08-16 10:01:40,882 - INFO - Extracting tables from page: 2021-02-02-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,885 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/02/20210202-1.htm
+2024-08-16 10:01:40,885 - INFO - Saving metadata for: 2021-02-02-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:40,885 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2021-02-02-––_Atıksu_Altyapı_ve.json
+2024-08-16 10:01:40,986 - INFO - Saving summary for: 2019-07-16-––_Sürekli_Atıksu_İz
+2024-08-16 10:01:40,986 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2019-07-16-––_Sürekli_Atıksu_İz.txt
+2024-08-16 10:01:40,986 - INFO - Extracting tables from page: 2019-07-16-––_Sürekli_Atıksu_İz
+2024-08-16 10:01:40,987 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/07/20190716-5.htm
+2024-08-16 10:01:40,987 - INFO - Saving metadata for: 2019-07-16-––_Sürekli_Atıksu_İz
+2024-08-16 10:01:40,987 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2019-07-16-––_Sürekli_Atıksu_İz.json
+2024-08-16 10:01:41,085 - INFO - Saving summary for: 2019-05-23-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:41,085 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2019-05-23-––_Atıksu_Arıtma_Tes.txt
+2024-08-16 10:01:41,085 - INFO - Extracting tables from page: 2019-05-23-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:41,088 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/05/20190523-21.htm
+2024-08-16 10:01:41,088 - INFO - Saving metadata for: 2019-05-23-––_Atıksu_Arıtma_Tes
+2024-08-16 10:01:41,088 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2019-05-23-––_Atıksu_Arıtma_Tes.json
+2024-08-16 10:01:41,226 - INFO - Saving summary for: 2019-02-02-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:41,226 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2019-02-02-––_Atıksu_Altyapı_ve.txt
+2024-08-16 10:01:41,227 - INFO - Extracting tables from page: 2019-02-02-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:41,228 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/02/20190202-1.htm
+2024-08-16 10:01:41,228 - INFO - Saving metadata for: 2019-02-02-––_Atıksu_Altyapı_ve
+2024-08-16 10:01:41,229 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2019-02-02-––_Atıksu_Altyapı_ve.json
+2024-08-16 10:01:41,338 - INFO - Saving summary for: 2018-05-22-––__Atıksu_Altyapı_v
+2024-08-16 10:01:41,339 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2018-05-22-––__Atıksu_Altyapı_v.txt
+2024-08-16 10:01:41,339 - INFO - Extracting tables from page: 2018-05-22-––__Atıksu_Altyapı_v
+2024-08-16 10:01:41,341 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2018/05/20180522-2.htm
+2024-08-16 10:01:41,341 - INFO - Saving metadata for: 2018-05-22-––__Atıksu_Altyapı_v
+2024-08-16 10:01:41,341 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2018-05-22-––__Atıksu_Altyapı_v.json
+2024-08-16 10:01:41,474 - INFO - Saving summary for: 2018-01-25-—___Atıksu_Altyapı_v
+2024-08-16 10:01:41,474 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2018-01-25-—___Atıksu_Altyapı_v.txt
+2024-08-16 10:01:41,474 - INFO - Extracting tables from page: 2018-01-25-—___Atıksu_Altyapı_v
+2024-08-16 10:01:41,476 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2018/01/20180125-5.htm
+2024-08-16 10:01:41,476 - INFO - Saving metadata for: 2018-01-25-—___Atıksu_Altyapı_v
+2024-08-16 10:01:41,476 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2018-01-25-—___Atıksu_Altyapı_v.json
+2024-08-16 10:01:41,533 - INFO - Scraping process completed.
+2024-08-20 12:31:30,165 - INFO - Starting the scraping process.
+2024-08-20 12:31:30,173 - INFO - Processing keyword: Atıksu
+2024-08-20 12:31:30,173 - INFO - Creating folder structure for keyword: Atıksu
+2024-08-20 12:31:30,173 - INFO - Searching for keyword: Atıksu
+2024-08-20 12:31:48,333 - INFO - Processing page 1
+2024-08-20 12:32:56,644 - INFO - Processing page 2
+2024-08-20 12:33:31,387 - ERROR - An error occurred: not enough values to unpack (expected 3, got 1). Continuing with the next iteration.
+2024-08-20 12:33:31,393 - INFO - Downloading PDF files for keyword: Atıksu
+2024-08-20 12:33:31,590 - INFO - Downloaded: 2024-06-28-—_Kahramanmaraş_Merk
+2024-08-20 12:33:31,591 - INFO - Saving metadata for: 2024-06-28-—_Kahramanmaraş_Merk
+2024-08-20 12:33:31,591 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2024-06-28-—_Kahramanmaraş_Merk.json
+2024-08-20 12:33:31,591 - INFO - Saving summary for: 2024-06-28-—_Kahramanmaraş_Merk
+2024-08-20 12:33:31,591 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2024-06-28-—_Kahramanmaraş_Merk.txt
+2024-08-20 12:33:33,007 - INFO - Downloaded: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-20 12:33:33,008 - INFO - Saving metadata for: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-20 12:33:33,008 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2024-05-25-––_Şehir_Altyapısı_K.json
+2024-08-20 12:33:33,008 - INFO - Saving summary for: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-20 12:33:33,008 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2024-05-25-––_Şehir_Altyapısı_K.txt
+2024-08-20 12:33:33,247 - INFO - Downloaded: 2024-01-12-––_Bursa_İli,_Mustaf
+2024-08-20 12:33:33,247 - INFO - Saving metadata for: 2024-01-12-––_Bursa_İli,_Mustaf
+2024-08-20 12:33:33,248 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2024-01-12-––_Bursa_İli,_Mustaf.json
+2024-08-20 12:33:33,248 - INFO - Saving summary for: 2024-01-12-––_Bursa_İli,_Mustaf
+2024-08-20 12:33:33,248 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2024-01-12-––_Bursa_İli,_Mustaf.txt
+2024-08-20 12:33:33,249 - INFO - Saving PDF data for keyword: Atıksu
+2024-08-20 12:33:33,249 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/2024-06-28-—_Kahramanmaraş_Merk.pdf
+2024-08-20 12:33:33,251 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/2024-05-25-––_Şehir_Altyapısı_K.pdf
+2024-08-20 12:33:33,252 - INFO - PDF saved to data/raw/resmigazete/Atıksu/pdf/2024-01-12-––_Bursa_İli,_Mustaf.pdf
+2024-08-20 12:33:33,252 - INFO - Processing non-PDF URLs for keyword: Atıksu
+2024-08-20 12:33:33,443 - INFO - Saving summary for: 2024-03-14-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:33,443 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2024-03-14-––_Atıksu_Altyapı_ve.txt
+2024-08-20 12:33:33,443 - INFO - Extracting tables from page: 2024-03-14-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:33,449 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/03/20240314-2.htm
+2024-08-20 12:33:33,449 - INFO - Saving metadata for: 2024-03-14-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:33,450 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2024-03-14-––_Atıksu_Altyapı_ve.json
+2024-08-20 12:33:33,631 - INFO - Saving summary for: 2023-12-08-––_Kentsel_Atıksu_Ar
+2024-08-20 12:33:33,631 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2023-12-08-––_Kentsel_Atıksu_Ar.txt
+2024-08-20 12:33:33,631 - INFO - Extracting tables from page: 2023-12-08-––_Kentsel_Atıksu_Ar
+2024-08-20 12:33:33,638 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231208-1.htm
+2024-08-20 12:33:33,638 - INFO - Saving metadata for: 2023-12-08-––_Kentsel_Atıksu_Ar
+2024-08-20 12:33:33,638 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2023-12-08-––_Kentsel_Atıksu_Ar.json
+2024-08-20 12:33:33,789 - INFO - Saving summary for: 2023-11-11-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:33,790 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2023-11-11-––_Atıksu_Arıtma_Tes.txt
+2024-08-20 12:33:33,790 - INFO - Extracting tables from page: 2023-11-11-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:33,815 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/11/20231111-3.htm
+2024-08-20 12:33:33,815 - INFO - Saving metadata for: 2023-11-11-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:33,815 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2023-11-11-––_Atıksu_Arıtma_Tes.json
+2024-08-20 12:33:34,017 - INFO - Saving summary for: 2022-10-25-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:34,017 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2022-10-25-––_Atıksu_Arıtma_Tes.txt
+2024-08-20 12:33:34,017 - INFO - Extracting tables from page: 2022-10-25-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:34,026 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/10/20221025-11.htm
+2024-08-20 12:33:34,026 - INFO - Saving metadata for: 2022-10-25-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:34,026 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2022-10-25-––_Atıksu_Arıtma_Tes.json
+2024-08-20 12:33:34,163 - INFO - Saving summary for: 2022-07-09-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,163 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2022-07-09-––_Atıksu_Altyapı_ve.txt
+2024-08-20 12:33:34,163 - INFO - Extracting tables from page: 2022-07-09-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,168 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/07/20220709-2.htm
+2024-08-20 12:33:34,168 - INFO - Saving metadata for: 2022-07-09-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,169 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2022-07-09-––_Atıksu_Altyapı_ve.json
+2024-08-20 12:33:34,348 - INFO - Saving summary for: 2022-04-14-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,348 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2022-04-14-––_Atıksu_Altyapı_ve.txt
+2024-08-20 12:33:34,348 - INFO - Extracting tables from page: 2022-04-14-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,354 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/04/20220414-1.htm
+2024-08-20 12:33:34,354 - INFO - Saving metadata for: 2022-04-14-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,355 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2022-04-14-––_Atıksu_Altyapı_ve.json
+2024-08-20 12:33:34,573 - INFO - Saving summary for: 2021-02-02-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,574 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2021-02-02-––_Atıksu_Altyapı_ve.txt
+2024-08-20 12:33:34,574 - INFO - Extracting tables from page: 2021-02-02-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,607 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/02/20210202-1.htm
+2024-08-20 12:33:34,607 - INFO - Saving metadata for: 2021-02-02-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:34,607 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2021-02-02-––_Atıksu_Altyapı_ve.json
+2024-08-20 12:33:34,749 - INFO - Saving summary for: 2019-07-16-––_Sürekli_Atıksu_İz
+2024-08-20 12:33:34,749 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2019-07-16-––_Sürekli_Atıksu_İz.txt
+2024-08-20 12:33:34,749 - INFO - Extracting tables from page: 2019-07-16-––_Sürekli_Atıksu_İz
+2024-08-20 12:33:34,763 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/07/20190716-5.htm
+2024-08-20 12:33:34,763 - INFO - Saving metadata for: 2019-07-16-––_Sürekli_Atıksu_İz
+2024-08-20 12:33:34,764 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2019-07-16-––_Sürekli_Atıksu_İz.json
+2024-08-20 12:33:34,956 - INFO - Saving summary for: 2019-05-23-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:34,956 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2019-05-23-––_Atıksu_Arıtma_Tes.txt
+2024-08-20 12:33:34,956 - INFO - Extracting tables from page: 2019-05-23-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:34,988 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/05/20190523-21.htm
+2024-08-20 12:33:34,988 - INFO - Saving metadata for: 2019-05-23-––_Atıksu_Arıtma_Tes
+2024-08-20 12:33:34,989 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2019-05-23-––_Atıksu_Arıtma_Tes.json
+2024-08-20 12:33:35,175 - INFO - Saving summary for: 2019-02-02-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:35,176 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2019-02-02-––_Atıksu_Altyapı_ve.txt
+2024-08-20 12:33:35,176 - INFO - Extracting tables from page: 2019-02-02-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:35,207 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2019/02/20190202-1.htm
+2024-08-20 12:33:35,207 - INFO - Saving metadata for: 2019-02-02-––_Atıksu_Altyapı_ve
+2024-08-20 12:33:35,207 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2019-02-02-––_Atıksu_Altyapı_ve.json
+2024-08-20 12:33:35,369 - INFO - Saving summary for: 2018-05-22-––__Atıksu_Altyapı_v
+2024-08-20 12:33:35,369 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2018-05-22-––__Atıksu_Altyapı_v.txt
+2024-08-20 12:33:35,369 - INFO - Extracting tables from page: 2018-05-22-––__Atıksu_Altyapı_v
+2024-08-20 12:33:35,400 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2018/05/20180522-2.htm
+2024-08-20 12:33:35,400 - INFO - Saving metadata for: 2018-05-22-––__Atıksu_Altyapı_v
+2024-08-20 12:33:35,400 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2018-05-22-––__Atıksu_Altyapı_v.json
+2024-08-20 12:33:35,553 - INFO - Saving summary for: 2018-01-25-—___Atıksu_Altyapı_v
+2024-08-20 12:33:35,554 - INFO - Summary saved to data/raw/resmigazete/Atıksu/text/2018-01-25-—___Atıksu_Altyapı_v.txt
+2024-08-20 12:33:35,554 - INFO - Extracting tables from page: 2018-01-25-—___Atıksu_Altyapı_v
+2024-08-20 12:33:35,578 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2018/01/20180125-5.htm
+2024-08-20 12:33:35,579 - INFO - Saving metadata for: 2018-01-25-—___Atıksu_Altyapı_v
+2024-08-20 12:33:35,579 - INFO - Metadata saved to data/raw/resmigazete/Atıksu/metadata/metadata_2018-01-25-—___Atıksu_Altyapı_v.json
+2024-08-20 12:33:35,637 - INFO - Scraping process completed.

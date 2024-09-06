@@ -1,0 +1,1230 @@
+2024-09-05 01:32:19,395 - INFO - Starting the scraping process.
+2024-09-05 01:32:19,395 - INFO - Folder structure created for Air emission.
+2024-09-05 01:32:20,113 - INFO - Retrieving URLs for keyword: Air emission
+2024-09-05 01:32:20,113 - INFO - Searching for keyword: Air emission
+2024-09-05 01:32:21,569 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:32:21,815 - INFO - Sorting by last modified date.
+2024-09-05 01:32:21,894 - INFO - Processing page number: 1
+2024-09-05 01:32:25,298 - ERROR - An error occurred while downloading https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view: Message: stale element reference: stale element not found
+  (Session info: chrome=127.0.6533.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x563615ed66ca <unknown>
+#1 0x563615ba7600 <unknown>
+#2 0x563615bb7900 <unknown>
+#3 0x563615bb823a <unknown>
+#4 0x563615badd75 <unknown>
+#5 0x563615babfd9 <unknown>
+#6 0x563615baf0b5 <unknown>
+#7 0x563615baf13c <unknown>
+#8 0x563615bf1122 <unknown>
+#9 0x563615c198a2 <unknown>
+#10 0x563615beb599 <unknown>
+#11 0x563615c19a6e <unknown>
+#12 0x563615c3804a <unknown>
+#13 0x563615c19643 <unknown>
+#14 0x563615be9d31 <unknown>
+#15 0x563615bea79e <unknown>
+#16 0x563615e9e25b <unknown>
+#17 0x563615ea21f2 <unknown>
+#18 0x563615e8b615 <unknown>
+#19 0x563615ea2d82 <unknown>
+#20 0x563615e7025f <unknown>
+#21 0x563615ec5e68 <unknown>
+#22 0x563615ec6040 <unknown>
+#23 0x563615ed549c <unknown>
+#24 0x7666da694ac3 <unknown>
+
+2024-09-05 01:32:25,298 - INFO - Downloading PDF files for keyword: Air emission
+2024-09-05 01:32:25,298 - INFO - Processing non-PDF URLs for keyword: Air emission
+2024-09-05 01:32:25,883 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA gets a role supporting the Industrial Emissions Directive.txt
+2024-09-05 01:32:25,883 - INFO - Extracting tables from page: ECHA gets a role supporting the Industrial Emissions Directive
+2024-09-05 01:32:25,883 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-gets-a-role-supporting-the-industrial-emissions-directive
+2024-09-05 01:32:25,883 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA gets a role supporting the Industrial Emissions Directive.json
+2024-09-05 01:32:26,503 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Workshop on methodologies to prioritise chemicals for prevention and control of emissions from industrial installation.txt
+2024-09-05 01:32:26,503 - INFO - Extracting tables from page: Workshop on methodologies to prioritise chemicals for prevention and control of emissions from industrial installation
+2024-09-05 01:32:26,504 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Workshop on methodologies to prioritise chemicals for prevention and control of emissions from industrial installation.json
+2024-09-05 01:32:26,504 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/workshop-on-methodologies-to-prioritise-chemicals-for-prevention-and-control-of-emissions-from-industrial-installation
+2024-09-05 01:32:26,504 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Workshop on methodologies to prioritise chemicals for prevention and control of emissions from industrial installation.json
+2024-09-05 01:32:27,019 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA identifies risks from PVC additives and microparticle releases.txt
+2024-09-05 01:32:27,020 - INFO - Extracting tables from page: ECHA identifies risks from PVC additives and microparticle releases
+2024-09-05 01:32:27,020 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-identifies-risks-from-pvc-additives-and-microparticle-releases
+2024-09-05 01:32:27,020 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA identifies risks from PVC additives and microparticle releases.json
+2024-09-05 01:32:27,535 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/EU Agencies: more work needed to make chemicals safe and sustainable.txt
+2024-09-05 01:32:27,535 - INFO - Extracting tables from page: EU Agencies: more work needed to make chemicals safe and sustainable
+2024-09-05 01:32:27,536 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/eu-agencies-more-work-needed-to-make-chemicals-safe-and-sustainable
+2024-09-05 01:32:27,536 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_EU Agencies: more work needed to make chemicals safe and sustainable.json
+2024-09-05 01:32:28,068 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Highlights from March BPC meeting.txt
+2024-09-05 01:32:28,068 - INFO - Extracting tables from page: Highlights from March BPC meeting
+2024-09-05 01:32:28,069 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/highlights-from-march-2023-bpc-meeting
+2024-09-05 01:32:28,069 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Highlights from March BPC meeting.json
+2024-09-05 01:32:28,555 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Inspectors will check classification and labelling of mixtures in products.txt
+2024-09-05 01:32:28,555 - INFO - Extracting tables from page: Inspectors will check classification and labelling of mixtures in products
+2024-09-05 01:32:28,556 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/inspectors-will-check-classification-and-labelling-of-mixtures-in-products
+2024-09-05 01:32:28,556 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Inspectors will check classification and labelling of mixtures in products.json
+2024-09-05 01:32:29,039 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/One Health: joint framework for action published by five EU agencies.txt
+2024-09-05 01:32:29,039 - INFO - Extracting tables from page: One Health: joint framework for action published by five EU agencies
+2024-09-05 01:32:29,040 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/one-health-a-joint-framework-for-action-published-by-five-eu-agencies
+2024-09-05 01:32:29,040 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_One Health: joint framework for action published by five EU agencies.json
+2024-09-05 01:32:29,637 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Research needs for protecting human health and the environment - an EU agencies perspective.txt
+2024-09-05 01:32:29,637 - INFO - Extracting tables from page: Research needs for protecting human health and the environment - an EU agencies perspective
+2024-09-05 01:32:29,640 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/research-needs-for-protecting-human-health-and-the-environment-an-eu-regulator-s-perspective
+2024-09-05 01:32:29,640 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Research needs for protecting human health and the environment - an EU agencies perspective.json
+2024-09-05 01:32:30,210 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA receives more than 5 600 comments on PFAS restriction proposal.txt
+2024-09-05 01:32:30,211 - INFO - Extracting tables from page: ECHA receives more than 5 600 comments on PFAS restriction proposal
+2024-09-05 01:32:30,211 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-receives-5-600-comments-on-pfas-restriction-proposal
+2024-09-05 01:32:30,211 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA receives more than 5 600 comments on PFAS restriction proposal.json
+2024-09-05 01:32:30,796 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 14 August 2024.txt
+2024-09-05 01:32:30,796 - INFO - Extracting tables from page: ECHA Weekly - 14 August 2024
+2024-09-05 01:32:30,802 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-weekly-14-august-2024
+2024-09-05 01:32:30,802 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 14 August 2024.json
+2024-09-05 01:32:30,866 - INFO - Scraping process completed.
+2024-09-05 01:32:35,000 - INFO - Starting the scraping process.
+2024-09-05 01:32:35,001 - INFO - Folder structure created for Environment.
+2024-09-05 01:32:35,846 - INFO - Retrieving URLs for keyword: Environment
+2024-09-05 01:32:35,846 - INFO - Searching for keyword: Environment
+2024-09-05 01:32:42,079 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:32:42,315 - INFO - Sorting by last modified date.
+2024-09-05 01:32:42,413 - INFO - Processing page number: 1
+2024-09-05 01:32:45,028 - ERROR - An error occurred while downloading https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view: Message: stale element reference: stale element not found
+  (Session info: chrome=127.0.6533.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x64213413c6ca <unknown>
+#1 0x642133e0d600 <unknown>
+#2 0x642133e1d900 <unknown>
+#3 0x642133e1e23a <unknown>
+#4 0x642133e13d75 <unknown>
+#5 0x642133e1e26b <unknown>
+#6 0x642133e13d75 <unknown>
+#7 0x642133e11fd9 <unknown>
+#8 0x642133e153a3 <unknown>
+#9 0x642133e9ef6e <unknown>
+#10 0x642133e7f8a2 <unknown>
+#11 0x642133e9e04a <unknown>
+#12 0x642133e7f643 <unknown>
+#13 0x642133e4fd31 <unknown>
+#14 0x642133e5079e <unknown>
+#15 0x64213410425b <unknown>
+#16 0x6421341081f2 <unknown>
+#17 0x6421340f1615 <unknown>
+#18 0x642134108d82 <unknown>
+#19 0x6421340d625f <unknown>
+#20 0x64213412be68 <unknown>
+#21 0x64213412c040 <unknown>
+#22 0x64213413b49c <unknown>
+#23 0x7587aec94ac3 <unknown>
+
+2024-09-05 01:32:45,029 - INFO - Downloading PDF files for keyword: Environment
+2024-09-05 01:32:45,029 - INFO - Processing non-PDF URLs for keyword: Environment
+2024-09-05 01:32:45,571 - INFO - Summary saved to data/raw/ECHA/Environment/text/Research to enhance protection of our health and environment.txt
+2024-09-05 01:32:45,572 - INFO - Extracting tables from page: Research to enhance protection of our health and environment
+2024-09-05 01:32:45,572 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/research-to-enhance-protection-of-our-health-and-environment
+2024-09-05 01:32:45,573 - INFO - Metadata saved to data/raw/ECHA/Environment/metadata/metadata_Research to enhance protection of our health and environment.json
+2024-09-05 01:32:46,138 - INFO - Summary saved to data/raw/ECHA/Environment/text/Scientific presentations - Protection of our health and environment.txt
+2024-09-05 01:32:46,138 - INFO - Extracting tables from page: Scientific presentations - Protection of our health and environment
+2024-09-05 01:32:46,139 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/scientific-presentations-and-publications
+2024-09-05 01:32:46,139 - INFO - Metadata saved to data/raw/ECHA/Environment/metadata/metadata_Scientific presentations - Protection of our health and environment.json
+2024-09-05 01:32:46,648 - INFO - Summary saved to data/raw/ECHA/Environment/text/Research to enhance protection of our health and environment - carousel.txt
+2024-09-05 01:32:46,648 - INFO - Extracting tables from page: Research to enhance protection of our health and environment - carousel
+2024-09-05 01:32:46,649 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/research-to-enhance-protection-of-our-health-and-environment
+2024-09-05 01:32:46,649 - INFO - Metadata saved to data/raw/ECHA/Environment/metadata/metadata_Research to enhance protection of our health and environment - carousel.json
+2024-09-05 01:32:46,730 - INFO - Scraping process completed.
+2024-09-05 01:32:49,925 - INFO - Starting the scraping process.
+2024-09-05 01:32:49,926 - INFO - Folder structure created for Waste disposal.
+2024-09-05 01:32:50,685 - INFO - Retrieving URLs for keyword: Waste disposal
+2024-09-05 01:32:50,685 - INFO - Searching for keyword: Waste disposal
+2024-09-05 01:32:52,090 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:32:52,325 - INFO - Sorting by last modified date.
+2024-09-05 01:32:52,409 - INFO - Processing page number: 1
+2024-09-05 01:32:54,281 - ERROR - An error occurred while downloading https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view: Message: stale element reference: stale element not found
+  (Session info: chrome=127.0.6533.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x609c92e136ca <unknown>
+#1 0x609c92ae4600 <unknown>
+#2 0x609c92af4900 <unknown>
+#3 0x609c92af523a <unknown>
+#4 0x609c92aead75 <unknown>
+#5 0x609c92af526b <unknown>
+#6 0x609c92aead75 <unknown>
+#7 0x609c92ae8fd9 <unknown>
+#8 0x609c92aec3a3 <unknown>
+#9 0x609c92b75f6e <unknown>
+#10 0x609c92b568a2 <unknown>
+#11 0x609c92b7504a <unknown>
+#12 0x609c92b56643 <unknown>
+#13 0x609c92b26d31 <unknown>
+#14 0x609c92b2779e <unknown>
+#15 0x609c92ddb25b <unknown>
+#16 0x609c92ddf1f2 <unknown>
+#17 0x609c92dc8615 <unknown>
+#18 0x609c92ddfd82 <unknown>
+#19 0x609c92dad25f <unknown>
+#20 0x609c92e02e68 <unknown>
+#21 0x609c92e03040 <unknown>
+#22 0x609c92e1249c <unknown>
+#23 0x79e5aea94ac3 <unknown>
+
+2024-09-05 01:32:54,281 - INFO - Downloading PDF files for keyword: Waste disposal
+2024-09-05 01:32:54,281 - INFO - Processing non-PDF URLs for keyword: Waste disposal
+2024-09-05 01:32:54,805 - INFO - Summary saved to data/raw/ECHA/Waste_disposal/text/ECHA identifies risks from PVC additives and microparticle releases.txt
+2024-09-05 01:32:54,805 - INFO - Extracting tables from page: ECHA identifies risks from PVC additives and microparticle releases
+2024-09-05 01:32:54,806 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-identifies-risks-from-pvc-additives-and-microparticle-releases
+2024-09-05 01:32:54,806 - INFO - Metadata saved to data/raw/ECHA/Waste_disposal/metadata/metadata_ECHA identifies risks from PVC additives and microparticle releases.json
+2024-09-05 01:32:55,313 - INFO - Summary saved to data/raw/ECHA/Waste_disposal/text/One in four substances recovered from waste non-compliant with REACH.txt
+2024-09-05 01:32:55,314 - INFO - Extracting tables from page: One in four substances recovered from waste non-compliant with REACH
+2024-09-05 01:32:55,314 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/one-in-four-substances-recovered-from-waste-non-compliant-with-reach
+2024-09-05 01:32:55,314 - INFO - Metadata saved to data/raw/ECHA/Waste_disposal/metadata/metadata_One in four substances recovered from waste non-compliant with REACH.json
+2024-09-05 01:32:55,762 - INFO - Summary saved to data/raw/ECHA/Waste_disposal/text/Understanding batteries - related.txt
+2024-09-05 01:32:55,762 - INFO - Extracting tables from page: Understanding batteries - related
+2024-09-05 01:32:55,762 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/understanding-batteries-regulation
+2024-09-05 01:32:55,763 - INFO - Metadata saved to data/raw/ECHA/Waste_disposal/metadata/metadata_Understanding batteries - related.json
+2024-09-05 01:32:55,823 - INFO - Scraping process completed.
+2024-09-05 01:33:03,898 - INFO - Starting the scraping process.
+2024-09-05 01:33:03,899 - INFO - Folder structure created for KKDİK.
+2024-09-05 01:33:04,663 - INFO - Retrieving URLs for keyword: KKDİK
+2024-09-05 01:33:04,663 - INFO - Searching for keyword: KKDİK
+2024-09-05 01:33:05,694 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:33:05,903 - INFO - Sorting by last modified date.
+2024-09-05 01:33:24,790 - INFO - Starting the scraping process.
+2024-09-05 01:33:24,791 - INFO - Folder structure created for Environment.
+2024-09-05 01:33:25,577 - INFO - Retrieving URLs for keyword: Environment
+2024-09-05 01:33:25,577 - INFO - Searching for keyword: Environment
+2024-09-05 01:33:31,894 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:33:32,137 - INFO - Sorting by last modified date.
+2024-09-05 01:33:36,755 - INFO - Processing page number: 1
+2024-09-05 01:34:35,149 - INFO - Found 0 PDF URLs and 50 non-PDF URLs.
+2024-09-05 01:34:40,565 - INFO - Processing page number: 2
+2024-09-05 01:34:42,937 - INFO - Found 0 PDF URLs and 100 non-PDF URLs.
+2024-09-05 01:35:01,403 - INFO - Processing page number: 3
+2024-09-05 01:35:02,371 - INFO - Found 0 PDF URLs and 150 non-PDF URLs.
+2024-09-05 01:35:03,718 - INFO - Processing page number: 4
+2024-09-05 01:35:04,709 - INFO - Found 0 PDF URLs and 200 non-PDF URLs.
+2024-09-05 01:35:06,230 - INFO - Processing page number: 5
+2024-09-05 01:35:07,123 - INFO - Found 0 PDF URLs and 250 non-PDF URLs.
+2024-09-05 01:35:08,330 - INFO - Processing page number: 6
+2024-09-05 01:35:09,272 - INFO - Found 0 PDF URLs and 300 non-PDF URLs.
+2024-09-05 01:35:10,804 - INFO - Processing page number: 7
+2024-09-05 01:35:11,702 - INFO - Found 0 PDF URLs and 350 non-PDF URLs.
+2024-09-05 01:35:12,871 - INFO - Processing page number: 8
+2024-09-05 01:35:13,799 - INFO - Found 0 PDF URLs and 400 non-PDF URLs.
+2024-09-05 01:35:16,090 - INFO - Processing page number: 9
+2024-09-05 01:35:17,191 - INFO - Found 0 PDF URLs and 450 non-PDF URLs.
+2024-09-05 01:35:21,755 - INFO - Processing page number: 10
+2024-09-05 01:35:22,550 - INFO - Found 0 PDF URLs and 500 non-PDF URLs.
+2024-09-05 01:35:25,170 - INFO - Processing page number: 11
+2024-09-05 01:35:26,297 - INFO - Found 0 PDF URLs and 550 non-PDF URLs.
+2024-09-05 01:35:27,529 - INFO - Processing page number: 12
+2024-09-05 01:35:28,747 - INFO - Found 0 PDF URLs and 600 non-PDF URLs.
+2024-09-05 01:35:30,937 - INFO - Processing page number: 13
+2024-09-05 01:35:31,988 - INFO - Found 0 PDF URLs and 650 non-PDF URLs.
+2024-09-05 01:35:34,798 - INFO - Processing page number: 14
+2024-09-05 01:35:35,754 - INFO - Found 0 PDF URLs and 700 non-PDF URLs.
+2024-09-05 01:37:12,924 - INFO - Starting the scraping process.
+2024-09-05 01:37:12,924 - INFO - Folder structure created for REACH.
+2024-09-05 01:37:13,772 - INFO - Retrieving URLs for keyword: REACH
+2024-09-05 01:37:13,772 - INFO - Searching for keyword: REACH
+2024-09-05 01:37:15,272 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:37:15,521 - INFO - Sorting by last modified date.
+2024-09-05 01:37:35,934 - ERROR - An error occurred while downloading https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x62c62704c6ca <unknown>
+#1 0x62c626d1d600 <unknown>
+#2 0x62c626d6cbcb <unknown>
+#3 0x62c626d6ceb1 <unknown>
+#4 0x62c626db0b24 <unknown>
+#5 0x62c626d8f8cd <unknown>
+#6 0x62c626dae04a <unknown>
+#7 0x62c626d8f643 <unknown>
+#8 0x62c626d5fd31 <unknown>
+#9 0x62c626d6079e <unknown>
+#10 0x62c62701425b <unknown>
+#11 0x62c6270181f2 <unknown>
+#12 0x62c627001615 <unknown>
+#13 0x62c627018d82 <unknown>
+#14 0x62c626fe625f <unknown>
+#15 0x62c62703be68 <unknown>
+#16 0x62c62703c040 <unknown>
+#17 0x62c62704b49c <unknown>
+#18 0x789a6ca94ac3 <unknown>
+
+2024-09-05 01:37:58,703 - INFO - Starting the scraping process.
+2024-09-05 01:37:58,703 - INFO - Folder structure created for substance very high concern (SVHC).
+2024-09-05 01:37:59,528 - INFO - Retrieving URLs for keyword: substance very high concern (SVHC)
+2024-09-05 01:37:59,528 - INFO - Searching for keyword: substance very high concern (SVHC)
+2024-09-05 01:38:01,518 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:38:01,778 - INFO - Sorting by last modified date.
+2024-09-05 01:38:01,863 - INFO - Processing page number: 1
+2024-09-05 01:38:03,769 - ERROR - An error occurred while downloading https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view: Message: stale element reference: stale element not found
+  (Session info: chrome=127.0.6533.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5931677006ca <unknown>
+#1 0x5931673d1600 <unknown>
+#2 0x5931673e1900 <unknown>
+#3 0x5931673e223a <unknown>
+#4 0x5931673d7d75 <unknown>
+#5 0x5931673d5fd9 <unknown>
+#6 0x5931673d90b5 <unknown>
+#7 0x5931673d913c <unknown>
+#8 0x59316741b122 <unknown>
+#9 0x5931674438a2 <unknown>
+#10 0x593167415599 <unknown>
+#11 0x593167443a6e <unknown>
+#12 0x59316746204a <unknown>
+#13 0x593167443643 <unknown>
+#14 0x593167413d31 <unknown>
+#15 0x59316741479e <unknown>
+#16 0x5931676c825b <unknown>
+#17 0x5931676cc1f2 <unknown>
+#18 0x5931676b5615 <unknown>
+#19 0x5931676ccd82 <unknown>
+#20 0x59316769a25f <unknown>
+#21 0x5931676efe68 <unknown>
+#22 0x5931676f0040 <unknown>
+#23 0x5931676ff49c <unknown>
+#24 0x7f4091894ac3 <unknown>
+
+2024-09-05 01:38:37,446 - INFO - Starting the scraping process.
+2024-09-05 01:38:37,446 - INFO - Folder structure created for Wastewater.
+2024-09-05 01:38:38,431 - INFO - Retrieving URLs for keyword: Wastewater
+2024-09-05 01:38:38,431 - INFO - Searching for keyword: Wastewater
+2024-09-05 01:38:39,397 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:38:39,633 - INFO - Sorting by last modified date.
+2024-09-05 01:39:00,011 - ERROR - An error occurred while downloading https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5ae3a56d86ca <unknown>
+#1 0x5ae3a53a9600 <unknown>
+#2 0x5ae3a53f8bcb <unknown>
+#3 0x5ae3a53f8eb1 <unknown>
+#4 0x5ae3a543cb24 <unknown>
+#5 0x5ae3a541b8cd <unknown>
+#6 0x5ae3a543a04a <unknown>
+#7 0x5ae3a541b643 <unknown>
+#8 0x5ae3a53ebd31 <unknown>
+#9 0x5ae3a53ec79e <unknown>
+#10 0x5ae3a56a025b <unknown>
+#11 0x5ae3a56a41f2 <unknown>
+#12 0x5ae3a568d615 <unknown>
+#13 0x5ae3a56a4d82 <unknown>
+#14 0x5ae3a567225f <unknown>
+#15 0x5ae3a56c7e68 <unknown>
+#16 0x5ae3a56c8040 <unknown>
+#17 0x5ae3a56d749c <unknown>
+#18 0x7508c5294ac3 <unknown>
+
+2024-09-05 01:39:02,167 - INFO - Downloading PDF files for keyword: Wastewater
+2024-09-05 01:39:02,167 - INFO - Processing non-PDF URLs for keyword: Wastewater
+2024-09-05 01:39:02,238 - INFO - Scraping process completed.
+2024-09-05 01:39:06,443 - INFO - Starting the scraping process.
+2024-09-05 01:39:06,443 - INFO - Folder structure created for Air emission.
+2024-09-05 01:39:07,167 - INFO - Retrieving URLs for keyword: Air emission
+2024-09-05 01:39:07,167 - INFO - Searching for keyword: Air emission
+2024-09-05 01:39:08,449 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:39:08,698 - INFO - Sorting by last modified date.
+2024-09-05 01:39:09,774 - INFO - Processing page number: 1
+2024-09-05 01:39:12,253 - INFO - Found 0 PDF URLs and 50 non-PDF URLs.
+2024-09-05 01:39:13,549 - INFO - Processing page number: 2
+2024-09-05 01:39:14,484 - INFO - Found 0 PDF URLs and 100 non-PDF URLs.
+2024-09-05 01:39:15,423 - INFO - Processing page number: 3
+2024-09-05 01:39:16,388 - INFO - Found 0 PDF URLs and 150 non-PDF URLs.
+2024-09-05 01:39:17,671 - INFO - Processing page number: 4
+2024-09-05 01:39:18,616 - INFO - Found 0 PDF URLs and 200 non-PDF URLs.
+2024-09-05 01:39:19,092 - INFO - Processing page number: 5
+2024-09-05 01:39:19,147 - INFO - Found 0 PDF URLs and 201 non-PDF URLs.
+2024-09-05 01:39:36,825 - INFO - Downloading PDF files for keyword: Air emission
+2024-09-05 01:39:36,825 - INFO - Processing non-PDF URLs for keyword: Air emission
+2024-09-05 01:39:37,425 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Links PFAS.txt
+2024-09-05 01:39:37,425 - INFO - Extracting tables from page: Links PFAS
+2024-09-05 01:39:37,436 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/hot-topics/perfluoroalkyl-chemicals-pfas
+2024-09-05 01:39:37,437 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Links PFAS.json
+2024-09-05 01:39:38,009 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 14 August 2024.txt
+2024-09-05 01:39:38,009 - INFO - Extracting tables from page: ECHA Weekly - 14 August 2024
+2024-09-05 01:39:38,102 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-weekly-14-august-2024
+2024-09-05 01:39:38,103 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 14 August 2024.json
+2024-09-05 01:39:38,624 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA gets a role supporting the Industrial Emissions Directive.txt
+2024-09-05 01:39:38,624 - INFO - Extracting tables from page: ECHA gets a role supporting the Industrial Emissions Directive
+2024-09-05 01:39:38,631 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-gets-a-role-supporting-the-industrial-emissions-directive
+2024-09-05 01:39:38,631 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA gets a role supporting the Industrial Emissions Directive.json
+2024-09-05 01:39:39,239 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Technical & Scientific Reports.txt
+2024-09-05 01:39:39,239 - INFO - Extracting tables from page: Technical & Scientific Reports
+2024-09-05 01:39:39,274 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Technical & Scientific Reports.json
+2024-09-05 01:39:39,274 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/technical-scientific-reports
+2024-09-05 01:39:39,274 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Technical & Scientific Reports.json
+2024-09-05 01:39:39,886 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Research needs for protecting human health and the environment - an EU agencies perspective.txt
+2024-09-05 01:39:39,886 - INFO - Extracting tables from page: Research needs for protecting human health and the environment - an EU agencies perspective
+2024-09-05 01:39:39,927 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/research-needs-for-protecting-human-health-and-the-environment-an-eu-regulator-s-perspective
+2024-09-05 01:39:39,928 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Research needs for protecting human health and the environment - an EU agencies perspective.json
+2024-09-05 01:39:40,437 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 19 June 2024.txt
+2024-09-05 01:39:40,437 - INFO - Extracting tables from page: ECHA Weekly - 19 June 2024
+2024-09-05 01:39:40,494 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-weekly-19-june-2024
+2024-09-05 01:39:40,495 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 19 June 2024.json
+2024-09-05 01:39:41,005 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Inspectors will check classification and labelling of mixtures in products.txt
+2024-09-05 01:39:41,005 - INFO - Extracting tables from page: Inspectors will check classification and labelling of mixtures in products
+2024-09-05 01:39:41,012 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/inspectors-will-check-classification-and-labelling-of-mixtures-in-products
+2024-09-05 01:39:41,013 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Inspectors will check classification and labelling of mixtures in products.json
+2024-09-05 01:39:41,559 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Research to enhance protection of our health and environment.txt
+2024-09-05 01:39:41,559 - INFO - Extracting tables from page: Research to enhance protection of our health and environment
+2024-09-05 01:39:41,568 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/research-to-enhance-protection-of-our-health-and-environment
+2024-09-05 01:39:41,568 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Research to enhance protection of our health and environment.json
+2024-09-05 01:39:42,507 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/European Commissions requests completed assignments.txt
+2024-09-05 01:39:42,507 - INFO - Extracting tables from page: European Commissions requests completed assignments
+2024-09-05 01:39:42,598 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/European Commissions requests completed assignments.json
+2024-09-05 01:39:42,598 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/completed-activities-on-restriction
+2024-09-05 01:39:42,599 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_European Commissions requests completed assignments.json
+2024-09-05 01:39:43,213 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 22 May 2024.txt
+2024-09-05 01:39:43,213 - INFO - Extracting tables from page: ECHA Weekly - 22 May 2024
+2024-09-05 01:39:43,275 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-weekly-22-may-2024
+2024-09-05 01:39:43,276 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 22 May 2024.json
+2024-09-05 01:39:44,380 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Guidance Biocidal Products Directive.txt
+2024-09-05 01:39:44,380 - INFO - Extracting tables from page: Guidance Biocidal Products Directive
+2024-09-05 01:39:44,395 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Guidance Biocidal Products Directive.json
+2024-09-05 01:39:44,396 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/biocidal-products-directive
+2024-09-05 01:39:44,396 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Guidance Biocidal Products Directive.json
+2024-09-05 01:39:45,288 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/EU Agencies: more work needed to make chemicals safe and sustainable.txt
+2024-09-05 01:39:45,288 - INFO - Extracting tables from page: EU Agencies: more work needed to make chemicals safe and sustainable
+2024-09-05 01:39:45,296 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/eu-agencies-more-work-needed-to-make-chemicals-safe-and-sustainable
+2024-09-05 01:39:45,297 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_EU Agencies: more work needed to make chemicals safe and sustainable.json
+2024-09-05 01:39:45,836 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/One Health: joint framework for action published by five EU agencies.txt
+2024-09-05 01:39:45,836 - INFO - Extracting tables from page: One Health: joint framework for action published by five EU agencies
+2024-09-05 01:39:45,844 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/one-health-a-joint-framework-for-action-published-by-five-eu-agencies
+2024-09-05 01:39:45,845 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_One Health: joint framework for action published by five EU agencies.json
+2024-09-05 01:39:46,451 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Biocides Stakeholders' Day.txt
+2024-09-05 01:39:46,451 - INFO - Extracting tables from page: Biocides Stakeholders' Day
+2024-09-05 01:39:46,458 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/biocides-stakeholders-d-1
+2024-09-05 01:39:46,459 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Biocides Stakeholders' Day.json
+2024-09-05 01:39:47,780 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/FEICA sector use map.txt
+2024-09-05 01:39:47,780 - INFO - Extracting tables from page: FEICA sector use map
+2024-09-05 01:39:47,843 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/FEICA sector use map.json
+2024-09-05 01:39:47,843 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/csr-es-roadmap/use-maps/use-maps-library
+2024-09-05 01:39:47,843 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_FEICA sector use map.json
+2024-09-05 01:39:48,506 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/EuPC use map template.txt
+2024-09-05 01:39:48,506 - INFO - Extracting tables from page: EuPC use map template
+2024-09-05 01:39:48,580 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/EuPC use map template.json
+2024-09-05 01:39:48,580 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/csr-es-roadmap/use-maps/use-maps-library
+2024-09-05 01:39:48,581 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_EuPC use map template.json
+2024-09-05 01:39:49,213 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Assess, compare and select - tabs.txt
+2024-09-05 01:39:49,213 - INFO - Extracting tables from page: Assess, compare and select - tabs
+2024-09-05 01:39:49,221 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/assess-compare-and-select-alternatives
+2024-09-05 01:39:49,221 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Assess, compare and select - tabs.json
+2024-09-05 01:39:49,822 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA adds five hazardous chemicals to the Candidate List.txt
+2024-09-05 01:39:49,823 - INFO - Extracting tables from page: ECHA adds five hazardous chemicals to the Candidate List
+2024-09-05 01:39:49,834 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/ECHA adds five hazardous chemicals to the Candidate List.json
+2024-09-05 01:39:49,834 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-adds-five-hazardous-chemicals-to-the-candidate-list
+2024-09-05 01:39:49,834 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA adds five hazardous chemicals to the Candidate List.json
+2024-09-05 01:39:50,520 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/CMD-CAD - understanding.txt
+2024-09-05 01:39:50,520 - INFO - Extracting tables from page: CMD-CAD - understanding
+2024-09-05 01:39:50,527 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/understanding-cad-and-cmd
+2024-09-05 01:39:50,528 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_CMD-CAD - understanding.json
+2024-09-05 01:39:51,454 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Hot topics - microplastics.txt
+2024-09-05 01:39:51,454 - INFO - Extracting tables from page: Hot topics - microplastics
+2024-09-05 01:39:51,468 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Hot topics - microplastics.json
+2024-09-05 01:39:51,468 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/hot-topics/microplastics
+2024-09-05 01:39:51,469 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Hot topics - microplastics.json
+2024-09-05 01:39:52,072 - ERROR - Error processing https://echa.europa.eu/management-of-pbt-vpvb-substances: [Errno 2] No such file or directory: 'data/raw/ECHA/Air_emission/text/Management of PBT/vPvB substances - related links.txt'
+2024-09-05 01:39:52,604 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA identifies risks from PVC additives and microparticle releases.txt
+2024-09-05 01:39:52,604 - INFO - Extracting tables from page: ECHA identifies risks from PVC additives and microparticle releases
+2024-09-05 01:39:52,611 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-identifies-risks-from-pvc-additives-and-microparticle-releases
+2024-09-05 01:39:52,612 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA identifies risks from PVC additives and microparticle releases.json
+2024-09-05 01:39:53,212 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA’s Risk Assessment Committee: banning secondary uses of creosote-treated wood necessary.txt
+2024-09-05 01:39:53,212 - INFO - Extracting tables from page: ECHA’s Risk Assessment Committee: banning secondary uses of creosote-treated wood necessary
+2024-09-05 01:39:53,220 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-s-risk-assessment-committee-banning-secondary-uses-of-creosote-treated-wood-necessary
+2024-09-05 01:39:53,221 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA’s Risk Assessment Committee: banning secondary uses of creosote-treated wood necessary.json
+2024-09-05 01:39:53,809 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA receives more than 5 600 comments on PFAS restriction proposal.txt
+2024-09-05 01:39:53,809 - INFO - Extracting tables from page: ECHA receives more than 5 600 comments on PFAS restriction proposal
+2024-09-05 01:39:53,817 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-receives-5-600-comments-on-pfas-restriction-proposal
+2024-09-05 01:39:53,817 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA receives more than 5 600 comments on PFAS restriction proposal.json
+2024-09-05 01:39:54,414 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA’s committees: EU-wide PFAS ban in firefighting foams warranted.txt
+2024-09-05 01:39:54,414 - INFO - Extracting tables from page: ECHA’s committees: EU-wide PFAS ban in firefighting foams warranted
+2024-09-05 01:39:54,421 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-s-committees-eu-wide-pfas-ban-in-firefighting-foams-warranted
+2024-09-05 01:39:54,422 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA’s committees: EU-wide PFAS ban in firefighting foams warranted.json
+2024-09-05 01:39:55,046 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA’s Risk Assessment Committee backs PFAS ban in firefighting foams.txt
+2024-09-05 01:39:55,047 - INFO - Extracting tables from page: ECHA’s Risk Assessment Committee backs PFAS ban in firefighting foams
+2024-09-05 01:39:55,054 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-s-risk-assessment-committee-backs-pfas-ban-in-firefighting-foams
+2024-09-05 01:39:55,055 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA’s Risk Assessment Committee backs PFAS ban in firefighting foams.json
+2024-09-05 01:39:55,646 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA publishes PFAS restriction proposal.txt
+2024-09-05 01:39:55,646 - INFO - Extracting tables from page: ECHA publishes PFAS restriction proposal
+2024-09-05 01:39:55,654 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-publishes-pfas-restriction-proposal
+2024-09-05 01:39:55,654 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA publishes PFAS restriction proposal.json
+2024-09-05 01:39:56,245 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Highlights from March BPC meeting.txt
+2024-09-05 01:39:56,245 - INFO - Extracting tables from page: Highlights from March BPC meeting
+2024-09-05 01:39:56,252 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/highlights-from-march-2023-bpc-meeting
+2024-09-05 01:39:56,253 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Highlights from March BPC meeting.json
+2024-09-05 01:39:56,924 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Despite limited information on nanomaterials in waste, existing data is valuable for waste operators.txt
+2024-09-05 01:39:56,924 - INFO - Extracting tables from page: Despite limited information on nanomaterials in waste, existing data is valuable for waste operators
+2024-09-05 01:39:56,933 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/despite-limited-information-on-nano-waste-existing-data-is-valuable-for-waste-operators
+2024-09-05 01:39:56,933 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Despite limited information on nanomaterials in waste, existing data is valuable for waste operators.json
+2024-09-05 01:39:57,547 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Proposal to ban ‘forever chemicals’ in firefighting foams throughout the EU.txt
+2024-09-05 01:39:57,547 - INFO - Extracting tables from page: Proposal to ban ‘forever chemicals’ in firefighting foams throughout the EU
+2024-09-05 01:39:57,555 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/proposal-to-ban-forever-chemicals-in-firefighting-foams-throughout-the-eu
+2024-09-05 01:39:57,555 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Proposal to ban ‘forever chemicals’ in firefighting foams throughout the EU.json
+2024-09-05 01:39:58,205 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Highlights from March RAC and SEAC meetings.txt
+2024-09-05 01:39:58,205 - INFO - Extracting tables from page: Highlights from March RAC and SEAC meetings
+2024-09-05 01:39:58,213 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/highlights-from-march-rac-and-seac-meetings
+2024-09-05 01:39:58,213 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Highlights from March RAC and SEAC meetings.json
+2024-09-05 01:39:59,108 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/RAC backs restricting lead in outdoor shooting and fishing.txt
+2024-09-05 01:39:59,108 - INFO - Extracting tables from page: RAC backs restricting lead in outdoor shooting and fishing
+2024-09-05 01:39:59,115 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/rac-backs-restricting-lead-in-outdoor-shooting-and-fishing
+2024-09-05 01:39:59,116 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_RAC backs restricting lead in outdoor shooting and fishing.json
+2024-09-05 01:39:59,711 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Lead in outdoor shooting and fishing: SEAC agrees draft opinion.txt
+2024-09-05 01:39:59,711 - INFO - Extracting tables from page: Lead in outdoor shooting and fishing: SEAC agrees draft opinion
+2024-09-05 01:39:59,718 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/lead-in-outdoor-shooting-and-fishing-seac-agrees-draft-opinion
+2024-09-05 01:39:59,719 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Lead in outdoor shooting and fishing: SEAC agrees draft opinion.json
+2024-09-05 01:40:00,358 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Cancer-causing PAHs in clay targets need an EU-wide ban.txt
+2024-09-05 01:40:00,358 - INFO - Extracting tables from page: Cancer-causing PAHs in clay targets need an EU-wide ban
+2024-09-05 01:40:00,365 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/cancer-causing-pahs-in-clay-targets-need-an-eu-wide-ban
+2024-09-05 01:40:00,366 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Cancer-causing PAHs in clay targets need an EU-wide ban.json
+2024-09-05 01:40:01,015 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA’s scientific committees support limiting lead use for outdoor shooting and fishing.txt
+2024-09-05 01:40:01,015 - INFO - Extracting tables from page: ECHA’s scientific committees support limiting lead use for outdoor shooting and fishing
+2024-09-05 01:40:01,022 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-s-scientific-committees-support-limiting-lead-use-for-outdoor-shooting-and-fishing
+2024-09-05 01:40:01,023 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA’s scientific committees support limiting lead use for outdoor shooting and fishing.json
+2024-09-05 01:40:01,630 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Exports of hazardous chemicals increase while imports continue to decrease.txt
+2024-09-05 01:40:01,630 - INFO - Extracting tables from page: Exports of hazardous chemicals increase while imports continue to decrease
+2024-09-05 01:40:01,640 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Exports of hazardous chemicals increase while imports continue to decrease.json
+2024-09-05 01:40:01,641 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/exports-of-hazardous-chemicals-increase-while-imports-continue-to-decrease
+2024-09-05 01:40:01,641 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Exports of hazardous chemicals increase while imports continue to decrease.json
+2024-09-05 01:40:02,238 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Scientific committees support further restrictions of PFAS.txt
+2024-09-05 01:40:02,239 - INFO - Extracting tables from page: Scientific committees support further restrictions of PFAS
+2024-09-05 01:40:02,246 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/scientific-committees-support-further-restrictions-of-pfas
+2024-09-05 01:40:02,247 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Scientific committees support further restrictions of PFAS.json
+2024-09-05 01:40:02,852 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Highlights from June BPC meeting.txt
+2024-09-05 01:40:02,852 - INFO - Extracting tables from page: Highlights from June BPC meeting
+2024-09-05 01:40:02,859 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/highlights-from-june-bpc-meeting
+2024-09-05 01:40:02,860 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Highlights from June BPC meeting.json
+2024-09-05 01:40:03,481 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Highlights from June RAC and SEAC meetings.txt
+2024-09-05 01:40:03,481 - INFO - Extracting tables from page: Highlights from June RAC and SEAC meetings
+2024-09-05 01:40:03,489 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/highlights-from-june-rac-and-seac-meetings
+2024-09-05 01:40:03,489 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Highlights from June RAC and SEAC meetings.json
+2024-09-05 01:40:04,287 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Restricting hazardous chemicals protects millions of Europeans from serious diseases.txt
+2024-09-05 01:40:04,288 - INFO - Extracting tables from page: Restricting hazardous chemicals protects millions of Europeans from serious diseases
+2024-09-05 01:40:04,295 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/restricting-hazardous-chemicals-protects-millions-of-europeans-from-serious-diseases
+2024-09-05 01:40:04,296 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Restricting hazardous chemicals protects millions of Europeans from serious diseases.json
+2024-09-05 01:40:04,948 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/REACH authorisation has positive health and environmental impacts.txt
+2024-09-05 01:40:04,949 - INFO - Extracting tables from page: REACH authorisation has positive health and environmental impacts
+2024-09-05 01:40:04,956 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/reach-authorisation-has-positive-health-and-environmental-impacts
+2024-09-05 01:40:04,956 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_REACH authorisation has positive health and environmental impacts.json
+2024-09-05 01:40:05,585 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Risks from chemicals in baby diapers not demonstrated.txt
+2024-09-05 01:40:05,585 - INFO - Extracting tables from page: Risks from chemicals in baby diapers not demonstrated
+2024-09-05 01:40:05,593 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/risks-from-chemicals-in-baby-diapers-not-demonstrated
+2024-09-05 01:40:05,593 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Risks from chemicals in baby diapers not demonstrated.json
+2024-09-05 01:40:06,224 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Towards sustainable outdoor shooting and fishing – ECHA proposes restrictions on lead use.txt
+2024-09-05 01:40:06,224 - INFO - Extracting tables from page: Towards sustainable outdoor shooting and fishing – ECHA proposes restrictions on lead use
+2024-09-05 01:40:06,233 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/towards-sustainable-outdoor-shooting-and-fishing-echa-proposes-restrictions-on-lead-use
+2024-09-05 01:40:06,234 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Towards sustainable outdoor shooting and fishing – ECHA proposes restrictions on lead use.json
+2024-09-05 01:40:06,891 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Working on the world’s broadest restriction of intentional uses of microplastics.txt
+2024-09-05 01:40:06,891 - INFO - Extracting tables from page: Working on the world’s broadest restriction of intentional uses of microplastics
+2024-09-05 01:40:06,900 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/working-on-the-world-s-broadest-restriction-of-intentional-uses-of-microplastics
+2024-09-05 01:40:06,900 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Working on the world’s broadest restriction of intentional uses of microplastics.json
+2024-09-05 01:40:07,524 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Restriction and authorisation found to drive replacement of harmful chemicals.txt
+2024-09-05 01:40:07,524 - INFO - Extracting tables from page: Restriction and authorisation found to drive replacement of harmful chemicals
+2024-09-05 01:40:07,532 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/restriction-and-authorisation-found-to-drive-replacement-of-harmful-chemicals
+2024-09-05 01:40:07,533 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Restriction and authorisation found to drive replacement of harmful chemicals.json
+2024-09-05 01:40:08,144 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/RAC backs restricting intentional uses of microplastics.txt
+2024-09-05 01:40:08,145 - INFO - Extracting tables from page: RAC backs restricting intentional uses of microplastics
+2024-09-05 01:40:08,153 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/rac-backs-restricting-intentional-uses-of-microplastics
+2024-09-05 01:40:08,153 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_RAC backs restricting intentional uses of microplastics.json
+2024-09-05 01:40:08,766 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA’s committees recommend restricting a subgroup of PFAS.txt
+2024-09-05 01:40:08,766 - INFO - Extracting tables from page: ECHA’s committees recommend restricting a subgroup of PFAS
+2024-09-05 01:40:08,777 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-s-committees-recommend-restricting-a-subgroup-of-pfas
+2024-09-05 01:40:08,778 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA’s committees recommend restricting a subgroup of PFAS.json
+2024-09-05 01:40:09,395 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Track legal obligations with the new EU Chemicals Legislation Finder.txt
+2024-09-05 01:40:09,395 - INFO - Extracting tables from page: Track legal obligations with the new EU Chemicals Legislation Finder
+2024-09-05 01:40:09,403 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/track-legal-obligations-with-the-new-eu-chemicals-legislation-finder
+2024-09-05 01:40:09,404 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Track legal obligations with the new EU Chemicals Legislation Finder.json
+2024-09-05 01:40:10,087 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/44 % of hazardous mixtures not compliant with classification and labelling obligations.txt
+2024-09-05 01:40:10,088 - INFO - Extracting tables from page: 44 % of hazardous mixtures not compliant with classification and labelling obligations
+2024-09-05 01:40:10,097 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/44-of-hazardous-mixtures-not-compliant-with-classification-and-labelling-obligations
+2024-09-05 01:40:10,098 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_44 % of hazardous mixtures not compliant with classification and labelling obligations.json
+2024-09-05 01:40:10,713 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/New version of EUSES tool helps companies assess biocides.txt
+2024-09-05 01:40:10,713 - INFO - Extracting tables from page: New version of EUSES tool helps companies assess biocides
+2024-09-05 01:40:10,720 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/new-version-of-the-euses-tool-helps-companies-assess-biocides
+2024-09-05 01:40:10,721 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_New version of EUSES tool helps companies assess biocides.json
+2024-09-05 01:40:11,406 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Restriction proposal for intentionally added microplastics in the EU – update.txt
+2024-09-05 01:40:11,407 - INFO - Extracting tables from page: Restriction proposal for intentionally added microplastics in the EU – update
+2024-09-05 01:40:11,414 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/restriction-proposal-for-intentionally-added-microplastics-in-the-eu-update
+2024-09-05 01:40:11,415 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Restriction proposal for intentionally added microplastics in the EU – update.json
+2024-09-05 01:40:12,039 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA proposes to restrict intentionally added microplastics.txt
+2024-09-05 01:40:12,040 - INFO - Extracting tables from page: ECHA proposes to restrict intentionally added microplastics
+2024-09-05 01:40:12,047 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-proposes-to-restrict-intentionally-added-microplastics
+2024-09-05 01:40:12,048 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA proposes to restrict intentionally added microplastics.json
+2024-09-05 01:40:12,687 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/RAC recommends an occupational exposure limit for benzene.txt
+2024-09-05 01:40:12,687 - INFO - Extracting tables from page: RAC recommends an occupational exposure limit for benzene
+2024-09-05 01:40:12,694 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/committee-for-risk-assessment-recommends-an-occupational-exposure-limit-for-benzene
+2024-09-05 01:40:12,695 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_RAC recommends an occupational exposure limit for benzene.json
+2024-09-05 01:40:13,297 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA evaluating whether recycled rubber filling on artificial sports grounds poses a health risk.txt
+2024-09-05 01:40:13,297 - INFO - Extracting tables from page: ECHA evaluating whether recycled rubber filling on artificial sports grounds poses a health risk
+2024-09-05 01:40:13,306 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-evaluating-whether-recycled-rubber-filling-on-artificial-sports-grounds-poses-a-health-risk
+2024-09-05 01:40:13,307 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA evaluating whether recycled rubber filling on artificial sports grounds poses a health risk.json
+2024-09-05 01:40:13,920 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Does your biocidal product now fall under the scope of the Biocidal Products Regulation?.txt
+2024-09-05 01:40:13,920 - INFO - Extracting tables from page: Does your biocidal product now fall under the scope of the Biocidal Products Regulation?
+2024-09-05 01:40:13,928 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/does-your-biocidal-product-now-fall-under-the-scope-of-the-biocidal-products-regulation-
+2024-09-05 01:40:13,928 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Does your biocidal product now fall under the scope of the Biocidal Products Regulation?.json
+2024-09-05 01:40:14,553 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/New tools available to estimate environmental emissions of biocides.txt
+2024-09-05 01:40:14,553 - INFO - Extracting tables from page: New tools available to estimate environmental emissions of biocides
+2024-09-05 01:40:14,560 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/new-tools-available-to-estimate-environmental-emissions-of-biocides
+2024-09-05 01:40:14,561 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_New tools available to estimate environmental emissions of biocides.json
+2024-09-05 01:40:15,197 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/SEAC concludes on two restriction proposals and agrees on two draft opinions on applications for authorisation.txt
+2024-09-05 01:40:15,198 - INFO - Extracting tables from page: SEAC concludes on two restriction proposals and agrees on two draft opinions on applications for authorisation
+2024-09-05 01:40:15,206 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/seac-concludes-on-two-restriction-proposals-and-agrees-on-two-draft-opinions-on-applications-for-authorisation
+2024-09-05 01:40:15,206 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_SEAC concludes on two restriction proposals and agrees on two draft opinions on applications for authorisation.json
+2024-09-05 01:40:15,744 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/RAC delivers sixteen CLH opinions.txt
+2024-09-05 01:40:15,744 - INFO - Extracting tables from page: RAC delivers sixteen CLH opinions
+2024-09-05 01:40:15,752 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/rac-delivers-sixteen-clh-opinions
+2024-09-05 01:40:15,753 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_RAC delivers sixteen CLH opinions.json
+2024-09-05 01:40:16,292 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/First MSC agreements on substance evaluation.txt
+2024-09-05 01:40:16,292 - INFO - Extracting tables from page: First MSC agreements on substance evaluation
+2024-09-05 01:40:16,301 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/first-msc-agreements-on-substance-evaluation
+2024-09-05 01:40:16,302 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_First MSC agreements on substance evaluation.json
+2024-09-05 01:40:16,861 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/RAC concludes nine scientific opinions.txt
+2024-09-05 01:40:16,861 - INFO - Extracting tables from page: RAC concludes nine scientific opinions
+2024-09-05 01:40:16,869 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/rac-concludes-nine-scientific-opinions
+2024-09-05 01:40:16,870 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_RAC concludes nine scientific opinions.json
+2024-09-05 01:40:17,427 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/SEAC concludes on scientific opinions for two restriction proposals.txt
+2024-09-05 01:40:17,427 - INFO - Extracting tables from page: SEAC concludes on scientific opinions for two restriction proposals
+2024-09-05 01:40:17,434 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/seac-concludes-on-scientific-opinions-for-two-restriction-proposa-1
+2024-09-05 01:40:17,434 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_SEAC concludes on scientific opinions for two restriction proposals.json
+2024-09-05 01:40:18,098 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/SEAC concludes its scientific opinion for a restriction proposal on 1,4-dichlorobenzene in air fresheners and toilet blocks.txt
+2024-09-05 01:40:18,098 - INFO - Extracting tables from page: SEAC concludes its scientific opinion for a restriction proposal on 1,4-dichlorobenzene in air fresheners and toilet blocks
+2024-09-05 01:40:18,105 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/seac-concludes-its-scientific-opinion-for-a-restriction-proposal-on-1-4-dichlorobenzene-in-air-fresheners-and-toilet-blocks
+2024-09-05 01:40:18,105 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_SEAC concludes its scientific opinion for a restriction proposal on 1,4-dichlorobenzene in air fresheners and toilet blocks.json
+2024-09-05 01:40:18,706 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Public consultation on SEAC's draft opinion on a restriction proposal for 1,4-dichlorobenzene in air fresheners and toilet blocks.txt
+2024-09-05 01:40:18,707 - INFO - Extracting tables from page: Public consultation on SEAC's draft opinion on a restriction proposal for 1,4-dichlorobenzene in air fresheners and toilet blocks
+2024-09-05 01:40:18,714 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/public-consultation-on-seacs-draft-opinion-on-a-restriction-proposal-for-1_4-dichlorobenzene-in-air-fresheners-and-toilet-blocks
+2024-09-05 01:40:18,715 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Public consultation on SEAC's draft opinion on a restriction proposal for 1,4-dichlorobenzene in air fresheners and toilet blocks.json
+2024-09-05 01:40:19,344 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/New CLH public consultations launched on 11 proposals.txt
+2024-09-05 01:40:19,344 - INFO - Extracting tables from page: New CLH public consultations launched on 11 proposals
+2024-09-05 01:40:19,361 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/New CLH public consultations launched on 11 proposals.json
+2024-09-05 01:40:19,361 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/new-clh-public-consultations-launched-on-11-proposals
+2024-09-05 01:40:19,362 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_New CLH public consultations launched on 11 proposals.json
+2024-09-05 01:40:19,954 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Workshop on methodologies to prioritise chemicals for prevention and control of emissions from industrial installation.txt
+2024-09-05 01:40:19,954 - INFO - Extracting tables from page: Workshop on methodologies to prioritise chemicals for prevention and control of emissions from industrial installation
+2024-09-05 01:40:19,967 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Workshop on methodologies to prioritise chemicals for prevention and control of emissions from industrial installation.json
+2024-09-05 01:40:19,967 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/workshop-on-methodologies-to-prioritise-chemicals-for-prevention-and-control-of-emissions-from-industrial-installation
+2024-09-05 01:40:19,967 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Workshop on methodologies to prioritise chemicals for prevention and control of emissions from industrial installation.json
+2024-09-05 01:40:20,632 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Workshop on implications of use of trivalent chromium in functional plating with decorative character.txt
+2024-09-05 01:40:20,632 - INFO - Extracting tables from page: Workshop on implications of use of trivalent chromium in functional plating with decorative character
+2024-09-05 01:40:20,648 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/workshop-on-implications-of-use-of-trivalent-chromium-in-functional-plating-with-decorative-character
+2024-09-05 01:40:20,649 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Workshop on implications of use of trivalent chromium in functional plating with decorative character.json
+2024-09-05 01:40:21,273 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Consultation on the proposed restriction of PFHxA.txt
+2024-09-05 01:40:21,273 - INFO - Extracting tables from page: Consultation on the proposed restriction of PFHxA
+2024-09-05 01:40:21,279 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/public-consultation-on-the-proposed-restriction-of-pfhxa
+2024-09-05 01:40:21,280 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Consultation on the proposed restriction of PFHxA.json
+2024-09-05 01:40:21,912 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/New features of EUSES 2.2.0.txt
+2024-09-05 01:40:21,912 - INFO - Extracting tables from page: New features of EUSES 2.2.0
+2024-09-05 01:40:21,923 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/new-features-of-euses-2-2-0
+2024-09-05 01:40:21,923 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_New features of EUSES 2.2.0.json
+2024-09-05 01:40:22,582 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Substitution data - authorisation.txt
+2024-09-05 01:40:22,582 - INFO - Extracting tables from page: Substitution data - authorisation
+2024-09-05 01:40:22,591 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/data-to-prevent-regrettable-substitution
+2024-09-05 01:40:22,591 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Substitution data - authorisation.json
+2024-09-05 01:40:23,319 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Support by ECHA Accredited Stakeholders - list.txt
+2024-09-05 01:40:23,319 - INFO - Extracting tables from page: Support by ECHA Accredited Stakeholders - list
+2024-09-05 01:40:23,328 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/about-us/partners-and-networks/stakeholders/accredited-stakeholder-organisations/support-by-echa-accredited-stakeholders
+2024-09-05 01:40:23,329 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Support by ECHA Accredited Stakeholders - list.json
+2024-09-05 01:40:23,996 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Reduced information requirements - how to check the benefits.txt
+2024-09-05 01:40:23,996 - INFO - Extracting tables from page: Reduced information requirements - how to check the benefits
+2024-09-05 01:40:24,006 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/support/registration/what-information-you-need/reduced-information-requirements
+2024-09-05 01:40:24,006 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Reduced information requirements - how to check the benefits.json
+2024-09-05 01:40:24,845 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Lead in shot, bullets and fishing weights.txt
+2024-09-05 01:40:24,845 - INFO - Extracting tables from page: Lead in shot, bullets and fishing weights
+2024-09-05 01:40:24,860 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Lead in shot, bullets and fishing weights.json
+2024-09-05 01:40:24,860 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/hot-topics/lead-in-shot-bullets-and-fishing-weights
+2024-09-05 01:40:24,861 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Lead in shot, bullets and fishing weights.json
+2024-09-05 01:40:25,540 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Occupational exposure limits.txt
+2024-09-05 01:40:25,540 - INFO - Extracting tables from page: Occupational exposure limits
+2024-09-05 01:40:25,548 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/oel
+2024-09-05 01:40:25,548 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Occupational exposure limits.json
+2024-09-05 01:40:26,172 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 7 December 2022.txt
+2024-09-05 01:40:26,172 - INFO - Extracting tables from page: ECHA Weekly - 7 December 2022
+2024-09-05 01:40:26,396 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/9109026-235
+2024-09-05 01:40:26,396 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 7 December 2022.json
+2024-09-05 01:40:27,140 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Lead in shot, bullets and fishing weights - lead text.txt
+2024-09-05 01:40:27,140 - INFO - Extracting tables from page: Lead in shot, bullets and fishing weights - lead text
+2024-09-05 01:40:27,155 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Lead in shot, bullets and fishing weights - lead text.json
+2024-09-05 01:40:27,155 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/hot-topics/lead-in-shot-bullets-and-fishing-weights
+2024-09-05 01:40:27,155 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Lead in shot, bullets and fishing weights - lead text.json
+2024-09-05 01:40:28,039 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Annual report 2021 - Key achievements.txt
+2024-09-05 01:40:28,039 - INFO - Extracting tables from page: Annual report 2021 - Key achievements
+2024-09-05 01:40:28,049 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/annual-report-2021
+2024-09-05 01:40:28,049 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Annual report 2021 - Key achievements.json
+2024-09-05 01:40:28,542 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Megamenu - support.txt
+2024-09-05 01:40:28,542 - INFO - Extracting tables from page: Megamenu - support
+2024-09-05 01:40:28,550 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/megamenu-support
+2024-09-05 01:40:28,550 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Megamenu - support.json
+2024-09-05 01:40:29,216 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/See also - pops planning and reporting.txt
+2024-09-05 01:40:29,216 - INFO - Extracting tables from page: See also - pops planning and reporting
+2024-09-05 01:40:29,223 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/planning-and-reporting
+2024-09-05 01:40:29,224 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_See also - pops planning and reporting.json
+2024-09-05 01:40:29,706 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Chemicals Strategy for Sustainability - intro.txt
+2024-09-05 01:40:29,706 - INFO - Extracting tables from page: Chemicals Strategy for Sustainability - intro
+2024-09-05 01:40:29,715 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/hot-topics/chemicals-strategy-for-sustainability
+2024-09-05 01:40:29,715 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Chemicals Strategy for Sustainability - intro.json
+2024-09-05 01:40:30,688 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 21.txt
+2024-09-05 01:40:30,689 - INFO - Extracting tables from page: ESD Product Types 21
+2024-09-05 01:40:30,703 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:40:30,704 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 21.json
+2024-09-05 01:40:31,349 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 22.txt
+2024-09-05 01:40:31,349 - INFO - Extracting tables from page: ESD Product Types 22
+2024-09-05 01:40:31,364 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:40:31,365 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 22.json
+2024-09-05 01:40:31,878 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1917.txt
+2024-09-05 01:40:31,879 - INFO - Extracting tables from page: QA1917
+2024-09-05 01:40:31,888 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/1917
+2024-09-05 01:40:31,889 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1917.json
+2024-09-05 01:40:35,684 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Understanding POPs.txt
+2024-09-05 01:40:35,684 - INFO - Extracting tables from page: Understanding POPs
+2024-09-05 01:40:35,691 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/understanding-pops
+2024-09-05 01:40:35,692 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Understanding POPs.json
+2024-09-05 01:40:36,346 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 23 March 2022.txt
+2024-09-05 01:40:36,346 - INFO - Extracting tables from page: ECHA Weekly - 23 March 2022
+2024-09-05 01:40:36,741 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/9109026-145
+2024-09-05 01:40:36,742 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 23 March 2022.json
+2024-09-05 01:40:37,702 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 18.txt
+2024-09-05 01:40:37,702 - INFO - Extracting tables from page: ESD Product Types 18
+2024-09-05 01:40:37,717 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:40:37,718 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 18.json
+2024-09-05 01:40:38,367 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 3.txt
+2024-09-05 01:40:38,367 - INFO - Extracting tables from page: ESD Product Types 3
+2024-09-05 01:40:38,381 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:40:38,382 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 3.json
+2024-09-05 01:40:39,110 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Phtalates second.txt
+2024-09-05 01:40:39,110 - INFO - Extracting tables from page: Phtalates second
+2024-09-05 01:40:39,118 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/hot-topics/phthalates
+2024-09-05 01:40:39,119 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Phtalates second.json
+2024-09-05 01:40:39,695 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1858.txt
+2024-09-05 01:40:39,695 - INFO - Extracting tables from page: QA1858
+2024-09-05 01:40:39,704 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1858
+2024-09-05 01:40:39,704 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1858.json
+2024-09-05 01:40:40,308 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 8 September 2021.txt
+2024-09-05 01:40:40,308 - INFO - Extracting tables from page: ECHA Weekly - 8 September 2021
+2024-09-05 01:40:40,547 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/9109026-45
+2024-09-05 01:40:40,548 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 8 September 2021.json
+2024-09-05 01:40:41,143 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 1 September 2021.txt
+2024-09-05 01:40:41,144 - INFO - Extracting tables from page: ECHA Weekly - 1 September 2021
+2024-09-05 01:40:41,345 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/9109026-44
+2024-09-05 01:40:41,346 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 1 September 2021.json
+2024-09-05 01:40:42,038 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 7 July 2021.txt
+2024-09-05 01:40:42,038 - INFO - Extracting tables from page: ECHA Weekly - 7 July 2021
+2024-09-05 01:40:42,336 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-7-july-2021
+2024-09-05 01:40:42,336 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 7 July 2021.json
+2024-09-05 01:40:43,016 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 14 July 2021.txt
+2024-09-05 01:40:43,016 - INFO - Extracting tables from page: ECHA Weekly - 14 July 2021
+2024-09-05 01:40:43,189 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-14-july-2021
+2024-09-05 01:40:43,190 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 14 July 2021.json
+2024-09-05 01:40:43,804 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Lead in shot, bullets and fishing tackle.txt
+2024-09-05 01:40:43,804 - INFO - Extracting tables from page: Lead in shot, bullets and fishing tackle
+2024-09-05 01:40:43,817 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/lead-in-shot-bullets-and-fishing-weights
+2024-09-05 01:40:43,817 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Lead in shot, bullets and fishing tackle.json
+2024-09-05 01:40:44,779 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Executive summary 2020.txt
+2024-09-05 01:40:44,780 - INFO - Extracting tables from page: Executive summary 2020
+2024-09-05 01:40:44,789 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/annual-report-2020
+2024-09-05 01:40:44,789 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Executive summary 2020.json
+2024-09-05 01:40:45,360 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Chemicals strategy for sustainability.txt
+2024-09-05 01:40:45,360 - INFO - Extracting tables from page: Chemicals strategy for sustainability
+2024-09-05 01:40:45,368 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/hot-topics/chemicals-strategy-for-sustainability
+2024-09-05 01:40:45,369 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Chemicals strategy for sustainability.json
+2024-09-05 01:40:46,058 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Report on the operation of REACH and CLP 2021 - In brief Key messages and panels.txt
+2024-09-05 01:40:46,058 - INFO - Extracting tables from page: Report on the operation of REACH and CLP 2021 - In brief Key messages and panels
+2024-09-05 01:40:46,068 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/report-on-the-operation-of-reach-and-clp-2021
+2024-09-05 01:40:46,069 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Report on the operation of REACH and CLP 2021 - In brief Key messages and panels.json
+2024-09-05 01:40:47,111 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Release notes - Dissemination Platform v4.6.5.txt
+2024-09-05 01:40:47,111 - INFO - Extracting tables from page: Release notes - Dissemination Platform v4.6.5
+2024-09-05 01:40:47,123 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/dissemination-platform-updates
+2024-09-05 01:40:47,124 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Release notes - Dissemination Platform v4.6.5.json
+2024-09-05 01:40:47,623 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA123.txt
+2024-09-05 01:40:47,624 - INFO - Extracting tables from page: QA123
+2024-09-05 01:40:47,632 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa123
+2024-09-05 01:40:47,633 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA123.json
+2024-09-05 01:40:48,297 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 10 February 2021.txt
+2024-09-05 01:40:48,297 - INFO - Extracting tables from page: ECHA Weekly - 10 February 2021
+2024-09-05 01:40:48,518 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-10-february-2021
+2024-09-05 01:40:48,519 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 10 February 2021.json
+2024-09-05 01:40:49,257 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Environmental legislation industrial emissions panel.txt
+2024-09-05 01:40:49,257 - INFO - Extracting tables from page: Environmental legislation industrial emissions panel
+2024-09-05 01:40:49,269 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/information-on-chemicals/euclef
+2024-09-05 01:40:49,270 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Environmental legislation industrial emissions panel.json
+2024-09-05 01:40:49,868 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Technical Completeness Check - CSR.txt
+2024-09-05 01:40:49,869 - INFO - Extracting tables from page: Technical Completeness Check - CSR
+2024-09-05 01:40:49,878 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/chemical-safety-report-and-uses
+2024-09-05 01:40:49,879 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Technical Completeness Check - CSR.json
+2024-09-05 01:40:50,578 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/CSR-ES roadmap - use maps.txt
+2024-09-05 01:40:50,578 - INFO - Extracting tables from page: CSR-ES roadmap - use maps
+2024-09-05 01:40:50,586 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/csr-es-roadmap/use-maps/templates-and-submission
+2024-09-05 01:40:50,587 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_CSR-ES roadmap - use maps.json
+2024-09-05 01:40:51,139 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA33.txt
+2024-09-05 01:40:51,139 - INFO - Extracting tables from page: QA33
+2024-09-05 01:40:51,147 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa33
+2024-09-05 01:40:51,147 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA33.json
+2024-09-05 01:40:51,824 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Environmental legislation air panel.txt
+2024-09-05 01:40:51,824 - INFO - Extracting tables from page: Environmental legislation air panel
+2024-09-05 01:40:51,836 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/information-on-chemicals/euclef
+2024-09-05 01:40:51,836 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Environmental legislation air panel.json
+2024-09-05 01:40:52,438 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 2 September 2020.txt
+2024-09-05 01:40:52,438 - INFO - Extracting tables from page: ECHA Weekly - 2 September 2020
+2024-09-05 01:40:52,688 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-weekly-2-september-2020
+2024-09-05 01:40:52,689 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 2 September 2020.json
+2024-09-05 01:40:53,264 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1675.txt
+2024-09-05 01:40:53,265 - INFO - Extracting tables from page: QA1675
+2024-09-05 01:40:53,273 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1675
+2024-09-05 01:40:53,274 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1675.json
+2024-09-05 01:40:53,948 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 24 June 2020.txt
+2024-09-05 01:40:53,948 - INFO - Extracting tables from page: ECHA Weekly - 24 June 2020
+2024-09-05 01:40:54,142 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-24-june-2020
+2024-09-05 01:40:54,143 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 24 June 2020.json
+2024-09-05 01:40:54,637 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1632.txt
+2024-09-05 01:40:54,637 - INFO - Extracting tables from page: QA1632
+2024-09-05 01:40:54,645 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1632
+2024-09-05 01:40:54,646 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1632.json
+2024-09-05 01:40:55,321 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Adaptations to standard information requirements.txt
+2024-09-05 01:40:55,321 - INFO - Extracting tables from page: Adaptations to standard information requirements
+2024-09-05 01:40:55,335 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Adaptations to standard information requirements.json
+2024-09-05 01:40:55,336 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/support/registration/what-information-you-need/adaptations-to-the-standard-information-requirements
+2024-09-05 01:40:55,336 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Adaptations to standard information requirements.json
+2024-09-05 01:40:55,993 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 3 June 2020.txt
+2024-09-05 01:40:55,994 - INFO - Extracting tables from page: ECHA Weekly - 3 June 2020
+2024-09-05 01:40:56,264 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-3-june-2020
+2024-09-05 01:40:56,265 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 3 June 2020.json
+2024-09-05 01:40:56,915 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 1 April 2020.txt
+2024-09-05 01:40:56,915 - INFO - Extracting tables from page: ECHA Weekly - 1 April 2020
+2024-09-05 01:40:57,184 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-1-april-2020
+2024-09-05 01:40:57,184 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 1 April 2020.json
+2024-09-05 01:40:57,673 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1656.txt
+2024-09-05 01:40:57,673 - INFO - Extracting tables from page: QA1656
+2024-09-05 01:40:57,681 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa16-4
+2024-09-05 01:40:57,682 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1656.json
+2024-09-05 01:40:58,268 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/pops consultations toptext.txt
+2024-09-05 01:40:58,268 - INFO - Extracting tables from page: pops consultations toptext
+2024-09-05 01:40:58,275 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/information-on-pops-consultations
+2024-09-05 01:40:58,275 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_pops consultations toptext.json
+2024-09-05 01:40:58,924 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA135.txt
+2024-09-05 01:40:58,924 - INFO - Extracting tables from page: QA135
+2024-09-05 01:40:58,932 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa135
+2024-09-05 01:40:58,933 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA135.json
+2024-09-05 01:40:59,415 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1643.txt
+2024-09-05 01:40:59,415 - INFO - Extracting tables from page: QA1643
+2024-09-05 01:40:59,424 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1643
+2024-09-05 01:40:59,424 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1643.json
+2024-09-05 01:40:59,975 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1642.txt
+2024-09-05 01:40:59,975 - INFO - Extracting tables from page: QA1642
+2024-09-05 01:40:59,983 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1642
+2024-09-05 01:40:59,983 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1642.json
+2024-09-05 01:41:00,482 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1641.txt
+2024-09-05 01:41:00,483 - INFO - Extracting tables from page: QA1641
+2024-09-05 01:41:00,490 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1641
+2024-09-05 01:41:00,491 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1641.json
+2024-09-05 01:41:01,043 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1639.txt
+2024-09-05 01:41:01,044 - INFO - Extracting tables from page: QA1639
+2024-09-05 01:41:01,051 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1639
+2024-09-05 01:41:01,052 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1639.json
+2024-09-05 01:41:01,617 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1637.txt
+2024-09-05 01:41:01,617 - INFO - Extracting tables from page: QA1637
+2024-09-05 01:41:01,625 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1637
+2024-09-05 01:41:01,626 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1637.json
+2024-09-05 01:41:02,189 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1635.txt
+2024-09-05 01:41:02,189 - INFO - Extracting tables from page: QA1635
+2024-09-05 01:41:02,197 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1635
+2024-09-05 01:41:02,197 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1635.json
+2024-09-05 01:41:02,751 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA1633.txt
+2024-09-05 01:41:02,751 - INFO - Extracting tables from page: QA1633
+2024-09-05 01:41:02,760 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa1633
+2024-09-05 01:41:02,760 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA1633.json
+2024-09-05 01:41:03,397 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 10.txt
+2024-09-05 01:41:03,397 - INFO - Extracting tables from page: ESD Product Types 10
+2024-09-05 01:41:03,413 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:03,413 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 10.json
+2024-09-05 01:41:04,113 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Guidance Biocidal Products Directive - See also.txt
+2024-09-05 01:41:04,113 - INFO - Extracting tables from page: Guidance Biocidal Products Directive - See also
+2024-09-05 01:41:04,129 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Guidance Biocidal Products Directive - See also.json
+2024-09-05 01:41:04,130 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/biocidal-products-directive
+2024-09-05 01:41:04,130 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Guidance Biocidal Products Directive - See also.json
+2024-09-05 01:41:04,782 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 14.txt
+2024-09-05 01:41:04,782 - INFO - Extracting tables from page: ESD Product Types 14
+2024-09-05 01:41:04,797 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:04,798 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 14.json
+2024-09-05 01:41:05,445 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 6.txt
+2024-09-05 01:41:05,445 - INFO - Extracting tables from page: ESD Product Types 6
+2024-09-05 01:41:05,460 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:05,460 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 6.json
+2024-09-05 01:41:06,101 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 16 October 2019.txt
+2024-09-05 01:41:06,101 - INFO - Extracting tables from page: ECHA Weekly - 16 October 2019
+2024-09-05 01:41:06,337 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-16-october-2019
+2024-09-05 01:41:06,337 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 16 October 2019.json
+2024-09-05 01:41:07,016 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/EUSES related.txt
+2024-09-05 01:41:07,016 - INFO - Extracting tables from page: EUSES related
+2024-09-05 01:41:07,024 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/support/dossier-submission-tools/euses
+2024-09-05 01:41:07,024 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_EUSES related.json
+2024-09-05 01:41:07,668 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Emission scenario documents - introduction.txt
+2024-09-05 01:41:07,668 - INFO - Extracting tables from page: Emission scenario documents - introduction
+2024-09-05 01:41:07,682 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:07,683 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Emission scenario documents - introduction.json
+2024-09-05 01:41:08,250 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/euses main.txt
+2024-09-05 01:41:08,250 - INFO - Extracting tables from page: euses main
+2024-09-05 01:41:08,258 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/support/dossier-submission-tools/euses
+2024-09-05 01:41:08,258 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_euses main.json
+2024-09-05 01:41:08,926 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 11 September 2019.txt
+2024-09-05 01:41:08,926 - INFO - Extracting tables from page: ECHA Weekly - 11 September 2019
+2024-09-05 01:41:09,150 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-weekly-11-september-2019
+2024-09-05 01:41:09,151 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 11 September 2019.json
+2024-09-05 01:41:09,719 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA249.txt
+2024-09-05 01:41:09,719 - INFO - Extracting tables from page: QA249
+2024-09-05 01:41:09,728 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa249
+2024-09-05 01:41:09,728 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA249.json
+2024-09-05 01:41:10,371 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA251.txt
+2024-09-05 01:41:10,372 - INFO - Extracting tables from page: QA251
+2024-09-05 01:41:10,380 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa251
+2024-09-05 01:41:10,381 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA251.json
+2024-09-05 01:41:11,185 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Support - CLP and Biocides.txt
+2024-09-05 01:41:11,185 - INFO - Extracting tables from page: Support - CLP and Biocides
+2024-09-05 01:41:11,194 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/support
+2024-09-05 01:41:11,195 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Support - CLP and Biocides.json
+2024-09-05 01:41:11,818 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Understanding PBT assessment.txt
+2024-09-05 01:41:11,818 - INFO - Extracting tables from page: Understanding PBT assessment
+2024-09-05 01:41:11,827 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/understanding-pbt-assessment
+2024-09-05 01:41:11,827 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Understanding PBT assessment.json
+2024-09-05 01:41:12,588 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Comparing relative release pontential - intro.txt
+2024-09-05 01:41:12,588 - INFO - Extracting tables from page: Comparing relative release pontential - intro
+2024-09-05 01:41:12,622 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Comparing relative release pontential - intro.json
+2024-09-05 01:41:12,622 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/comparing-relative-release-potential
+2024-09-05 01:41:12,622 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Comparing relative release pontential - intro.json
+2024-09-05 01:41:13,323 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 16 January 2019.txt
+2024-09-05 01:41:13,323 - INFO - Extracting tables from page: ECHA Weekly - 16 January 2019
+2024-09-05 01:41:14,666 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-16-january-2019
+2024-09-05 01:41:14,667 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 16 January 2019.json
+2024-09-05 01:41:15,326 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 12 September 2018.txt
+2024-09-05 01:41:15,327 - INFO - Extracting tables from page: ECHA Weekly - 12 September 2018
+2024-09-05 01:41:16,519 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-12-september-2018
+2024-09-05 01:41:16,520 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 12 September 2018.json
+2024-09-05 01:41:17,175 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 18 July 2018.txt
+2024-09-05 01:41:17,175 - INFO - Extracting tables from page: ECHA Weekly - 18 July 2018
+2024-09-05 01:41:18,373 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-18-july-2018
+2024-09-05 01:41:18,373 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 18 July 2018.json
+2024-09-05 01:41:19,148 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 23 May 2018.txt
+2024-09-05 01:41:19,148 - INFO - Extracting tables from page: ECHA Weekly - 23 May 2018
+2024-09-05 01:41:20,971 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-23-may-2018
+2024-09-05 01:41:20,972 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 23 May 2018.json
+2024-09-05 01:41:21,608 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Downstream user - REACH-CLP and other legislation.txt
+2024-09-05 01:41:21,608 - INFO - Extracting tables from page: Downstream user - REACH-CLP and other legislation
+2024-09-05 01:41:21,616 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/regulations/reach/downstream-users/other-issues-affecting-downstream-users/other-legislation
+2024-09-05 01:41:21,617 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Downstream user - REACH-CLP and other legislation.json
+2024-09-05 01:41:22,237 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 22 November 2017.txt
+2024-09-05 01:41:22,237 - INFO - Extracting tables from page: ECHA Weekly - 22 November 2017
+2024-09-05 01:41:22,407 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-22-november-2017
+2024-09-05 01:41:22,408 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 22 November 2017.json
+2024-09-05 01:41:23,205 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BPC working groups related links.txt
+2024-09-05 01:41:23,205 - INFO - Extracting tables from page: BPC working groups related links
+2024-09-05 01:41:23,216 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/BPC working groups related links.json
+2024-09-05 01:41:23,216 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/about-us/who-we-are/biocidal-products-committee/working-groups
+2024-09-05 01:41:23,217 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BPC working groups related links.json
+2024-09-05 01:41:23,891 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 9.txt
+2024-09-05 01:41:23,891 - INFO - Extracting tables from page: ESD Product Types 9
+2024-09-05 01:41:23,906 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:23,907 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 9.json
+2024-09-05 01:41:24,562 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 13.txt
+2024-09-05 01:41:24,562 - INFO - Extracting tables from page: ESD Product Types 13
+2024-09-05 01:41:24,578 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:24,578 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 13.json
+2024-09-05 01:41:25,218 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 8.txt
+2024-09-05 01:41:25,218 - INFO - Extracting tables from page: ESD Product Types 8
+2024-09-05 01:41:25,233 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:25,233 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 8.json
+2024-09-05 01:41:25,925 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 18 October 2017.txt
+2024-09-05 01:41:25,925 - INFO - Extracting tables from page: ECHA Weekly - 18 October 2017
+2024-09-05 01:41:26,106 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-18-october-2017
+2024-09-05 01:41:26,106 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 18 October 2017.json
+2024-09-05 01:41:26,700 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Chemicals in our life - why are chemicals important.txt
+2024-09-05 01:41:26,700 - INFO - Extracting tables from page: Chemicals in our life - why are chemicals important
+2024-09-05 01:41:26,708 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/chemicals-in-our-life-why-are-chemicals-important
+2024-09-05 01:41:26,709 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Chemicals in our life - why are chemicals important.json
+2024-09-05 01:41:27,271 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Downstream user - REACH-CLP and other legislation -external links.txt
+2024-09-05 01:41:27,271 - INFO - Extracting tables from page: Downstream user - REACH-CLP and other legislation -external links
+2024-09-05 01:41:27,279 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/regulations/reach/downstream-users/other-issues-affecting-downstream-users/other-legislation
+2024-09-05 01:41:27,280 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Downstream user - REACH-CLP and other legislation -external links.json
+2024-09-05 01:41:27,909 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 3 May 2017.txt
+2024-09-05 01:41:27,909 - INFO - Extracting tables from page: ECHA Weekly - 3 May 2017
+2024-09-05 01:41:28,071 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-3-may-2017
+2024-09-05 01:41:28,072 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 3 May 2017.json
+2024-09-05 01:41:28,711 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 4.txt
+2024-09-05 01:41:28,711 - INFO - Extracting tables from page: ESD Product Types 4
+2024-09-05 01:41:28,727 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:28,727 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 4.json
+2024-09-05 01:41:29,393 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 1.txt
+2024-09-05 01:41:29,394 - INFO - Extracting tables from page: ESD Product Types 1
+2024-09-05 01:41:29,408 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:29,408 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 1.json
+2024-09-05 01:41:30,040 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 19.txt
+2024-09-05 01:41:30,041 - INFO - Extracting tables from page: ESD Product Types 19
+2024-09-05 01:41:30,056 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:30,056 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 19.json
+2024-09-05 01:41:30,770 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 15.txt
+2024-09-05 01:41:30,770 - INFO - Extracting tables from page: ESD Product Types 15
+2024-09-05 01:41:30,785 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:30,786 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 15.json
+2024-09-05 01:41:31,630 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 12.txt
+2024-09-05 01:41:31,630 - INFO - Extracting tables from page: ESD Product Types 12
+2024-09-05 01:41:31,645 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:31,646 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 12.json
+2024-09-05 01:41:32,327 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 11.txt
+2024-09-05 01:41:32,327 - INFO - Extracting tables from page: ESD Product Types 11
+2024-09-05 01:41:32,343 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:32,344 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 11.json
+2024-09-05 01:41:32,996 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 7.txt
+2024-09-05 01:41:32,996 - INFO - Extracting tables from page: ESD Product Types 7
+2024-09-05 01:41:33,011 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:33,012 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 7.json
+2024-09-05 01:41:33,667 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 5.txt
+2024-09-05 01:41:33,667 - INFO - Extracting tables from page: ESD Product Types 5
+2024-09-05 01:41:33,682 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:33,682 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 5.json
+2024-09-05 01:41:34,436 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ESD Product Types 2.txt
+2024-09-05 01:41:34,436 - INFO - Extracting tables from page: ESD Product Types 2
+2024-09-05 01:41:34,452 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/guidance-documents/guidance-on-biocides-legislation/emission-scenario-documents
+2024-09-05 01:41:34,453 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ESD Product Types 2.json
+2024-09-05 01:41:35,120 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 5 April 2017.txt
+2024-09-05 01:41:35,120 - INFO - Extracting tables from page: ECHA Weekly - 5 April 2017
+2024-09-05 01:41:35,324 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/echa-weekly-5-april-2017
+2024-09-05 01:41:35,324 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 5 April 2017.json
+2024-09-05 01:41:35,908 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Cases where ECHA is a party - table - atd.txt
+2024-09-05 01:41:35,908 - INFO - Extracting tables from page: Cases where ECHA is a party - table - atd
+2024-09-05 01:41:35,918 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Cases where ECHA is a party - table - atd.json
+2024-09-05 01:41:35,918 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/cases-where-echa-is-a-party-table-atd
+2024-09-05 01:41:35,919 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Cases where ECHA is a party - table - atd.json
+2024-09-05 01:41:36,541 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Clean and green.txt
+2024-09-05 01:41:36,541 - INFO - Extracting tables from page: Clean and green
+2024-09-05 01:41:36,548 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/clean-and-green
+2024-09-05 01:41:36,549 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Clean and green.json
+2024-09-05 01:41:37,143 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Preventing cancer.txt
+2024-09-05 01:41:37,143 - INFO - Extracting tables from page: Preventing cancer
+2024-09-05 01:41:37,151 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/preventing-cancer
+2024-09-05 01:41:37,152 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Preventing cancer.json
+2024-09-05 01:41:37,883 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Topical Scientific Workshop on Soil Risk Assessment.txt
+2024-09-05 01:41:37,883 - INFO - Extracting tables from page: Topical Scientific Workshop on Soil Risk Assessment
+2024-09-05 01:41:37,920 - INFO - Saved tables to data/raw/ECHA/Air_emission/json/Topical Scientific Workshop on Soil Risk Assessment.json
+2024-09-05 01:41:37,921 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/-/topical-scientific-workshop-on-soil-risk-assessment
+2024-09-05 01:41:37,921 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Topical Scientific Workshop on Soil Risk Assessment.json
+2024-09-05 01:41:38,499 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Weekly - 9 March 2016.txt
+2024-09-05 01:41:38,499 - INFO - Extracting tables from page: ECHA Weekly - 9 March 2016
+2024-09-05 01:41:38,647 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-weekly-9-march-2016
+2024-09-05 01:41:38,648 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Weekly - 9 March 2016.json
+2024-09-05 01:41:41,084 - ERROR - Error processing https://echa.europa.eu/information-on-chemicals/pbt-vpvb-assessments-under-the-previous-eu-chemicals-legislation: [Errno 2] No such file or directory: 'data/raw/ECHA/Air_emission/text/PBT/vPvB assessments under the previous EU chemicals legislation.txt'
+2024-09-05 01:41:41,671 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Background information on PBT assessment under the previous chemicals legislation.txt
+2024-09-05 01:41:41,671 - INFO - Extracting tables from page: Background information on PBT assessment under the previous chemicals legislation
+2024-09-05 01:41:41,677 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/information-on-chemicals/pbt-vpvb-assessments-under-the-previous-eu-chemicals-legislation/background-information
+2024-09-05 01:41:41,678 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Background information on PBT assessment under the previous chemicals legislation.json
+2024-09-05 01:41:42,306 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA e-News - 29 July 2015.txt
+2024-09-05 01:41:42,306 - INFO - Extracting tables from page: ECHA e-News - 29 July 2015
+2024-09-05 01:41:42,436 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-e-news-29-july-2015
+2024-09-05 01:41:42,436 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA e-News - 29 July 2015.json
+2024-09-05 01:41:43,067 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA e-News - 22 July 2015.txt
+2024-09-05 01:41:43,067 - INFO - Extracting tables from page: ECHA e-News - 22 July 2015
+2024-09-05 01:41:43,191 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-e-news-22-july-2015
+2024-09-05 01:41:43,191 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA e-News - 22 July 2015.json
+2024-09-05 01:41:43,772 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA e-News - 15 July 2015.txt
+2024-09-05 01:41:43,773 - INFO - Extracting tables from page: ECHA e-News - 15 July 2015
+2024-09-05 01:41:43,904 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-e-news-15-july-2015
+2024-09-05 01:41:43,905 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA e-News - 15 July 2015.json
+2024-09-05 01:41:44,508 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA e-News - 8 July 2015.txt
+2024-09-05 01:41:44,508 - INFO - Extracting tables from page: ECHA e-News - 8 July 2015
+2024-09-05 01:41:44,627 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-e-news-8-july-2015
+2024-09-05 01:41:44,628 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA e-News - 8 July 2015.json
+2024-09-05 01:41:45,247 - ERROR - Error processing https://echa.europa.eu/-/workshop-on-the-use-of-reach-clp-information-at-industrial-sites: [Errno 2] No such file or directory: 'data/raw/ECHA/Air_emission/text/Workshop on the use of REACH/CLP information at industrial sites.txt'
+2024-09-05 01:41:45,808 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA824.txt
+2024-09-05 01:41:45,808 - INFO - Extracting tables from page: QA824
+2024-09-05 01:41:45,817 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa824
+2024-09-05 01:41:45,817 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA824.json
+2024-09-05 01:41:46,375 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA593.txt
+2024-09-05 01:41:46,375 - INFO - Extracting tables from page: QA593
+2024-09-05 01:41:46,386 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa593
+2024-09-05 01:41:46,387 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA593.json
+2024-09-05 01:41:46,971 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/QA574.txt
+2024-09-05 01:41:46,971 - INFO - Extracting tables from page: QA574
+2024-09-05 01:41:46,987 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/qa574
+2024-09-05 01:41:46,987 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_QA574.json
+2024-09-05 01:41:47,696 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Mixture classification - identify information.txt
+2024-09-05 01:41:47,697 - INFO - Extracting tables from page: Mixture classification - identify information
+2024-09-05 01:41:47,704 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/support/mixture-classification/identify-available-information
+2024-09-05 01:41:47,705 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Mixture classification - identify information.json
+2024-09-05 01:41:48,276 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/CLP pictograms.txt
+2024-09-05 01:41:48,277 - INFO - Extracting tables from page: CLP pictograms
+2024-09-05 01:41:48,286 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/regulations/clp/clp-pictograms
+2024-09-05 01:41:48,287 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_CLP pictograms.json
+2024-09-05 01:41:48,909 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Support by ECHA Accredited Stakeholders - list.txt
+2024-09-05 01:41:48,909 - INFO - Extracting tables from page: Support by ECHA Accredited Stakeholders - list
+2024-09-05 01:41:48,916 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/
+2024-09-05 01:41:48,917 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Support by ECHA Accredited Stakeholders - list.json
+2024-09-05 01:41:49,488 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Emission scenario documents - product types.txt
+2024-09-05 01:41:49,488 - INFO - Extracting tables from page: Emission scenario documents - product types
+2024-09-05 01:41:49,495 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/emission-scenario-documents-product-types
+2024-09-05 01:41:49,495 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Emission scenario documents - product types.json
+2024-09-05 01:41:50,090 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Emission scenario documents - ESD Product Types.txt
+2024-09-05 01:41:50,090 - INFO - Extracting tables from page: Emission scenario documents - ESD Product Types
+2024-09-05 01:41:50,098 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/emission-scenario-documents-esd-product-types
+2024-09-05 01:41:50,099 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Emission scenario documents - ESD Product Types.json
+2024-09-05 01:41:50,688 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Call for evidence on the use of cadmium and cadmium compounds in plastics.txt
+2024-09-05 01:41:50,689 - INFO - Extracting tables from page: Call for evidence on the use of cadmium and cadmium compounds in plastics
+2024-09-05 01:41:50,697 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/call-for-evidence-on-the-use-of-cadmium-and-cadmium-compounds-in-plastics
+2024-09-05 01:41:50,697 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Call for evidence on the use of cadmium and cadmium compounds in plastics.json
+2024-09-05 01:41:51,308 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Costs of risk management.txt
+2024-09-05 01:41:51,308 - INFO - Extracting tables from page: Costs of risk management
+2024-09-05 01:41:51,317 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/support/socio-economic-analysis-in-reach
+2024-09-05 01:41:51,318 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Costs of risk management.json
+2024-09-05 01:41:51,864 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Chemicals in our life - chemicals of concern.txt
+2024-09-05 01:41:51,864 - INFO - Extracting tables from page: Chemicals in our life - chemicals of concern
+2024-09-05 01:41:51,871 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/chemicals-in-our-life-chemicals-of-concern
+2024-09-05 01:41:51,872 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Chemicals in our life - chemicals of concern.json
+2024-09-05 01:41:52,458 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/e-News - 5 March 2014.txt
+2024-09-05 01:41:52,459 - INFO - Extracting tables from page: e-News - 5 March 2014
+2024-09-05 01:41:52,594 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/e-news-5-march-2014
+2024-09-05 01:41:52,594 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_e-News - 5 March 2014.json
+2024-09-05 01:41:53,193 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Biocides e-News - 30 August 2013.txt
+2024-09-05 01:41:53,193 - INFO - Extracting tables from page: Biocides e-News - 30 August 2013
+2024-09-05 01:41:53,393 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/biocides-enews-30-august-2013
+2024-09-05 01:41:53,394 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Biocides e-News - 30 August 2013.json
+2024-09-05 01:41:53,983 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Emission scenario documents - Additional info.txt
+2024-09-05 01:41:53,983 - INFO - Extracting tables from page: Emission scenario documents - Additional info
+2024-09-05 01:41:53,990 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/emission-scenario-documents-additional-info
+2024-09-05 01:41:53,991 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Emission scenario documents - Additional info.json
+2024-09-05 01:41:54,547 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Emission scenario documents - Overview.txt
+2024-09-05 01:41:54,548 - INFO - Extracting tables from page: Emission scenario documents - Overview
+2024-09-05 01:41:54,554 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/emission-scenario-documents-overview
+2024-09-05 01:41:54,555 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Emission scenario documents - Overview.json
+2024-09-05 01:41:55,173 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BPR guidance-emission scenario documents.txt
+2024-09-05 01:41:55,173 - INFO - Extracting tables from page: BPR guidance-emission scenario documents
+2024-09-05 01:41:55,180 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bpr-guidance-emission-scenario-documents-workshop-reports
+2024-09-05 01:41:55,181 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BPR guidance-emission scenario documents.json
+2024-09-05 01:41:55,726 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BPR guidance-emission scenario documents.txt
+2024-09-05 01:41:55,726 - INFO - Extracting tables from page: BPR guidance-emission scenario documents
+2024-09-05 01:41:55,733 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bpr-guidance-emission-scenario-documents-links
+2024-09-05 01:41:55,733 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BPR guidance-emission scenario documents.json
+2024-09-05 01:41:56,325 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/e-News - 12 June 2013.txt
+2024-09-05 01:41:56,325 - INFO - Extracting tables from page: e-News - 12 June 2013
+2024-09-05 01:41:56,463 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/e-news-12-june-2013
+2024-09-05 01:41:56,464 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_e-News - 12 June 2013.json
+2024-09-05 01:41:57,039 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/e-News 13 March 2013.txt
+2024-09-05 01:41:57,039 - INFO - Extracting tables from page: e-News 13 March 2013
+2024-09-05 01:41:57,050 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/e-news-13-march-2013
+2024-09-05 01:41:57,051 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_e-News 13 March 2013.json
+2024-09-05 01:41:57,605 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/e-News 20 March 2013.txt
+2024-09-05 01:41:57,605 - INFO - Extracting tables from page: e-News 20 March 2013
+2024-09-05 01:41:57,617 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/e-news-20-march-2013
+2024-09-05 01:41:57,617 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_e-News 20 March 2013.json
+2024-09-05 01:41:58,181 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/Topical Scientific Workshop on Risk Assessment for the Sediment Compartment.txt
+2024-09-05 01:41:58,182 - INFO - Extracting tables from page: Topical Scientific Workshop on Risk Assessment for the Sediment Compartment
+2024-09-05 01:41:58,188 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/topical-scientific-workshop-on-risk-assessment-for-the-sediment-compartment
+2024-09-05 01:41:58,189 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_Topical Scientific Workshop on Risk Assessment for the Sediment Compartment.json
+2024-09-05 01:41:58,785 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/News and Events.txt
+2024-09-05 01:41:58,785 - INFO - Extracting tables from page: News and Events
+2024-09-05 01:41:58,795 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/news-and-even-1
+2024-09-05 01:41:58,795 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_News and Events.json
+2024-09-05 01:41:59,278 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BREF POL.txt
+2024-09-05 01:41:59,278 - INFO - Extracting tables from page: BREF POL
+2024-09-05 01:41:59,285 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bref-pol
+2024-09-05 01:41:59,286 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BREF POL.json
+2024-09-05 01:41:59,845 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BREF LVIC-AAF.txt
+2024-09-05 01:41:59,845 - INFO - Extracting tables from page: BREF LVIC-AAF
+2024-09-05 01:41:59,852 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bref-lvic-aaf
+2024-09-05 01:41:59,852 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BREF LVIC-AAF.json
+2024-09-05 01:42:00,436 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/ECHA Newsletter - October 2012.txt
+2024-09-05 01:42:00,436 - INFO - Extracting tables from page: ECHA Newsletter - October 2012
+2024-09-05 01:42:00,443 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/echa-newsletter-october-2012
+2024-09-05 01:42:00,443 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_ECHA Newsletter - October 2012.json
+2024-09-05 01:42:01,061 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BREF OFC.txt
+2024-09-05 01:42:01,062 - INFO - Extracting tables from page: BREF OFC
+2024-09-05 01:42:01,068 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bref-ofc
+2024-09-05 01:42:01,069 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BREF OFC.json
+2024-09-05 01:42:01,547 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BREF LVOC.txt
+2024-09-05 01:42:01,547 - INFO - Extracting tables from page: BREF LVOC
+2024-09-05 01:42:01,554 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bref-lvoc
+2024-09-05 01:42:01,554 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BREF LVOC.json
+2024-09-05 01:42:02,030 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BREF SIC.txt
+2024-09-05 01:42:02,030 - INFO - Extracting tables from page: BREF SIC
+2024-09-05 01:42:02,037 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bref-sic
+2024-09-05 01:42:02,038 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BREF SIC.json
+2024-09-05 01:42:02,520 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BREF LVIC-S.txt
+2024-09-05 01:42:02,520 - INFO - Extracting tables from page: BREF LVIC-S
+2024-09-05 01:42:02,527 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bref-lvic-s
+2024-09-05 01:42:02,527 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BREF LVIC-S.json
+2024-09-05 01:42:03,014 - INFO - Summary saved to data/raw/ECHA/Air_emission/text/BREF CAK.txt
+2024-09-05 01:42:03,014 - INFO - Extracting tables from page: BREF CAK
+2024-09-05 01:42:03,021 - INFO - Extracted summary and checked for tables from: https://echa.europa.eu/view-article/-/journal_content/title/bref-cak
+2024-09-05 01:42:03,022 - INFO - Metadata saved to data/raw/ECHA/Air_emission/metadata/metadata_BREF CAK.json
+2024-09-05 01:42:03,099 - INFO - Scraping process completed.
+2024-09-05 01:42:07,410 - INFO - Starting the scraping process.
+2024-09-05 01:42:07,410 - INFO - Folder structure created for substance very high concern (SVHC).
+2024-09-05 01:42:08,162 - INFO - Retrieving URLs for keyword: substance very high concern (SVHC)
+2024-09-05 01:42:08,162 - INFO - Searching for keyword: substance very high concern (SVHC)
+2024-09-05 01:42:09,543 - INFO - Selecting date: 2012-8-9
+2024-09-05 01:42:09,769 - INFO - Sorting by last modified date.
+2024-09-05 01:42:10,841 - INFO - Processing page number: 1
+2024-09-05 01:42:12,446 - INFO - Found 2 PDF URLs and 48 non-PDF URLs.
+2024-09-05 01:42:14,200 - INFO - Processing page number: 2
+2024-09-05 01:42:14,990 - INFO - Found 2 PDF URLs and 98 non-PDF URLs.
+2024-09-05 01:42:16,987 - INFO - Processing page number: 3
+2024-09-05 01:42:17,774 - INFO - Found 2 PDF URLs and 148 non-PDF URLs.
+2024-09-05 01:42:19,617 - INFO - Processing page number: 4
+2024-09-05 01:42:20,591 - INFO - Found 3 PDF URLs and 197 non-PDF URLs.
+2024-09-05 01:42:22,822 - INFO - Processing page number: 5
+2024-09-05 01:42:23,623 - INFO - Found 4 PDF URLs and 246 non-PDF URLs.
+2024-09-05 01:42:24,912 - INFO - Processing page number: 6
+2024-09-05 01:42:25,722 - INFO - Found 4 PDF URLs and 296 non-PDF URLs.
+2024-09-05 01:42:26,739 - INFO - Processing page number: 7
+2024-09-05 01:42:27,577 - INFO - Found 4 PDF URLs and 346 non-PDF URLs.
+2024-09-05 01:42:28,930 - INFO - Processing page number: 8
+2024-09-05 01:42:29,737 - INFO - Found 4 PDF URLs and 396 non-PDF URLs.
+2024-09-05 01:42:31,322 - INFO - Processing page number: 9
+2024-09-05 01:42:32,132 - INFO - Found 4 PDF URLs and 446 non-PDF URLs.
+2024-09-05 01:42:33,243 - INFO - Processing page number: 10
+2024-09-05 01:42:34,084 - INFO - Found 4 PDF URLs and 496 non-PDF URLs.
+2024-09-05 01:42:35,262 - INFO - Processing page number: 11
+2024-09-05 01:42:36,112 - INFO - Found 4 PDF URLs and 546 non-PDF URLs.
+2024-09-05 01:42:37,301 - INFO - Processing page number: 12
+2024-09-05 01:42:38,117 - INFO - Found 4 PDF URLs and 596 non-PDF URLs.
+2024-09-05 01:42:39,244 - INFO - Processing page number: 13
+2024-09-05 01:42:40,046 - INFO - Found 4 PDF URLs and 646 non-PDF URLs.
+2024-09-05 01:42:41,290 - INFO - Processing page number: 14
+2024-09-05 01:42:42,140 - INFO - Found 4 PDF URLs and 696 non-PDF URLs.
+2024-09-05 01:42:43,104 - INFO - Processing page number: 15
+2024-09-05 01:42:43,917 - INFO - Found 4 PDF URLs and 746 non-PDF URLs.
+2024-09-05 01:42:44,854 - INFO - Processing page number: 16
+2024-09-05 09:58:04,476 - INFO - Starting the scraping process.
+2024-09-05 09:58:04,483 - INFO - Folder structure created for KKDİK.
+2024-09-05 09:58:05,212 - INFO - Retrieving URLs for keyword: KKDİK
+2024-09-05 09:58:05,212 - INFO - Searching for keyword: KKDİK
+2024-09-05 09:58:06,243 - INFO - Selecting date: 2012-8-9
+2024-09-05 09:58:06,468 - INFO - Sorting by last modified date.
+2024-09-05 09:58:26,868 - ERROR - An error occurred while downloading https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x65094db926ca <unknown>
+#1 0x65094d863600 <unknown>
+#2 0x65094d8b2bcb <unknown>
+#3 0x65094d8b2eb1 <unknown>
+#4 0x65094d8f6b24 <unknown>
+#5 0x65094d8d58cd <unknown>
+#6 0x65094d8f404a <unknown>
+#7 0x65094d8d5643 <unknown>
+#8 0x65094d8a5d31 <unknown>
+#9 0x65094d8a679e <unknown>
+#10 0x65094db5a25b <unknown>
+#11 0x65094db5e1f2 <unknown>
+#12 0x65094db47615 <unknown>
+#13 0x65094db5ed82 <unknown>
+#14 0x65094db2c25f <unknown>
+#15 0x65094db81e68 <unknown>
+#16 0x65094db82040 <unknown>
+#17 0x65094db9149c <unknown>
+#18 0x724650294ac3 <unknown>
+
+2024-09-05 09:58:34,020 - INFO - Downloading PDF files for keyword: KKDİK
+2024-09-05 09:58:34,020 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-09-05 09:58:34,089 - INFO - Scraping process completed.
+2024-09-05 09:58:38,717 - INFO - Starting the scraping process.
+2024-09-05 09:58:38,718 - INFO - Folder structure created for Waste disposal.
+2024-09-05 09:58:39,864 - INFO - Retrieving URLs for keyword: Waste disposal
+2024-09-05 09:58:39,864 - INFO - Searching for keyword: Waste disposal
+2024-09-05 09:58:41,735 - INFO - Selecting date: 2012-8-9
+2024-09-05 09:58:41,950 - INFO - Sorting by last modified date.
+2024-09-05 09:58:43,023 - INFO - Processing page number: 1
+2024-09-05 09:58:45,205 - INFO - Found 0 PDF URLs and 50 non-PDF URLs.
+2024-09-05 16:05:52,174 - INFO - Starting the scraping process.
+2024-09-05 16:05:52,175 - INFO - Folder structure created for substance very high concern (SVHC).
+2024-09-05 16:05:52,947 - INFO - Retrieving URLs for keyword: substance very high concern (SVHC)
+2024-09-05 16:05:52,947 - INFO - Searching for keyword: substance very high concern (SVHC)
+2024-09-05 16:05:56,599 - INFO - Selecting date: 2012-8-9
+2024-09-05 16:05:56,850 - INFO - Sorting by last modified date.
+2024-09-05 16:05:57,937 - INFO - Processing page number: 1

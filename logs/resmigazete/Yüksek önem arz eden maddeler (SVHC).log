@@ -1,0 +1,21 @@
+2024-08-15 20:31:25,296 - INFO - Starting the scraping process.
+2024-08-15 20:31:25,296 - INFO - Processing keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-15 20:31:25,296 - INFO - Creating folder structure for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-15 20:31:25,296 - INFO - Searching for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-15 20:31:53,776 - ERROR - An error occurred: Message: 
+. Continuing with the next iteration.
+2024-08-15 20:31:53,802 - INFO - Downloading PDF files for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-15 20:31:53,802 - INFO - Saving PDF data for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-15 20:31:53,802 - INFO - Processing non-PDF URLs for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-15 20:31:53,858 - INFO - Scraping process completed.
+2024-08-16 09:45:46,155 - INFO - Starting the scraping process.
+2024-08-16 09:45:46,155 - INFO - Processing keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-16 09:45:46,155 - INFO - Creating folder structure for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-16 09:45:46,155 - INFO - Searching for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-16 09:46:04,312 - INFO - Processing page 1
+2024-08-16 09:46:14,548 - ERROR - An error occurred: Message: 
+. Continuing with the next iteration.
+2024-08-16 09:46:14,561 - INFO - Downloading PDF files for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-16 09:46:14,561 - INFO - Saving PDF data for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-16 09:46:14,561 - INFO - Processing non-PDF URLs for keyword: Yüksek önem arz eden maddeler (SVHC)
+2024-08-16 09:46:14,617 - INFO - Scraping process completed.

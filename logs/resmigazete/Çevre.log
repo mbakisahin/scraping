@@ -1,0 +1,1554 @@
+2024-08-15 18:47:09,462 - INFO - Starting the scraping process.
+2024-08-15 18:47:09,463 - INFO - Processing keyword: Çevre
+2024-08-15 18:47:09,463 - INFO - Creating folder structure for keyword: Çevre
+2024-08-15 18:47:09,463 - INFO - Searching for keyword: Çevre
+2024-08-15 20:31:57,514 - INFO - Starting the scraping process.
+2024-08-15 20:31:57,522 - INFO - Processing keyword: Çevre
+2024-08-15 20:31:57,522 - INFO - Creating folder structure for keyword: Çevre
+2024-08-15 20:31:57,522 - INFO - Searching for keyword: Çevre
+2024-08-15 20:55:34,024 - INFO - Downloading PDF files for keyword: Çevre
+2024-08-15 20:55:34,865 - INFO - Downloaded: 11.05.2024_––_Vakıf_Kültür_Varl
+2024-08-15 20:55:34,866 - INFO - Saving metadata for: 11.05.2024_––_Vakıf_Kültür_Varl
+2024-08-15 20:55:34,866 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_11.05.2024_––_Vakıf_Kültür_Varl.json
+2024-08-15 20:55:35,461 - INFO - Downloaded: 30.04.2024_––_Korunması_Gerekli
+2024-08-15 20:55:35,461 - INFO - Saving metadata for: 30.04.2024_––_Korunması_Gerekli
+2024-08-15 20:55:35,461 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.04.2024_––_Korunması_Gerekli.json
+2024-08-15 20:55:36,056 - INFO - Downloaded: 07.04.2024_––_Narlı-Pazarcık-8.
+2024-08-15 20:55:36,056 - INFO - Saving metadata for: 07.04.2024_––_Narlı-Pazarcık-8.
+2024-08-15 20:55:36,056 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_07.04.2024_––_Narlı-Pazarcık-8..json
+2024-08-15 20:55:36,556 - INFO - Downloaded: 29.12.2023_––_2872_Sayılı_Çevre
+2024-08-15 20:55:36,557 - INFO - Saving metadata for: 29.12.2023_––_2872_Sayılı_Çevre
+2024-08-15 20:55:36,557 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.12.2023_––_2872_Sayılı_Çevre.json
+2024-08-15 20:55:39,990 - INFO - Downloaded: 25.10.2023_––_Çevre,_Şehircilik
+2024-08-15 20:55:39,991 - INFO - Saving metadata for: 25.10.2023_––_Çevre,_Şehircilik
+2024-08-15 20:55:39,991 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_25.10.2023_––_Çevre,_Şehircilik.json
+2024-08-15 20:55:40,990 - INFO - Downloaded: 03.10.2023_––_Mersin_İli,_Akden
+2024-08-15 20:55:40,990 - INFO - Saving metadata for: 03.10.2023_––_Mersin_İli,_Akden
+2024-08-15 20:55:40,991 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_03.10.2023_––_Mersin_İli,_Akden.json
+2024-08-15 20:55:43,043 - INFO - Downloaded: 03.10.2023_––_Çevre,_Şehircilik
+2024-08-15 20:55:43,044 - INFO - Saving metadata for: 03.10.2023_––_Çevre,_Şehircilik
+2024-08-15 20:55:43,044 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_03.10.2023_––_Çevre,_Şehircilik.json
+2024-08-15 20:55:43,776 - INFO - Downloaded: 03.10.2023_––_Mersin_İli,_Akden
+2024-08-15 20:55:43,777 - INFO - Saving metadata for: 03.10.2023_––_Mersin_İli,_Akden
+2024-08-15 20:55:43,777 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_03.10.2023_––_Mersin_İli,_Akden.json
+2024-08-15 20:55:44,882 - INFO - Downloaded: 03.10.2023_––_Çevre,_Şehircilik
+2024-08-15 20:55:44,883 - INFO - Saving metadata for: 03.10.2023_––_Çevre,_Şehircilik
+2024-08-15 20:55:44,883 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_03.10.2023_––_Çevre,_Şehircilik.json
+2024-08-15 20:55:46,264 - INFO - Downloaded: 16.09.2023_––_Türkiye_Cumhuriye
+2024-08-15 20:55:46,264 - INFO - Saving metadata for: 16.09.2023_––_Türkiye_Cumhuriye
+2024-08-15 20:55:46,264 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_16.09.2023_––_Türkiye_Cumhuriye.json
+2024-08-15 20:55:46,770 - INFO - Downloaded: 29.07.2023_––_Malatya_İli,_Doğa
+2024-08-15 20:55:46,770 - INFO - Saving metadata for: 29.07.2023_––_Malatya_İli,_Doğa
+2024-08-15 20:55:46,771 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Malatya_İli,_Doğa.json
+2024-08-15 20:55:49,092 - INFO - Downloaded: 29.07.2023_––_Mardin_İli,_Midya
+2024-08-15 20:55:49,092 - INFO - Saving metadata for: 29.07.2023_––_Mardin_İli,_Midya
+2024-08-15 20:55:49,092 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Mardin_İli,_Midya.json
+2024-08-15 20:55:50,151 - INFO - Downloaded: 29.07.2023_––_Samsun_İli,_Canik
+2024-08-15 20:55:50,152 - INFO - Saving metadata for: 29.07.2023_––_Samsun_İli,_Canik
+2024-08-15 20:55:50,152 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Samsun_İli,_Canik.json
+2024-08-15 20:55:50,663 - INFO - Downloaded: 29.07.2023_––_Malatya_İli,_Doğa
+2024-08-15 20:55:50,663 - INFO - Saving metadata for: 29.07.2023_––_Malatya_İli,_Doğa
+2024-08-15 20:55:50,664 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Malatya_İli,_Doğa.json
+2024-08-15 20:55:51,296 - INFO - Downloaded: 29.07.2023_––_Mardin_İli,_Midya
+2024-08-15 20:55:51,296 - INFO - Saving metadata for: 29.07.2023_––_Mardin_İli,_Midya
+2024-08-15 20:55:51,297 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Mardin_İli,_Midya.json
+2024-08-15 20:55:51,942 - INFO - Downloaded: 29.07.2023_––_Samsun_İli,_Canik
+2024-08-15 20:55:51,942 - INFO - Saving metadata for: 29.07.2023_––_Samsun_İli,_Canik
+2024-08-15 20:55:51,942 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Samsun_İli,_Canik.json
+2024-08-15 20:55:52,690 - INFO - Downloaded: 29.07.2023_––_Malatya_İli,_Doğa
+2024-08-15 20:55:52,690 - INFO - Saving metadata for: 29.07.2023_––_Malatya_İli,_Doğa
+2024-08-15 20:55:52,691 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Malatya_İli,_Doğa.json
+2024-08-15 20:55:53,699 - INFO - Downloaded: 29.07.2023_––_Mardin_İli,_Midya
+2024-08-15 20:55:53,699 - INFO - Saving metadata for: 29.07.2023_––_Mardin_İli,_Midya
+2024-08-15 20:55:53,699 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Mardin_İli,_Midya.json
+2024-08-15 20:55:54,521 - INFO - Downloaded: 29.07.2023_––_Samsun_İli,_Canik
+2024-08-15 20:55:54,521 - INFO - Saving metadata for: 29.07.2023_––_Samsun_İli,_Canik
+2024-08-15 20:55:54,522 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.07.2023_––_Samsun_İli,_Canik.json
+2024-08-15 20:55:55,133 - INFO - Downloaded: 16.07.2023_1389_Çevre_Komisyonu
+2024-08-15 20:55:55,133 - INFO - Saving metadata for: 16.07.2023_1389_Çevre_Komisyonu
+2024-08-15 20:55:55,134 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_16.07.2023_1389_Çevre_Komisyonu.json
+2024-08-15 20:55:55,640 - INFO - Downloaded: 07.07.2023_––_Trabzon_Güney_Çev
+2024-08-15 20:55:55,640 - INFO - Saving metadata for: 07.07.2023_––_Trabzon_Güney_Çev
+2024-08-15 20:55:55,641 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_07.07.2023_––_Trabzon_Güney_Çev.json
+2024-08-15 20:55:56,142 - INFO - Downloaded: 12.05.2023_––_Sivas_İli,_Gürün_
+2024-08-15 20:55:56,142 - INFO - Saving metadata for: 12.05.2023_––_Sivas_İli,_Gürün_
+2024-08-15 20:55:56,142 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_12.05.2023_––_Sivas_İli,_Gürün_.json
+2024-08-15 20:55:56,607 - INFO - Downloaded: 12.05.2023_––_Sivas_İli,_Gürün_
+2024-08-15 20:55:56,608 - INFO - Saving metadata for: 12.05.2023_––_Sivas_İli,_Gürün_
+2024-08-15 20:55:56,608 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_12.05.2023_––_Sivas_İli,_Gürün_.json
+2024-08-15 20:55:57,510 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_İskend
+2024-08-15 20:55:57,511 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_İskend
+2024-08-15 20:55:57,511 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_İskend.json
+2024-08-15 20:55:58,631 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:55:58,632 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:55:58,632 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_Antaky.json
+2024-08-15 20:56:01,012 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:01,013 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:01,013 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_Defne_.json
+2024-08-15 20:56:02,353 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_İskend
+2024-08-15 20:56:02,353 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_İskend
+2024-08-15 20:56:02,354 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_İskend.json
+2024-08-15 20:56:04,453 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:04,453 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:04,453 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_Antaky.json
+2024-08-15 20:56:05,378 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:05,378 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:05,378 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_Defne_.json
+2024-08-15 20:56:06,628 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_İskend
+2024-08-15 20:56:06,628 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_İskend
+2024-08-15 20:56:06,629 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_İskend.json
+2024-08-15 20:56:08,388 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:08,389 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:08,389 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_Antaky.json
+2024-08-15 20:56:09,131 - INFO - Downloaded: 14.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:09,131 - INFO - Saving metadata for: 14.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:09,131 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.04.2023_––_Hatay_İli,_Defne_.json
+2024-08-15 20:56:10,517 - INFO - Downloaded: 05.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:10,517 - INFO - Saving metadata for: 05.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:10,518 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_––_Hatay_İli,_Antaky.json
+2024-08-15 20:56:12,354 - INFO - Downloaded: 05.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:12,354 - INFO - Saving metadata for: 05.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:12,355 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_––_Hatay_İli,_Defne_.json
+2024-08-15 20:56:13,260 - INFO - Downloaded: 05.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:13,260 - INFO - Saving metadata for: 05.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:13,260 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_––_Hatay_İli,_Antaky.json
+2024-08-15 20:56:14,153 - INFO - Downloaded: 05.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:14,153 - INFO - Saving metadata for: 05.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:14,153 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_––_Hatay_İli,_Defne_.json
+2024-08-15 20:56:15,528 - INFO - Downloaded: 05.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:15,528 - INFO - Saving metadata for: 05.04.2023_––_Hatay_İli,_Antaky
+2024-08-15 20:56:15,528 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_––_Hatay_İli,_Antaky.json
+2024-08-15 20:56:17,086 - INFO - Downloaded: 05.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:17,086 - INFO - Saving metadata for: 05.04.2023_––_Hatay_İli,_Defne_
+2024-08-15 20:56:17,087 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_––_Hatay_İli,_Defne_.json
+2024-08-15 20:56:17,578 - INFO - Downloaded: 24.03.2023_––_Vakıf_Kültür_Varl
+2024-08-15 20:56:17,578 - INFO - Saving metadata for: 24.03.2023_––_Vakıf_Kültür_Varl
+2024-08-15 20:56:17,578 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_24.03.2023_––_Vakıf_Kültür_Varl.json
+2024-08-15 20:57:16,390 - INFO - Downloaded: 09.03.2023_––_Türkiye_İçin_Çevr
+2024-08-15 20:57:16,390 - INFO - Saving metadata for: 09.03.2023_––_Türkiye_İçin_Çevr
+2024-08-15 20:57:16,390 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_09.03.2023_––_Türkiye_İçin_Çevr.json
+2024-08-15 20:57:26,684 - INFO - Downloaded: 24.02.2023_––_Çevre_ve_Şehircil
+2024-08-15 20:57:26,684 - INFO - Saving metadata for: 24.02.2023_––_Çevre_ve_Şehircil
+2024-08-15 20:57:26,684 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_24.02.2023_––_Çevre_ve_Şehircil.json
+2024-08-15 20:57:28,782 - INFO - Downloaded: 15.12.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:28,783 - INFO - Saving metadata for: 15.12.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:28,783 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.12.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 20:57:32,470 - INFO - Downloaded: 11.11.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:32,470 - INFO - Saving metadata for: 11.11.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:32,471 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_11.11.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 20:57:33,220 - INFO - Downloaded: 11.11.2022_––_Erzurum_İli,_Yaku
+2024-08-15 20:57:33,220 - INFO - Saving metadata for: 11.11.2022_––_Erzurum_İli,_Yaku
+2024-08-15 20:57:33,220 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_11.11.2022_––_Erzurum_İli,_Yaku.json
+2024-08-15 20:57:36,361 - INFO - Downloaded: 11.11.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:36,362 - INFO - Saving metadata for: 11.11.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:36,362 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_11.11.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 20:57:37,508 - INFO - Downloaded: 11.11.2022_––_Erzurum_İli,_Yaku
+2024-08-15 20:57:37,509 - INFO - Saving metadata for: 11.11.2022_––_Erzurum_İli,_Yaku
+2024-08-15 20:57:37,509 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_11.11.2022_––_Erzurum_İli,_Yaku.json
+2024-08-15 20:57:38,268 - INFO - Downloaded: 10.11.2022_––_Vakıf_Kültür_Varl
+2024-08-15 20:57:38,269 - INFO - Saving metadata for: 10.11.2022_––_Vakıf_Kültür_Varl
+2024-08-15 20:57:38,269 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_10.11.2022_––_Vakıf_Kültür_Varl.json
+2024-08-15 20:57:39,658 - INFO - Downloaded: 08.10.2022_––_Balıkesir_İli,_Ka
+2024-08-15 20:57:39,658 - INFO - Saving metadata for: 08.10.2022_––_Balıkesir_İli,_Ka
+2024-08-15 20:57:39,659 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_08.10.2022_––_Balıkesir_İli,_Ka.json
+2024-08-15 20:57:40,067 - INFO - Downloaded: 14.09.2022_––_Kocaeli_Serbest_B
+2024-08-15 20:57:40,068 - INFO - Saving metadata for: 14.09.2022_––_Kocaeli_Serbest_B
+2024-08-15 20:57:40,068 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.09.2022_––_Kocaeli_Serbest_B.json
+2024-08-15 20:57:40,622 - INFO - Downloaded: 06.09.2022_––_Çorum_İli,_Osmanc
+2024-08-15 20:57:40,622 - INFO - Saving metadata for: 06.09.2022_––_Çorum_İli,_Osmanc
+2024-08-15 20:57:40,623 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_06.09.2022_––_Çorum_İli,_Osmanc.json
+2024-08-15 20:57:41,035 - INFO - Downloaded: 28.07.2022_––_Cumhurbaşkanlığın
+2024-08-15 20:57:41,035 - INFO - Saving metadata for: 28.07.2022_––_Cumhurbaşkanlığın
+2024-08-15 20:57:41,036 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_28.07.2022_––_Cumhurbaşkanlığın.json
+2024-08-15 20:57:41,352 - INFO - Downloaded: 02.07.2022_1332_Çevre_Komisyonu
+2024-08-15 20:57:41,352 - INFO - Saving metadata for: 02.07.2022_1332_Çevre_Komisyonu
+2024-08-15 20:57:41,353 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_02.07.2022_1332_Çevre_Komisyonu.json
+2024-08-15 20:57:42,947 - INFO - Downloaded: 24.06.2022_––_Vakıf_Kültür_Varl
+2024-08-15 20:57:42,947 - INFO - Saving metadata for: 24.06.2022_––_Vakıf_Kültür_Varl
+2024-08-15 20:57:42,947 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_24.06.2022_––_Vakıf_Kültür_Varl.json
+2024-08-15 20:57:44,992 - INFO - Downloaded: 16.06.2022_––_Korunması_Gerekli
+2024-08-15 20:57:44,992 - INFO - Saving metadata for: 16.06.2022_––_Korunması_Gerekli
+2024-08-15 20:57:44,992 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_16.06.2022_––_Korunması_Gerekli.json
+2024-08-15 20:57:45,592 - INFO - Downloaded: 21.05.2022_––_Türkiye_Çevre_Haf
+2024-08-15 20:57:45,592 - INFO - Saving metadata for: 21.05.2022_––_Türkiye_Çevre_Haf
+2024-08-15 20:57:45,592 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_21.05.2022_––_Türkiye_Çevre_Haf.json
+2024-08-15 20:57:46,139 - INFO - Downloaded: 22.04.2022_––_Bolu_İli,_Gerede_
+2024-08-15 20:57:46,140 - INFO - Saving metadata for: 22.04.2022_––_Bolu_İli,_Gerede_
+2024-08-15 20:57:46,140 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_22.04.2022_––_Bolu_İli,_Gerede_.json
+2024-08-15 20:57:46,977 - INFO - Downloaded: 22.04.2022_––_Hatay_İli,_Antaky
+2024-08-15 20:57:46,977 - INFO - Saving metadata for: 22.04.2022_––_Hatay_İli,_Antaky
+2024-08-15 20:57:46,978 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_22.04.2022_––_Hatay_İli,_Antaky.json
+2024-08-15 20:57:47,532 - INFO - Downloaded: 22.04.2022_––_Bolu_İli,_Gerede_
+2024-08-15 20:57:47,532 - INFO - Saving metadata for: 22.04.2022_––_Bolu_İli,_Gerede_
+2024-08-15 20:57:47,532 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_22.04.2022_––_Bolu_İli,_Gerede_.json
+2024-08-15 20:57:47,895 - INFO - Downloaded: 22.04.2022_––_Hatay_İli,_Antaky
+2024-08-15 20:57:47,895 - INFO - Saving metadata for: 22.04.2022_––_Hatay_İli,_Antaky
+2024-08-15 20:57:47,895 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_22.04.2022_––_Hatay_İli,_Antaky.json
+2024-08-15 20:57:48,350 - INFO - Downloaded: 23.03.2022_––_Ankara_İli,_Bala_
+2024-08-15 20:57:48,350 - INFO - Saving metadata for: 23.03.2022_––_Ankara_İli,_Bala_
+2024-08-15 20:57:48,351 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_23.03.2022_––_Ankara_İli,_Bala_.json
+2024-08-15 20:57:49,284 - INFO - Downloaded: 19.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:49,284 - INFO - Saving metadata for: 19.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:49,284 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_19.03.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 20:57:51,868 - INFO - Downloaded: 19.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:51,868 - INFO - Saving metadata for: 19.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:51,868 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_19.03.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 20:57:52,457 - INFO - Downloaded: 19.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:52,457 - INFO - Saving metadata for: 19.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:52,457 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_19.03.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 20:57:53,530 - INFO - Downloaded: 19.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:53,530 - INFO - Saving metadata for: 19.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 20:57:53,530 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_19.03.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 21:01:15,997 - INFO - Downloaded: 12.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 21:01:15,997 - INFO - Saving metadata for: 12.03.2022_––_Türkiye_Cumhuriye
+2024-08-15 21:01:15,997 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_12.03.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 21:01:16,698 - INFO - Downloaded: 05.02.2022_––_Mardin_İli,_Yeşil
+2024-08-15 21:01:16,698 - INFO - Saving metadata for: 05.02.2022_––_Mardin_İli,_Yeşil
+2024-08-15 21:01:16,699 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.02.2022_––_Mardin_İli,_Yeşil.json
+2024-08-15 21:01:17,424 - INFO - Downloaded: 05.02.2022_––_Mardin_İli,_Yeşil
+2024-08-15 21:01:17,424 - INFO - Saving metadata for: 05.02.2022_––_Mardin_İli,_Yeşil
+2024-08-15 21:01:17,425 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.02.2022_––_Mardin_İli,_Yeşil.json
+2024-08-15 21:01:18,191 - INFO - Downloaded: 15.01.2022_––_Türkiye_Cumhuriye
+2024-08-15 21:01:18,192 - INFO - Saving metadata for: 15.01.2022_––_Türkiye_Cumhuriye
+2024-08-15 21:01:18,192 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.01.2022_––_Türkiye_Cumhuriye.json
+2024-08-15 21:01:20,045 - INFO - Downloaded: 09.12.2021_––_Türkiye_Cumhuriye
+2024-08-15 21:01:20,045 - INFO - Saving metadata for: 09.12.2021_––_Türkiye_Cumhuriye
+2024-08-15 21:01:20,045 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_09.12.2021_––_Türkiye_Cumhuriye.json
+2024-08-15 21:01:20,508 - INFO - Downloaded: 05.11.2021_––_Bazı_Alanların_Ma
+2024-08-15 21:01:20,508 - INFO - Saving metadata for: 05.11.2021_––_Bazı_Alanların_Ma
+2024-08-15 21:01:20,508 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.11.2021_––_Bazı_Alanların_Ma.json
+2024-08-15 21:01:22,771 - INFO - Downloaded: 04.11.2021_––_Bitlis_İli,_Merke
+2024-08-15 21:01:22,771 - INFO - Saving metadata for: 04.11.2021_––_Bitlis_İli,_Merke
+2024-08-15 21:01:22,771 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_04.11.2021_––_Bitlis_İli,_Merke.json
+2024-08-15 21:01:23,284 - INFO - Downloaded: 30.09.2021_––_Giresun_İli,_Dere
+2024-08-15 21:01:23,284 - INFO - Saving metadata for: 30.09.2021_––_Giresun_İli,_Dere
+2024-08-15 21:01:23,284 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.09.2021_––_Giresun_İli,_Dere.json
+2024-08-15 21:01:23,747 - INFO - Downloaded: 05.08.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:01:23,747 - INFO - Saving metadata for: 05.08.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:01:23,747 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.08.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:01:24,207 - INFO - Downloaded: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:01:24,208 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:01:24,208 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:01:24,683 - INFO - Downloaded: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:01:24,683 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:01:24,684 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:01:25,156 - INFO - Downloaded: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:01:25,156 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:01:25,156 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:01:25,734 - INFO - Downloaded: 10.07.2021_1297_Çevre_Komisyonu
+2024-08-15 21:01:25,734 - INFO - Saving metadata for: 10.07.2021_1297_Çevre_Komisyonu
+2024-08-15 21:01:25,735 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_10.07.2021_1297_Çevre_Komisyonu.json
+2024-08-15 21:01:26,242 - INFO - Downloaded: 10.07.2021_1297_Çevre_Komisyonu
+2024-08-15 21:01:26,242 - INFO - Saving metadata for: 10.07.2021_1297_Çevre_Komisyonu
+2024-08-15 21:01:26,242 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_10.07.2021_1297_Çevre_Komisyonu.json
+2024-08-15 21:01:27,237 - INFO - Downloaded: 25.06.2021_––_Kaş-Kekova_Özel_Ç
+2024-08-15 21:01:27,237 - INFO - Saving metadata for: 25.06.2021_––_Kaş-Kekova_Özel_Ç
+2024-08-15 21:01:27,237 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_25.06.2021_––_Kaş-Kekova_Özel_Ç.json
+2024-08-15 21:01:28,157 - INFO - Downloaded: 25.06.2021_––_Ihlara_Özel_Çevre
+2024-08-15 21:01:28,157 - INFO - Saving metadata for: 25.06.2021_––_Ihlara_Özel_Çevre
+2024-08-15 21:01:28,157 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_25.06.2021_––_Ihlara_Özel_Çevre.json
+2024-08-15 21:01:37,792 - INFO - Downloaded: 25.06.2021_––_Kaş-Kekova_Özel_Ç
+2024-08-15 21:01:37,793 - INFO - Saving metadata for: 25.06.2021_––_Kaş-Kekova_Özel_Ç
+2024-08-15 21:01:37,793 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_25.06.2021_––_Kaş-Kekova_Özel_Ç.json
+2024-08-15 21:01:38,398 - INFO - Downloaded: 25.06.2021_––_Ihlara_Özel_Çevre
+2024-08-15 21:01:38,398 - INFO - Saving metadata for: 25.06.2021_––_Ihlara_Özel_Çevre
+2024-08-15 21:01:38,398 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_25.06.2021_––_Ihlara_Özel_Çevre.json
+2024-08-15 21:01:39,707 - INFO - Downloaded: 30.04.2021_––_Türkiye_Çevre_Aja
+2024-08-15 21:01:39,707 - INFO - Saving metadata for: 30.04.2021_––_Türkiye_Çevre_Aja
+2024-08-15 21:01:39,707 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.04.2021_––_Türkiye_Çevre_Aja.json
+2024-08-15 21:01:41,207 - INFO - Downloaded: 20.03.2021_––_Direktaş_Regülatö
+2024-08-15 21:01:41,208 - INFO - Saving metadata for: 20.03.2021_––_Direktaş_Regülatö
+2024-08-15 21:01:41,208 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_20.03.2021_––_Direktaş_Regülatö.json
+2024-08-15 21:01:41,652 - INFO - Downloaded: 13.02.2021_––_Özgüven_Regülatör
+2024-08-15 21:01:41,652 - INFO - Saving metadata for: 13.02.2021_––_Özgüven_Regülatör
+2024-08-15 21:01:41,653 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_13.02.2021_––_Özgüven_Regülatör.json
+2024-08-15 21:02:01,851 - INFO - Downloaded: 04.02.2021_––_Türkiye’nin_Doğu_
+2024-08-15 21:02:01,851 - INFO - Saving metadata for: 04.02.2021_––_Türkiye’nin_Doğu_
+2024-08-15 21:02:01,851 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_04.02.2021_––_Türkiye’nin_Doğu_.json
+2024-08-15 21:02:03,116 - INFO - Downloaded: 06.01.2021_––_Manisa_İli_Sınırl
+2024-08-15 21:02:03,116 - INFO - Saving metadata for: 06.01.2021_––_Manisa_İli_Sınırl
+2024-08-15 21:02:03,116 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_06.01.2021_––_Manisa_İli_Sınırl.json
+2024-08-15 21:02:04,351 - INFO - Downloaded: 06.01.2021_––_Ömerli_Rüzgâr_Ene
+2024-08-15 21:02:04,351 - INFO - Saving metadata for: 06.01.2021_––_Ömerli_Rüzgâr_Ene
+2024-08-15 21:02:04,352 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_06.01.2021_––_Ömerli_Rüzgâr_Ene.json
+2024-08-15 21:02:05,541 - INFO - Downloaded: 06.01.2021_––_Manisa_İli_Sınırl
+2024-08-15 21:02:05,541 - INFO - Saving metadata for: 06.01.2021_––_Manisa_İli_Sınırl
+2024-08-15 21:02:05,541 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_06.01.2021_––_Manisa_İli_Sınırl.json
+2024-08-15 21:02:06,504 - INFO - Downloaded: 06.01.2021_––_Ömerli_Rüzgâr_Ene
+2024-08-15 21:02:06,504 - INFO - Saving metadata for: 06.01.2021_––_Ömerli_Rüzgâr_Ene
+2024-08-15 21:02:06,504 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_06.01.2021_––_Ömerli_Rüzgâr_Ene.json
+2024-08-15 21:02:06,980 - INFO - Downloaded: 04.12.2020_––_Rize_İli,_Güneysu
+2024-08-15 21:02:06,980 - INFO - Saving metadata for: 04.12.2020_––_Rize_İli,_Güneysu
+2024-08-15 21:02:06,981 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_04.12.2020_––_Rize_İli,_Güneysu.json
+2024-08-15 21:02:09,490 - INFO - Downloaded: 02.12.2020_––_Gürsöğüt_Barajı_v
+2024-08-15 21:02:09,490 - INFO - Saving metadata for: 02.12.2020_––_Gürsöğüt_Barajı_v
+2024-08-15 21:02:09,490 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_02.12.2020_––_Gürsöğüt_Barajı_v.json
+2024-08-15 21:02:10,272 - INFO - Downloaded: 26.11.2020_––_Tuz_Gölü_Özel_Çev
+2024-08-15 21:02:10,273 - INFO - Saving metadata for: 26.11.2020_––_Tuz_Gölü_Özel_Çev
+2024-08-15 21:02:10,273 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_26.11.2020_––_Tuz_Gölü_Özel_Çev.json
+2024-08-15 21:02:10,833 - INFO - Downloaded: 22.10.2020_––_Karayel_Hidroelek
+2024-08-15 21:02:10,833 - INFO - Saving metadata for: 22.10.2020_––_Karayel_Hidroelek
+2024-08-15 21:02:10,833 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_22.10.2020_––_Karayel_Hidroelek.json
+2024-08-15 21:02:11,362 - INFO - Downloaded: 22.10.2020_––_Ömerli_Rüzgâr_Ene
+2024-08-15 21:02:11,362 - INFO - Saving metadata for: 22.10.2020_––_Ömerli_Rüzgâr_Ene
+2024-08-15 21:02:11,362 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_22.10.2020_––_Ömerli_Rüzgâr_Ene.json
+2024-08-15 21:02:11,887 - INFO - Downloaded: 22.10.2020_––_Karayel_Hidroelek
+2024-08-15 21:02:11,887 - INFO - Saving metadata for: 22.10.2020_––_Karayel_Hidroelek
+2024-08-15 21:02:11,887 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_22.10.2020_––_Karayel_Hidroelek.json
+2024-08-15 21:02:12,370 - INFO - Downloaded: 22.10.2020_––_Ömerli_Rüzgâr_Ene
+2024-08-15 21:02:12,370 - INFO - Saving metadata for: 22.10.2020_––_Ömerli_Rüzgâr_Ene
+2024-08-15 21:02:12,370 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_22.10.2020_––_Ömerli_Rüzgâr_Ene.json
+2024-08-15 21:02:13,230 - INFO - Downloaded: 14.10.2020_––_Van_İlinde_Buluna
+2024-08-15 21:02:13,230 - INFO - Saving metadata for: 14.10.2020_––_Van_İlinde_Buluna
+2024-08-15 21:02:13,231 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.10.2020_––_Van_İlinde_Buluna.json
+2024-08-15 21:02:13,752 - INFO - Downloaded: 07.10.2020_––_Yozgat_İli,_Merke
+2024-08-15 21:02:13,752 - INFO - Saving metadata for: 07.10.2020_––_Yozgat_İli,_Merke
+2024-08-15 21:02:13,752 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_07.10.2020_––_Yozgat_İli,_Merke.json
+2024-08-15 21:02:14,676 - INFO - Downloaded: 26.09.2020_––_Patara_Özel_Çevre
+2024-08-15 21:02:14,676 - INFO - Saving metadata for: 26.09.2020_––_Patara_Özel_Çevre
+2024-08-15 21:02:14,676 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_26.09.2020_––_Patara_Özel_Çevre.json
+2024-08-15 21:02:20,965 - INFO - Downloaded: 26.09.2020_––_Patara_Özel_Çevre
+2024-08-15 21:02:20,965 - INFO - Saving metadata for: 26.09.2020_––_Patara_Özel_Çevre
+2024-08-15 21:02:20,965 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_26.09.2020_––_Patara_Özel_Çevre.json
+2024-08-15 21:02:20,965 - INFO - Saving PDF data for keyword: Çevre
+2024-08-15 21:02:20,965 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/11.05.2024_––_Vakıf_Kültür_Varl.pdf
+2024-08-15 21:02:20,966 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/30.04.2024_––_Korunması_Gerekli.pdf
+2024-08-15 21:02:20,966 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/07.04.2024_––_Narlı-Pazarcık-8..pdf
+2024-08-15 21:02:20,966 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.12.2023_––_2872_Sayılı_Çevre.pdf
+2024-08-15 21:02:20,967 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/25.10.2023_––_Çevre,_Şehircilik.pdf
+2024-08-15 21:02:20,967 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/03.10.2023_––_Mersin_İli,_Akden.pdf
+2024-08-15 21:02:20,968 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/03.10.2023_––_Çevre,_Şehircilik.pdf
+2024-08-15 21:02:20,968 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/03.10.2023_––_Mersin_İli,_Akden.pdf
+2024-08-15 21:02:20,969 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/03.10.2023_––_Çevre,_Şehircilik.pdf
+2024-08-15 21:02:20,969 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/16.09.2023_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,970 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Malatya_İli,_Doğa.pdf
+2024-08-15 21:02:20,970 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Mardin_İli,_Midya.pdf
+2024-08-15 21:02:20,970 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Samsun_İli,_Canik.pdf
+2024-08-15 21:02:20,973 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Malatya_İli,_Doğa.pdf
+2024-08-15 21:02:20,974 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Mardin_İli,_Midya.pdf
+2024-08-15 21:02:20,974 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Samsun_İli,_Canik.pdf
+2024-08-15 21:02:20,974 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Malatya_İli,_Doğa.pdf
+2024-08-15 21:02:20,974 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Mardin_İli,_Midya.pdf
+2024-08-15 21:02:20,974 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/29.07.2023_––_Samsun_İli,_Canik.pdf
+2024-08-15 21:02:20,975 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/16.07.2023_1389_Çevre_Komisyonu.pdf
+2024-08-15 21:02:20,975 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/07.07.2023_––_Trabzon_Güney_Çev.pdf
+2024-08-15 21:02:20,975 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/12.05.2023_––_Sivas_İli,_Gürün_.pdf
+2024-08-15 21:02:20,975 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/12.05.2023_––_Sivas_İli,_Gürün_.pdf
+2024-08-15 21:02:20,975 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_İskend.pdf
+2024-08-15 21:02:20,976 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_Antaky.pdf
+2024-08-15 21:02:20,976 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_Defne_.pdf
+2024-08-15 21:02:20,976 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_İskend.pdf
+2024-08-15 21:02:20,977 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_Antaky.pdf
+2024-08-15 21:02:20,977 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_Defne_.pdf
+2024-08-15 21:02:20,978 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_İskend.pdf
+2024-08-15 21:02:20,978 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_Antaky.pdf
+2024-08-15 21:02:20,979 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.04.2023_––_Hatay_İli,_Defne_.pdf
+2024-08-15 21:02:20,979 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.04.2023_––_Hatay_İli,_Antaky.pdf
+2024-08-15 21:02:20,979 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.04.2023_––_Hatay_İli,_Defne_.pdf
+2024-08-15 21:02:20,979 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.04.2023_––_Hatay_İli,_Antaky.pdf
+2024-08-15 21:02:20,980 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.04.2023_––_Hatay_İli,_Defne_.pdf
+2024-08-15 21:02:20,980 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.04.2023_––_Hatay_İli,_Antaky.pdf
+2024-08-15 21:02:20,980 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.04.2023_––_Hatay_İli,_Defne_.pdf
+2024-08-15 21:02:20,981 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/24.03.2023_––_Vakıf_Kültür_Varl.pdf
+2024-08-15 21:02:20,984 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/09.03.2023_––_Türkiye_İçin_Çevr.pdf
+2024-08-15 21:02:20,984 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/24.02.2023_––_Çevre_ve_Şehircil.pdf
+2024-08-15 21:02:20,984 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/15.12.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,985 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/11.11.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,985 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/11.11.2022_––_Erzurum_İli,_Yaku.pdf
+2024-08-15 21:02:20,986 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/11.11.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,986 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/11.11.2022_––_Erzurum_İli,_Yaku.pdf
+2024-08-15 21:02:20,986 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/10.11.2022_––_Vakıf_Kültür_Varl.pdf
+2024-08-15 21:02:20,987 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/08.10.2022_––_Balıkesir_İli,_Ka.pdf
+2024-08-15 21:02:20,987 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.09.2022_––_Kocaeli_Serbest_B.pdf
+2024-08-15 21:02:20,987 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/06.09.2022_––_Çorum_İli,_Osmanc.pdf
+2024-08-15 21:02:20,987 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/28.07.2022_––_Cumhurbaşkanlığın.pdf
+2024-08-15 21:02:20,987 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/02.07.2022_1332_Çevre_Komisyonu.pdf
+2024-08-15 21:02:20,987 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/24.06.2022_––_Vakıf_Kültür_Varl.pdf
+2024-08-15 21:02:20,988 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/16.06.2022_––_Korunması_Gerekli.pdf
+2024-08-15 21:02:20,988 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/21.05.2022_––_Türkiye_Çevre_Haf.pdf
+2024-08-15 21:02:20,989 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/22.04.2022_––_Bolu_İli,_Gerede_.pdf
+2024-08-15 21:02:20,989 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/22.04.2022_––_Hatay_İli,_Antaky.pdf
+2024-08-15 21:02:20,989 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/22.04.2022_––_Bolu_İli,_Gerede_.pdf
+2024-08-15 21:02:20,989 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/22.04.2022_––_Hatay_İli,_Antaky.pdf
+2024-08-15 21:02:20,989 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/23.03.2022_––_Ankara_İli,_Bala_.pdf
+2024-08-15 21:02:20,989 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/19.03.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,990 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/19.03.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,991 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/19.03.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,991 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/19.03.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,999 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/12.03.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:20,999 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.02.2022_––_Mardin_İli,_Yeşil.pdf
+2024-08-15 21:02:21,000 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.02.2022_––_Mardin_İli,_Yeşil.pdf
+2024-08-15 21:02:21,000 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/15.01.2022_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:21,002 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/09.12.2021_––_Türkiye_Cumhuriye.pdf
+2024-08-15 21:02:21,002 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.11.2021_––_Bazı_Alanların_Ma.pdf
+2024-08-15 21:02:21,003 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/04.11.2021_––_Bitlis_İli,_Merke.pdf
+2024-08-15 21:02:21,003 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/30.09.2021_––_Giresun_İli,_Dere.pdf
+2024-08-15 21:02:21,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/05.08.2021_––_Çevre_ve_Şehircil.pdf
+2024-08-15 21:02:21,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/15.07.2021_––_Çevre_ve_Şehircil.pdf
+2024-08-15 21:02:21,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/15.07.2021_––_Çevre_ve_Şehircil.pdf
+2024-08-15 21:02:21,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/15.07.2021_––_Çevre_ve_Şehircil.pdf
+2024-08-15 21:02:21,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/10.07.2021_1297_Çevre_Komisyonu.pdf
+2024-08-15 21:02:21,005 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/10.07.2021_1297_Çevre_Komisyonu.pdf
+2024-08-15 21:02:21,005 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/25.06.2021_––_Kaş-Kekova_Özel_Ç.pdf
+2024-08-15 21:02:21,005 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/25.06.2021_––_Ihlara_Özel_Çevre.pdf
+2024-08-15 21:02:21,006 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/25.06.2021_––_Kaş-Kekova_Özel_Ç.pdf
+2024-08-15 21:02:21,006 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/25.06.2021_––_Ihlara_Özel_Çevre.pdf
+2024-08-15 21:02:21,007 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/30.04.2021_––_Türkiye_Çevre_Aja.pdf
+2024-08-15 21:02:21,007 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/20.03.2021_––_Direktaş_Regülatö.pdf
+2024-08-15 21:02:21,008 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/13.02.2021_––_Özgüven_Regülatör.pdf
+2024-08-15 21:02:21,009 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/04.02.2021_––_Türkiye’nin_Doğu_.pdf
+2024-08-15 21:02:21,010 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/06.01.2021_––_Manisa_İli_Sınırl.pdf
+2024-08-15 21:02:21,011 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/06.01.2021_––_Ömerli_Rüzgâr_Ene.pdf
+2024-08-15 21:02:21,012 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/06.01.2021_––_Manisa_İli_Sınırl.pdf
+2024-08-15 21:02:21,013 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/06.01.2021_––_Ömerli_Rüzgâr_Ene.pdf
+2024-08-15 21:02:21,013 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/04.12.2020_––_Rize_İli,_Güneysu.pdf
+2024-08-15 21:02:21,014 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/02.12.2020_––_Gürsöğüt_Barajı_v.pdf
+2024-08-15 21:02:21,015 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/26.11.2020_––_Tuz_Gölü_Özel_Çev.pdf
+2024-08-15 21:02:21,015 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/22.10.2020_––_Karayel_Hidroelek.pdf
+2024-08-15 21:02:21,015 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/22.10.2020_––_Ömerli_Rüzgâr_Ene.pdf
+2024-08-15 21:02:21,015 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/22.10.2020_––_Karayel_Hidroelek.pdf
+2024-08-15 21:02:21,015 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/22.10.2020_––_Ömerli_Rüzgâr_Ene.pdf
+2024-08-15 21:02:21,016 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/14.10.2020_––_Van_İlinde_Buluna.pdf
+2024-08-15 21:02:21,016 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/07.10.2020_––_Yozgat_İli,_Merke.pdf
+2024-08-15 21:02:21,016 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/26.09.2020_––_Patara_Özel_Çevre.pdf
+2024-08-15 21:02:21,016 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/26.09.2020_––_Patara_Özel_Çevre.pdf
+2024-08-15 21:02:21,016 - INFO - Processing non-PDF URLs for keyword: Çevre
+2024-08-15 21:02:21,352 - INFO - Saving summary for: 03.06.2024_––_Zonguldak_Bülent_
+2024-08-15 21:02:21,352 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/03.06.2024_––_Zonguldak_Bülent_.txt
+2024-08-15 21:02:21,352 - INFO - Extracting tables from page: 03.06.2024_––_Zonguldak_Bülent_
+2024-08-15 21:02:21,354 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/06/20240603-1.htm
+2024-08-15 21:02:21,354 - INFO - Saving metadata for: 03.06.2024_––_Zonguldak_Bülent_
+2024-08-15 21:02:21,354 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_03.06.2024_––_Zonguldak_Bülent_.json
+2024-08-15 21:02:21,622 - INFO - Saving summary for: 06.04.2024_––_Türk_Mühendis_ve_
+2024-08-15 21:02:21,622 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/06.04.2024_––_Türk_Mühendis_ve_.txt
+2024-08-15 21:02:21,622 - INFO - Extracting tables from page: 06.04.2024_––_Türk_Mühendis_ve_
+2024-08-15 21:02:21,623 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/04/20240406-18.htm
+2024-08-15 21:02:21,624 - INFO - Saving metadata for: 06.04.2024_––_Türk_Mühendis_ve_
+2024-08-15 21:02:21,624 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_06.04.2024_––_Türk_Mühendis_ve_.json
+2024-08-15 21:02:21,927 - INFO - Saving summary for: 31.01.2024_––_Korunması_Gerekli
+2024-08-15 21:02:21,927 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/31.01.2024_––_Korunması_Gerekli.txt
+2024-08-15 21:02:21,927 - INFO - Extracting tables from page: 31.01.2024_––_Korunması_Gerekli
+2024-08-15 21:02:21,928 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/01/20240131-5.htm
+2024-08-15 21:02:21,928 - INFO - Saving metadata for: 31.01.2024_––_Korunması_Gerekli
+2024-08-15 21:02:21,928 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_31.01.2024_––_Korunması_Gerekli.json
+2024-08-15 21:02:22,249 - INFO - Saving summary for: 28.01.2024_––_Çanakkale_Onsekiz
+2024-08-15 21:02:22,249 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/28.01.2024_––_Çanakkale_Onsekiz.txt
+2024-08-15 21:02:22,249 - INFO - Extracting tables from page: 28.01.2024_––_Çanakkale_Onsekiz
+2024-08-15 21:02:22,249 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/01/20240128-3.htm
+2024-08-15 21:02:22,249 - INFO - Saving metadata for: 28.01.2024_––_Çanakkale_Onsekiz
+2024-08-15 21:02:22,250 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_28.01.2024_––_Çanakkale_Onsekiz.json
+2024-08-15 21:02:22,566 - INFO - Saving summary for: 29.12.2023_––_2872_Sayılı_Çevre
+2024-08-15 21:02:22,566 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/29.12.2023_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:22,566 - INFO - Extracting tables from page: 29.12.2023_––_2872_Sayılı_Çevre
+2024-08-15 21:02:22,567 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231229-6.htm
+2024-08-15 21:02:22,567 - INFO - Saving metadata for: 29.12.2023_––_2872_Sayılı_Çevre
+2024-08-15 21:02:22,567 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.12.2023_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:22,811 - INFO - Saving summary for: 28.12.2023_––_2872_sayılı_Çevre
+2024-08-15 21:02:22,811 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/28.12.2023_––_2872_sayılı_Çevre.txt
+2024-08-15 21:02:22,811 - INFO - Extracting tables from page: 28.12.2023_––_2872_sayılı_Çevre
+2024-08-15 21:02:22,811 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231228-4.htm
+2024-08-15 21:02:22,811 - INFO - Saving metadata for: 28.12.2023_––_2872_sayılı_Çevre
+2024-08-15 21:02:22,812 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_28.12.2023_––_2872_sayılı_Çevre.json
+2024-08-15 21:02:23,248 - INFO - Saving summary for: 13.11.2023_––_Dokuz_Eylül_Ünive
+2024-08-15 21:02:23,249 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/13.11.2023_––_Dokuz_Eylül_Ünive.txt
+2024-08-15 21:02:23,249 - INFO - Extracting tables from page: 13.11.2023_––_Dokuz_Eylül_Ünive
+2024-08-15 21:02:23,251 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/11/20231113-1.htm
+2024-08-15 21:02:23,251 - INFO - Saving metadata for: 13.11.2023_––_Dokuz_Eylül_Ünive
+2024-08-15 21:02:23,252 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_13.11.2023_––_Dokuz_Eylül_Ünive.json
+2024-08-15 21:02:23,558 - INFO - Saving summary for: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:23,558 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/26.06.2023_––_Orta_Doğu_Teknik_.txt
+2024-08-15 21:02:23,558 - INFO - Extracting tables from page: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:23,559 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-7.htm
+2024-08-15 21:02:23,559 - INFO - Saving metadata for: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:23,559 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_26.06.2023_––_Orta_Doğu_Teknik_.json
+2024-08-15 21:02:23,818 - INFO - Saving summary for: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:23,819 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/26.06.2023_––_Orta_Doğu_Teknik_.txt
+2024-08-15 21:02:23,819 - INFO - Extracting tables from page: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:23,819 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-9.htm
+2024-08-15 21:02:23,819 - INFO - Saving metadata for: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:23,819 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_26.06.2023_––_Orta_Doğu_Teknik_.json
+2024-08-15 21:02:24,156 - INFO - Saving summary for: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:24,156 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/26.06.2023_––_Orta_Doğu_Teknik_.txt
+2024-08-15 21:02:24,157 - INFO - Extracting tables from page: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:24,157 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-7.htm
+2024-08-15 21:02:24,157 - INFO - Saving metadata for: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:24,157 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_26.06.2023_––_Orta_Doğu_Teknik_.json
+2024-08-15 21:02:24,396 - INFO - Saving summary for: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:24,396 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/26.06.2023_––_Orta_Doğu_Teknik_.txt
+2024-08-15 21:02:24,396 - INFO - Extracting tables from page: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:24,397 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-9.htm
+2024-08-15 21:02:24,397 - INFO - Saving metadata for: 26.06.2023_––_Orta_Doğu_Teknik_
+2024-08-15 21:02:24,397 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_26.06.2023_––_Orta_Doğu_Teknik_.json
+2024-08-15 21:02:24,778 - INFO - Saving summary for: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:24,778 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/05.04.2023_7446_Çevre_Kanunu_il.txt
+2024-08-15 21:02:24,778 - INFO - Extracting tables from page: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:24,779 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-15 21:02:24,779 - INFO - Saving metadata for: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:24,779 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_7446_Çevre_Kanunu_il.json
+2024-08-15 21:02:25,072 - INFO - Saving summary for: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:25,072 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/05.04.2023_7446_Çevre_Kanunu_il.txt
+2024-08-15 21:02:25,072 - INFO - Extracting tables from page: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:25,073 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-15 21:02:25,073 - INFO - Saving metadata for: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:25,073 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_7446_Çevre_Kanunu_il.json
+2024-08-15 21:02:25,377 - INFO - Saving summary for: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:25,377 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/05.04.2023_7446_Çevre_Kanunu_il.txt
+2024-08-15 21:02:25,377 - INFO - Extracting tables from page: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:25,378 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-15 21:02:25,378 - INFO - Saving metadata for: 05.04.2023_7446_Çevre_Kanunu_il
+2024-08-15 21:02:25,378 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_05.04.2023_7446_Çevre_Kanunu_il.json
+2024-08-15 21:02:25,672 - INFO - Saving summary for: 29.03.2023_––_Çevre_ve_Şehircil
+2024-08-15 21:02:25,672 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/29.03.2023_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:25,672 - INFO - Extracting tables from page: 29.03.2023_––_Çevre_ve_Şehircil
+2024-08-15 21:02:25,673 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/03/20230329-1.htm
+2024-08-15 21:02:25,673 - INFO - Saving metadata for: 29.03.2023_––_Çevre_ve_Şehircil
+2024-08-15 21:02:25,673 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.03.2023_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:25,946 - INFO - Saving summary for: 25.03.2023_––_Çevre,_Şehircilik
+2024-08-15 21:02:25,947 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/25.03.2023_––_Çevre,_Şehircilik.txt
+2024-08-15 21:02:25,947 - INFO - Extracting tables from page: 25.03.2023_––_Çevre,_Şehircilik
+2024-08-15 21:02:25,947 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/03/20230325-1.htm
+2024-08-15 21:02:25,947 - INFO - Saving metadata for: 25.03.2023_––_Çevre,_Şehircilik
+2024-08-15 21:02:25,947 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_25.03.2023_––_Çevre,_Şehircilik.json
+2024-08-15 21:02:26,277 - INFO - Saving summary for: 23.02.2023_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:26,277 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/23.02.2023_––_Çevre_İzin_ve_Lis.txt
+2024-08-15 21:02:26,277 - INFO - Extracting tables from page: 23.02.2023_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:26,277 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/02/20230223-1.htm
+2024-08-15 21:02:26,277 - INFO - Saving metadata for: 23.02.2023_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:26,277 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_23.02.2023_––_Çevre_İzin_ve_Lis.json
+2024-08-15 21:02:26,622 - INFO - Saving summary for: 27.01.2023_––_Korunması_Gerekli
+2024-08-15 21:02:26,623 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/27.01.2023_––_Korunması_Gerekli.txt
+2024-08-15 21:02:26,623 - INFO - Extracting tables from page: 27.01.2023_––_Korunması_Gerekli
+2024-08-15 21:02:26,623 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230127-2.htm
+2024-08-15 21:02:26,623 - INFO - Saving metadata for: 27.01.2023_––_Korunması_Gerekli
+2024-08-15 21:02:26,623 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_27.01.2023_––_Korunması_Gerekli.json
+2024-08-15 21:02:26,985 - INFO - Saving summary for: 23.01.2023_––_Bitlis_Eren_Ünive
+2024-08-15 21:02:26,985 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/23.01.2023_––_Bitlis_Eren_Ünive.txt
+2024-08-15 21:02:26,985 - INFO - Extracting tables from page: 23.01.2023_––_Bitlis_Eren_Ünive
+2024-08-15 21:02:26,986 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230123-1.htm
+2024-08-15 21:02:26,986 - INFO - Saving metadata for: 23.01.2023_––_Bitlis_Eren_Ünive
+2024-08-15 21:02:26,987 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_23.01.2023_––_Bitlis_Eren_Ünive.json
+2024-08-15 21:02:27,343 - INFO - Saving summary for: 14.01.2023_––_2872_Sayılı_Çevre
+2024-08-15 21:02:27,344 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/14.01.2023_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:27,344 - INFO - Extracting tables from page: 14.01.2023_––_2872_Sayılı_Çevre
+2024-08-15 21:02:27,344 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230114-16.htm
+2024-08-15 21:02:27,344 - INFO - Saving metadata for: 14.01.2023_––_2872_Sayılı_Çevre
+2024-08-15 21:02:27,344 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_14.01.2023_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:27,651 - INFO - Saving summary for: 29.12.2022_––_2872_Sayılı_Çevre
+2024-08-15 21:02:27,652 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/29.12.2022_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:27,652 - INFO - Extracting tables from page: 29.12.2022_––_2872_Sayılı_Çevre
+2024-08-15 21:02:27,652 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/12/20221229-14.htm
+2024-08-15 21:02:27,652 - INFO - Saving metadata for: 29.12.2022_––_2872_Sayılı_Çevre
+2024-08-15 21:02:27,652 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.12.2022_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:27,984 - INFO - Saving summary for: 12.11.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:27,984 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/12.11.2022_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:27,984 - INFO - Extracting tables from page: 12.11.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:27,985 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/11/20221112-2.htm
+2024-08-15 21:02:27,985 - INFO - Saving metadata for: 12.11.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:27,985 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_12.11.2022_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:28,583 - INFO - Saving summary for: 01.11.2022_––_Çevre_Yönetimi_Hi
+2024-08-15 21:02:28,584 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/01.11.2022_––_Çevre_Yönetimi_Hi.txt
+2024-08-15 21:02:28,584 - INFO - Extracting tables from page: 01.11.2022_––_Çevre_Yönetimi_Hi
+2024-08-15 21:02:28,587 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/11/20221101-11.htm
+2024-08-15 21:02:28,587 - INFO - Saving metadata for: 01.11.2022_––_Çevre_Yönetimi_Hi
+2024-08-15 21:02:28,587 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_01.11.2022_––_Çevre_Yönetimi_Hi.json
+2024-08-15 21:02:29,030 - INFO - Saving summary for: 28.10.2022_––_Çevre,_Şehircilik
+2024-08-15 21:02:29,031 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/28.10.2022_––_Çevre,_Şehircilik.txt
+2024-08-15 21:02:29,031 - INFO - Extracting tables from page: 28.10.2022_––_Çevre,_Şehircilik
+2024-08-15 21:02:29,035 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/10/20221028-11.htm
+2024-08-15 21:02:29,035 - INFO - Saving metadata for: 28.10.2022_––_Çevre,_Şehircilik
+2024-08-15 21:02:29,035 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_28.10.2022_––_Çevre,_Şehircilik.json
+2024-08-15 21:02:29,293 - INFO - Saving summary for: 08.09.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:29,294 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/08.09.2022_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:29,294 - INFO - Extracting tables from page: 08.09.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:29,294 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/09/20220908-1.htm
+2024-08-15 21:02:29,294 - INFO - Saving metadata for: 08.09.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:29,294 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_08.09.2022_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:29,707 - INFO - Saving summary for: 15.08.2022_––_Niğde_Ömer_Halisd
+2024-08-15 21:02:29,708 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.08.2022_––_Niğde_Ömer_Halisd.txt
+2024-08-15 21:02:29,708 - INFO - Extracting tables from page: 15.08.2022_––_Niğde_Ömer_Halisd
+2024-08-15 21:02:29,710 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/08/20220815-3.htm
+2024-08-15 21:02:29,710 - INFO - Saving metadata for: 15.08.2022_––_Niğde_Ömer_Halisd
+2024-08-15 21:02:29,710 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.08.2022_––_Niğde_Ömer_Halisd.json
+2024-08-15 21:02:30,020 - INFO - Saving summary for: 15.06.2022_7410_Çevre_Kanunu_il
+2024-08-15 21:02:30,020 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.06.2022_7410_Çevre_Kanunu_il.txt
+2024-08-15 21:02:30,020 - INFO - Extracting tables from page: 15.06.2022_7410_Çevre_Kanunu_il
+2024-08-15 21:02:30,022 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/06/20220615-8.htm
+2024-08-15 21:02:30,022 - INFO - Saving metadata for: 15.06.2022_7410_Çevre_Kanunu_il
+2024-08-15 21:02:30,022 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.06.2022_7410_Çevre_Kanunu_il.json
+2024-08-15 21:02:30,318 - INFO - Saving summary for: 09.06.2022_––_Recep_Tayyip_Erdo
+2024-08-15 21:02:30,318 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/09.06.2022_––_Recep_Tayyip_Erdo.txt
+2024-08-15 21:02:30,318 - INFO - Extracting tables from page: 09.06.2022_––_Recep_Tayyip_Erdo
+2024-08-15 21:02:30,320 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/06/20220609-9.htm
+2024-08-15 21:02:30,320 - INFO - Saving metadata for: 09.06.2022_––_Recep_Tayyip_Erdo
+2024-08-15 21:02:30,320 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_09.06.2022_––_Recep_Tayyip_Erdo.json
+2024-08-15 21:02:30,729 - INFO - Saving summary for: 08.06.2022_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:30,729 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/08.06.2022_––_Türkiye_Çevre_Aja.txt
+2024-08-15 21:02:30,730 - INFO - Extracting tables from page: 08.06.2022_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:30,732 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/06/20220608-1.htm
+2024-08-15 21:02:30,732 - INFO - Saving metadata for: 08.06.2022_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:30,732 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_08.06.2022_––_Türkiye_Çevre_Aja.json
+2024-08-15 21:02:31,067 - INFO - Saving summary for: 31.05.2022_––_Tabiat_Varlıkları
+2024-08-15 21:02:31,067 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/31.05.2022_––_Tabiat_Varlıkları.txt
+2024-08-15 21:02:31,067 - INFO - Extracting tables from page: 31.05.2022_––_Tabiat_Varlıkları
+2024-08-15 21:02:31,068 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/05/20220531-3.htm
+2024-08-15 21:02:31,068 - INFO - Saving metadata for: 31.05.2022_––_Tabiat_Varlıkları
+2024-08-15 21:02:31,068 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_31.05.2022_––_Tabiat_Varlıkları.json
+2024-08-15 21:02:31,349 - INFO - Saving summary for: 24.05.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:31,350 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/24.05.2022_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:31,350 - INFO - Extracting tables from page: 24.05.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:31,351 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/05/20220524-1.htm
+2024-08-15 21:02:31,351 - INFO - Saving metadata for: 24.05.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:31,352 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_24.05.2022_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:31,729 - INFO - Saving summary for: 09.05.2022_––_Fırat_Üniversites
+2024-08-15 21:02:31,729 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/09.05.2022_––_Fırat_Üniversites.txt
+2024-08-15 21:02:31,729 - INFO - Extracting tables from page: 09.05.2022_––_Fırat_Üniversites
+2024-08-15 21:02:31,731 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/05/20220509-1.htm
+2024-08-15 21:02:31,731 - INFO - Saving metadata for: 09.05.2022_––_Fırat_Üniversites
+2024-08-15 21:02:31,731 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_09.05.2022_––_Fırat_Üniversites.json
+2024-08-15 21:02:32,051 - INFO - Saving summary for: 30.04.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:32,051 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.04.2022_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:32,051 - INFO - Extracting tables from page: 30.04.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:32,052 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/04/20220430-2.htm
+2024-08-15 21:02:32,052 - INFO - Saving metadata for: 30.04.2022_––_Çevre_ve_Şehircil
+2024-08-15 21:02:32,052 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.04.2022_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:32,372 - INFO - Saving summary for: 29.04.2022_––_Tabiat_Varlıkları
+2024-08-15 21:02:32,373 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/29.04.2022_––_Tabiat_Varlıkları.txt
+2024-08-15 21:02:32,373 - INFO - Extracting tables from page: 29.04.2022_––_Tabiat_Varlıkları
+2024-08-15 21:02:32,374 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/04/20220429-11.htm
+2024-08-15 21:02:32,374 - INFO - Saving metadata for: 29.04.2022_––_Tabiat_Varlıkları
+2024-08-15 21:02:32,374 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_29.04.2022_––_Tabiat_Varlıkları.json
+2024-08-15 21:02:33,023 - INFO - Saving summary for: 21.03.2022_––_İstanbul_Kemerbur
+2024-08-15 21:02:33,023 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/21.03.2022_––_İstanbul_Kemerbur.txt
+2024-08-15 21:02:33,023 - INFO - Extracting tables from page: 21.03.2022_––_İstanbul_Kemerbur
+2024-08-15 21:02:33,024 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/03/20220321-1.htm
+2024-08-15 21:02:33,024 - INFO - Saving metadata for: 21.03.2022_––_İstanbul_Kemerbur
+2024-08-15 21:02:33,024 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_21.03.2022_––_İstanbul_Kemerbur.json
+2024-08-15 21:02:33,387 - INFO - Saving summary for: 31.01.2022_––_İstanbul_Bilgi_Ün
+2024-08-15 21:02:33,387 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/31.01.2022_––_İstanbul_Bilgi_Ün.txt
+2024-08-15 21:02:33,387 - INFO - Extracting tables from page: 31.01.2022_––_İstanbul_Bilgi_Ün
+2024-08-15 21:02:33,389 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2022/01/20220131-3.htm
+2024-08-15 21:02:33,389 - INFO - Saving metadata for: 31.01.2022_––_İstanbul_Bilgi_Ün
+2024-08-15 21:02:33,389 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_31.01.2022_––_İstanbul_Bilgi_Ün.json
+2024-08-15 21:02:33,739 - INFO - Saving summary for: 31.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:33,740 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/31.12.2021_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:33,740 - INFO - Extracting tables from page: 31.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:33,741 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/12/20211231-7.htm
+2024-08-15 21:02:33,741 - INFO - Saving metadata for: 31.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:33,741 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_31.12.2021_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:34,127 - INFO - Saving summary for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,127 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.12.2021_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:34,128 - INFO - Extracting tables from page: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,128 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/12/20211230M2-13.htm
+2024-08-15 21:02:34,128 - INFO - Saving metadata for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,128 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.12.2021_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:34,423 - INFO - Saving summary for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,423 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.12.2021_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:34,423 - INFO - Extracting tables from page: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,425 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/12/20211230M2-21.htm
+2024-08-15 21:02:34,425 - INFO - Saving metadata for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,425 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.12.2021_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:34,756 - INFO - Saving summary for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,756 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.12.2021_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:34,756 - INFO - Extracting tables from page: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,756 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/12/20211230M2-13.htm
+2024-08-15 21:02:34,756 - INFO - Saving metadata for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:34,756 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.12.2021_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:35,158 - INFO - Saving summary for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,158 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.12.2021_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:35,158 - INFO - Extracting tables from page: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,159 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/12/20211230M2-21.htm
+2024-08-15 21:02:35,159 - INFO - Saving metadata for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,159 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.12.2021_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:35,453 - INFO - Saving summary for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,454 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.12.2021_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:35,454 - INFO - Extracting tables from page: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,454 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/12/20211230M2-13.htm
+2024-08-15 21:02:35,454 - INFO - Saving metadata for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,454 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.12.2021_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:35,782 - INFO - Saving summary for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,782 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.12.2021_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:35,782 - INFO - Extracting tables from page: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,785 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/12/20211230M2-21.htm
+2024-08-15 21:02:35,785 - INFO - Saving metadata for: 30.12.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:35,785 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.12.2021_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:36,136 - INFO - Saving summary for: 18.12.2021_––_Çevre,_Şehircilik
+2024-08-15 21:02:36,136 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/18.12.2021_––_Çevre,_Şehircilik.txt
+2024-08-15 21:02:36,136 - INFO - Extracting tables from page: 18.12.2021_––_Çevre,_Şehircilik
+2024-08-15 21:02:36,137 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/12/20211218-8.htm
+2024-08-15 21:02:36,137 - INFO - Saving metadata for: 18.12.2021_––_Çevre,_Şehircilik
+2024-08-15 21:02:36,137 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_18.12.2021_––_Çevre,_Şehircilik.json
+2024-08-15 21:02:36,456 - INFO - Saving summary for: 16.10.2021_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:36,456 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/16.10.2021_––_Çevre_İzin_ve_Lis.txt
+2024-08-15 21:02:36,456 - INFO - Extracting tables from page: 16.10.2021_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:36,459 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/10/20211016-2.htm
+2024-08-15 21:02:36,459 - INFO - Saving metadata for: 16.10.2021_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:36,459 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_16.10.2021_––_Çevre_İzin_ve_Lis.json
+2024-08-15 21:02:36,865 - INFO - Saving summary for: 13.08.2021_––_Boru_Hatları_ile_
+2024-08-15 21:02:36,865 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/13.08.2021_––_Boru_Hatları_ile_.txt
+2024-08-15 21:02:36,865 - INFO - Extracting tables from page: 13.08.2021_––_Boru_Hatları_ile_
+2024-08-15 21:02:36,870 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/08/20210813-1.htm
+2024-08-15 21:02:36,870 - INFO - Saving metadata for: 13.08.2021_––_Boru_Hatları_ile_
+2024-08-15 21:02:36,870 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_13.08.2021_––_Boru_Hatları_ile_.json
+2024-08-15 21:02:37,273 - INFO - Saving summary for: 09.08.2021_––_İzmir_Demokrasi_Ü
+2024-08-15 21:02:37,274 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/09.08.2021_––_İzmir_Demokrasi_Ü.txt
+2024-08-15 21:02:37,274 - INFO - Extracting tables from page: 09.08.2021_––_İzmir_Demokrasi_Ü
+2024-08-15 21:02:37,275 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/08/20210809-5.htm
+2024-08-15 21:02:37,275 - INFO - Saving metadata for: 09.08.2021_––_İzmir_Demokrasi_Ü
+2024-08-15 21:02:37,275 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_09.08.2021_––_İzmir_Demokrasi_Ü.json
+2024-08-15 21:02:37,781 - INFO - Saving summary for: 01.08.2021_––_Tabiat_Varlıkları
+2024-08-15 21:02:37,781 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/01.08.2021_––_Tabiat_Varlıkları.txt
+2024-08-15 21:02:37,781 - INFO - Extracting tables from page: 01.08.2021_––_Tabiat_Varlıkları
+2024-08-15 21:02:37,782 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/08/20210801-8.htm
+2024-08-15 21:02:37,782 - INFO - Saving metadata for: 01.08.2021_––_Tabiat_Varlıkları
+2024-08-15 21:02:37,782 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_01.08.2021_––_Tabiat_Varlıkları.json
+2024-08-15 21:02:38,057 - INFO - Saving summary for: 01.08.2021_––_Belediye_Arsaları
+2024-08-15 21:02:38,057 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/01.08.2021_––_Belediye_Arsaları.txt
+2024-08-15 21:02:38,057 - INFO - Extracting tables from page: 01.08.2021_––_Belediye_Arsaları
+2024-08-15 21:02:38,058 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/08/20210801-13.htm
+2024-08-15 21:02:38,058 - INFO - Saving metadata for: 01.08.2021_––_Belediye_Arsaları
+2024-08-15 21:02:38,058 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_01.08.2021_––_Belediye_Arsaları.json
+2024-08-15 21:02:38,294 - INFO - Saving summary for: 01.08.2021_––_Tabiat_Varlıkları
+2024-08-15 21:02:38,294 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/01.08.2021_––_Tabiat_Varlıkları.txt
+2024-08-15 21:02:38,295 - INFO - Extracting tables from page: 01.08.2021_––_Tabiat_Varlıkları
+2024-08-15 21:02:38,296 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/08/20210801-8.htm
+2024-08-15 21:02:38,296 - INFO - Saving metadata for: 01.08.2021_––_Tabiat_Varlıkları
+2024-08-15 21:02:38,296 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_01.08.2021_––_Tabiat_Varlıkları.json
+2024-08-15 21:02:38,525 - INFO - Saving summary for: 01.08.2021_––_Belediye_Arsaları
+2024-08-15 21:02:38,525 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/01.08.2021_––_Belediye_Arsaları.txt
+2024-08-15 21:02:38,525 - INFO - Extracting tables from page: 01.08.2021_––_Belediye_Arsaları
+2024-08-15 21:02:38,525 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/08/20210801-13.htm
+2024-08-15 21:02:38,526 - INFO - Saving metadata for: 01.08.2021_––_Belediye_Arsaları
+2024-08-15 21:02:38,526 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_01.08.2021_––_Belediye_Arsaları.json
+2024-08-15 21:02:38,823 - INFO - Saving summary for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:38,824 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.07.2021_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:38,824 - INFO - Extracting tables from page: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:38,825 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/07/20210715-1.htm
+2024-08-15 21:02:38,825 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:38,825 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:39,159 - INFO - Saving summary for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,159 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.07.2021_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:39,159 - INFO - Extracting tables from page: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,162 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/07/20210715-2.htm
+2024-08-15 21:02:39,162 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,162 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:39,444 - INFO - Saving summary for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,444 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.07.2021_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:39,444 - INFO - Extracting tables from page: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,445 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/07/20210715-1.htm
+2024-08-15 21:02:39,446 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,446 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:39,750 - INFO - Saving summary for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,751 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.07.2021_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:39,751 - INFO - Extracting tables from page: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,752 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/07/20210715-2.htm
+2024-08-15 21:02:39,752 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,752 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:39,989 - INFO - Saving summary for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,989 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.07.2021_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:39,989 - INFO - Extracting tables from page: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,991 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/07/20210715-1.htm
+2024-08-15 21:02:39,991 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:39,991 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:40,256 - INFO - Saving summary for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:40,256 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.07.2021_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:40,256 - INFO - Extracting tables from page: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:40,258 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/07/20210715-2.htm
+2024-08-15 21:02:40,258 - INFO - Saving metadata for: 15.07.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:40,258 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.07.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:40,534 - INFO - Saving summary for: 12.06.2021_––_Çevre_Denetimi_Yö
+2024-08-15 21:02:40,535 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/12.06.2021_––_Çevre_Denetimi_Yö.txt
+2024-08-15 21:02:40,535 - INFO - Extracting tables from page: 12.06.2021_––_Çevre_Denetimi_Yö
+2024-08-15 21:02:40,539 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/06/20210612-5.htm
+2024-08-15 21:02:40,539 - INFO - Saving metadata for: 12.06.2021_––_Çevre_Denetimi_Yö
+2024-08-15 21:02:40,539 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_12.06.2021_––_Çevre_Denetimi_Yö.json
+2024-08-15 21:02:40,867 - INFO - Saving summary for: 23.04.2021_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:40,867 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/23.04.2021_––_Türkiye_Çevre_Aja.txt
+2024-08-15 21:02:40,867 - INFO - Extracting tables from page: 23.04.2021_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:40,869 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/04/20210423-9.htm
+2024-08-15 21:02:40,870 - INFO - Saving metadata for: 23.04.2021_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:40,870 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_23.04.2021_––_Türkiye_Çevre_Aja.json
+2024-08-15 21:02:41,176 - INFO - Saving summary for: 15.04.2021_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:41,176 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/15.04.2021_––_Türkiye_Çevre_Aja.txt
+2024-08-15 21:02:41,176 - INFO - Extracting tables from page: 15.04.2021_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:41,179 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/04/20210415-3.htm
+2024-08-15 21:02:41,179 - INFO - Saving metadata for: 15.04.2021_––_Türkiye_Çevre_Aja
+2024-08-15 21:02:41,179 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_15.04.2021_––_Türkiye_Çevre_Aja.json
+2024-08-15 21:02:41,440 - INFO - Saving summary for: 09.04.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:41,441 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/09.04.2021_––_Çevre_ve_Şehircil.txt
+2024-08-15 21:02:41,441 - INFO - Extracting tables from page: 09.04.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:41,443 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/04/20210409-2.htm
+2024-08-15 21:02:41,444 - INFO - Saving metadata for: 09.04.2021_––_Çevre_ve_Şehircil
+2024-08-15 21:02:41,444 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_09.04.2021_––_Çevre_ve_Şehircil.json
+2024-08-15 21:02:41,744 - INFO - Saving summary for: 28.03.2021_––_Bursa_Uludağ_Üniv
+2024-08-15 21:02:41,745 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/28.03.2021_––_Bursa_Uludağ_Üniv.txt
+2024-08-15 21:02:41,745 - INFO - Extracting tables from page: 28.03.2021_––_Bursa_Uludağ_Üniv
+2024-08-15 21:02:41,746 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/03/20210328-4.htm
+2024-08-15 21:02:41,746 - INFO - Saving metadata for: 28.03.2021_––_Bursa_Uludağ_Üniv
+2024-08-15 21:02:41,746 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_28.03.2021_––_Bursa_Uludağ_Üniv.json
+2024-08-15 21:02:42,021 - INFO - Saving summary for: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,021 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/18.03.2021_––_Türk_Mühendis_ve_.txt
+2024-08-15 21:02:42,021 - INFO - Extracting tables from page: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,022 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/03/20210318-6.htm
+2024-08-15 21:02:42,022 - INFO - Saving metadata for: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,022 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_18.03.2021_––_Türk_Mühendis_ve_.json
+2024-08-15 21:02:42,348 - INFO - Saving summary for: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,349 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/18.03.2021_––_Türk_Mühendis_ve_.txt
+2024-08-15 21:02:42,349 - INFO - Extracting tables from page: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,351 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/03/20210318-7.htm
+2024-08-15 21:02:42,351 - INFO - Saving metadata for: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,352 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_18.03.2021_––_Türk_Mühendis_ve_.json
+2024-08-15 21:02:42,640 - INFO - Saving summary for: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,640 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/18.03.2021_––_Türk_Mühendis_ve_.txt
+2024-08-15 21:02:42,640 - INFO - Extracting tables from page: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,641 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/03/20210318-6.htm
+2024-08-15 21:02:42,641 - INFO - Saving metadata for: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,641 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_18.03.2021_––_Türk_Mühendis_ve_.json
+2024-08-15 21:02:42,915 - INFO - Saving summary for: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,915 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/18.03.2021_––_Türk_Mühendis_ve_.txt
+2024-08-15 21:02:42,915 - INFO - Extracting tables from page: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,916 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/03/20210318-7.htm
+2024-08-15 21:02:42,916 - INFO - Saving metadata for: 18.03.2021_––_Türk_Mühendis_ve_
+2024-08-15 21:02:42,917 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_18.03.2021_––_Türk_Mühendis_ve_.json
+2024-08-15 21:02:43,225 - INFO - Saving summary for: 13.01.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:43,226 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/13.01.2021_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:43,226 - INFO - Extracting tables from page: 13.01.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:43,227 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2021/01/20210113-9.htm
+2024-08-15 21:02:43,227 - INFO - Saving metadata for: 13.01.2021_––_2872_Sayılı_Çevre
+2024-08-15 21:02:43,227 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_13.01.2021_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:43,548 - INFO - Saving summary for: 31.12.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:43,548 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/31.12.2020_––_Çevre_İzin_ve_Lis.txt
+2024-08-15 21:02:43,548 - INFO - Extracting tables from page: 31.12.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:43,550 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M5-1.htm
+2024-08-15 21:02:43,550 - INFO - Saving metadata for: 31.12.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:43,550 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_31.12.2020_––_Çevre_İzin_ve_Lis.json
+2024-08-15 21:02:43,925 - INFO - Saving summary for: 31.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:43,926 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/31.12.2020_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:43,926 - INFO - Extracting tables from page: 31.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:43,927 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M5-15.htm
+2024-08-15 21:02:43,927 - INFO - Saving metadata for: 31.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:43,927 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_31.12.2020_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:44,162 - INFO - Saving summary for: 31.12.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:44,162 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/31.12.2020_––_Çevre_İzin_ve_Lis.txt
+2024-08-15 21:02:44,162 - INFO - Extracting tables from page: 31.12.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:44,165 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M5-1.htm
+2024-08-15 21:02:44,165 - INFO - Saving metadata for: 31.12.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:44,165 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_31.12.2020_––_Çevre_İzin_ve_Lis.json
+2024-08-15 21:02:44,466 - INFO - Saving summary for: 31.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:44,466 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/31.12.2020_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:44,466 - INFO - Extracting tables from page: 31.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:44,467 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M5-15.htm
+2024-08-15 21:02:44,467 - INFO - Saving metadata for: 31.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:44,467 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_31.12.2020_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:44,772 - INFO - Saving summary for: 30.12.2020_7261_Türkiye_Çevre_A
+2024-08-15 21:02:44,772 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.12.2020_7261_Türkiye_Çevre_A.txt
+2024-08-15 21:02:44,772 - INFO - Extracting tables from page: 30.12.2020_7261_Türkiye_Çevre_A
+2024-08-15 21:02:44,775 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201230-10.htm
+2024-08-15 21:02:44,775 - INFO - Saving metadata for: 30.12.2020_7261_Türkiye_Çevre_A
+2024-08-15 21:02:44,775 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.12.2020_7261_Türkiye_Çevre_A.json
+2024-08-15 21:02:45,056 - INFO - Saving summary for: 30.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:45,056 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/30.12.2020_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:45,056 - INFO - Extracting tables from page: 30.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:45,057 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201230M2-1.htm
+2024-08-15 21:02:45,057 - INFO - Saving metadata for: 30.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:45,057 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_30.12.2020_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:45,400 - INFO - Saving summary for: 24.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:45,401 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/24.12.2020_––_2872_Sayılı_Çevre.txt
+2024-08-15 21:02:45,401 - INFO - Extracting tables from page: 24.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:45,401 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201224-7.htm
+2024-08-15 21:02:45,401 - INFO - Saving metadata for: 24.12.2020_––_2872_Sayılı_Çevre
+2024-08-15 21:02:45,401 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_24.12.2020_––_2872_Sayılı_Çevre.json
+2024-08-15 21:02:45,745 - INFO - Saving summary for: 23.12.2020_––_Çevre_Gelirlerini
+2024-08-15 21:02:45,746 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/23.12.2020_––_Çevre_Gelirlerini.txt
+2024-08-15 21:02:45,746 - INFO - Extracting tables from page: 23.12.2020_––_Çevre_Gelirlerini
+2024-08-15 21:02:45,748 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201223-1.htm
+2024-08-15 21:02:45,748 - INFO - Saving metadata for: 23.12.2020_––_Çevre_Gelirlerini
+2024-08-15 21:02:45,748 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_23.12.2020_––_Çevre_Gelirlerini.json
+2024-08-15 21:02:46,024 - INFO - Saving summary for: 23.12.2020_––_Çevre_Gelirlerini
+2024-08-15 21:02:46,024 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/23.12.2020_––_Çevre_Gelirlerini.txt
+2024-08-15 21:02:46,024 - INFO - Extracting tables from page: 23.12.2020_––_Çevre_Gelirlerini
+2024-08-15 21:02:46,027 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/12/20201223-1.htm
+2024-08-15 21:02:46,027 - INFO - Saving metadata for: 23.12.2020_––_Çevre_Gelirlerini
+2024-08-15 21:02:46,027 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_23.12.2020_––_Çevre_Gelirlerini.json
+2024-08-15 21:02:46,301 - INFO - Saving summary for: 06.11.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:46,301 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/06.11.2020_––_Çevre_İzin_ve_Lis.txt
+2024-08-15 21:02:46,301 - INFO - Extracting tables from page: 06.11.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:46,303 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2020/11/20201106-1.htm
+2024-08-15 21:02:46,303 - INFO - Saving metadata for: 06.11.2020_––_Çevre_İzin_ve_Lis
+2024-08-15 21:02:46,303 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_06.11.2020_––_Çevre_İzin_ve_Lis.json
+2024-08-15 21:02:46,360 - INFO - Scraping process completed.
+2024-08-16 09:48:07,999 - INFO - Starting the scraping process.
+2024-08-16 09:48:07,999 - INFO - Processing keyword: Çevre
+2024-08-16 09:48:07,999 - INFO - Creating folder structure for keyword: Çevre
+2024-08-16 09:48:07,999 - INFO - Searching for keyword: Çevre
+2024-08-16 09:48:26,151 - INFO - Processing page 1
+2024-08-16 09:49:33,904 - INFO - Processing page 2
+2024-08-16 09:50:41,835 - INFO - Processing page 3
+2024-08-16 09:51:50,816 - INFO - Processing page 4
+2024-08-16 09:52:58,839 - INFO - Processing page 5
+2024-08-16 09:54:01,689 - INFO - Downloading PDF files for keyword: Çevre
+2024-08-16 09:54:02,263 - INFO - Downloaded: 2024-05-11-––_Vakıf_Kültür_Varl
+2024-08-16 09:54:02,264 - INFO - Saving metadata for: 2024-05-11-––_Vakıf_Kültür_Varl
+2024-08-16 09:54:02,264 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-05-11-––_Vakıf_Kültür_Varl.json
+2024-08-16 09:54:02,719 - INFO - Downloaded: 2024-04-30-––_Korunması_Gerekli
+2024-08-16 09:54:02,719 - INFO - Saving metadata for: 2024-04-30-––_Korunması_Gerekli
+2024-08-16 09:54:02,719 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-04-30-––_Korunması_Gerekli.json
+2024-08-16 09:54:03,134 - INFO - Downloaded: 2024-04-07-––_Narlı-Pazarcık-8.
+2024-08-16 09:54:03,134 - INFO - Saving metadata for: 2024-04-07-––_Narlı-Pazarcık-8.
+2024-08-16 09:54:03,135 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-04-07-––_Narlı-Pazarcık-8..json
+2024-08-16 09:54:03,472 - INFO - Downloaded: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-16 09:54:03,473 - INFO - Saving metadata for: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-16 09:54:03,473 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-12-29-––_2872_Sayılı_Çevre.json
+2024-08-16 09:54:04,633 - INFO - Downloaded: 2023-10-25-––_Çevre,_Şehircilik
+2024-08-16 09:54:04,633 - INFO - Saving metadata for: 2023-10-25-––_Çevre,_Şehircilik
+2024-08-16 09:54:04,633 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-25-––_Çevre,_Şehircilik.json
+2024-08-16 09:54:05,420 - INFO - Downloaded: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-16 09:54:05,420 - INFO - Saving metadata for: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-16 09:54:05,421 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-03-––_Mersin_İli,_Akden.json
+2024-08-16 09:54:06,813 - INFO - Downloaded: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-16 09:54:06,813 - INFO - Saving metadata for: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-16 09:54:06,814 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-03-––_Çevre,_Şehircilik.json
+2024-08-16 09:54:07,128 - INFO - Downloaded: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-16 09:54:07,128 - INFO - Saving metadata for: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-16 09:54:07,128 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-03-––_Mersin_İli,_Akden.json
+2024-08-16 09:54:07,669 - INFO - Downloaded: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-16 09:54:07,669 - INFO - Saving metadata for: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-16 09:54:07,669 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-03-––_Çevre,_Şehircilik.json
+2024-08-16 09:54:08,394 - INFO - Downloaded: 2023-09-16-––_Türkiye_Cumhuriye
+2024-08-16 09:54:08,394 - INFO - Saving metadata for: 2023-09-16-––_Türkiye_Cumhuriye
+2024-08-16 09:54:08,394 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-09-16-––_Türkiye_Cumhuriye.json
+2024-08-16 09:54:08,816 - INFO - Downloaded: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-16 09:54:08,816 - INFO - Saving metadata for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-16 09:54:08,816 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Malatya_İli,_Doğa.json
+2024-08-16 09:54:09,219 - INFO - Downloaded: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-16 09:54:09,219 - INFO - Saving metadata for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-16 09:54:09,219 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Mardin_İli,_Midya.json
+2024-08-16 09:54:09,772 - INFO - Downloaded: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-16 09:54:09,772 - INFO - Saving metadata for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-16 09:54:09,772 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Samsun_İli,_Canik.json
+2024-08-16 09:54:10,090 - INFO - Downloaded: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-16 09:54:10,090 - INFO - Saving metadata for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-16 09:54:10,090 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Malatya_İli,_Doğa.json
+2024-08-16 09:54:10,288 - INFO - Downloaded: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-16 09:54:10,288 - INFO - Saving metadata for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-16 09:54:10,289 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Mardin_İli,_Midya.json
+2024-08-16 09:54:10,566 - INFO - Downloaded: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-16 09:54:10,566 - INFO - Saving metadata for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-16 09:54:10,567 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Samsun_İli,_Canik.json
+2024-08-16 09:54:10,794 - INFO - Downloaded: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-16 09:54:10,795 - INFO - Saving metadata for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-16 09:54:10,795 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Malatya_İli,_Doğa.json
+2024-08-16 09:54:11,113 - INFO - Downloaded: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-16 09:54:11,114 - INFO - Saving metadata for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-16 09:54:11,114 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Mardin_İli,_Midya.json
+2024-08-16 09:54:11,373 - INFO - Downloaded: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-16 09:54:11,373 - INFO - Saving metadata for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-16 09:54:11,374 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Samsun_İli,_Canik.json
+2024-08-16 09:54:11,597 - INFO - Downloaded: 2023-07-16-1389_Çevre_Komisyonu
+2024-08-16 09:54:11,597 - INFO - Saving metadata for: 2023-07-16-1389_Çevre_Komisyonu
+2024-08-16 09:54:11,597 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-16-1389_Çevre_Komisyonu.json
+2024-08-16 09:54:12,017 - INFO - Downloaded: 2023-07-07-––_Trabzon_Güney_Çev
+2024-08-16 09:54:12,018 - INFO - Saving metadata for: 2023-07-07-––_Trabzon_Güney_Çev
+2024-08-16 09:54:12,018 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-07-––_Trabzon_Güney_Çev.json
+2024-08-16 09:54:12,381 - INFO - Downloaded: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-16 09:54:12,381 - INFO - Saving metadata for: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-16 09:54:12,382 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-05-12-––_Sivas_İli,_Gürün_.json
+2024-08-16 09:54:12,605 - INFO - Downloaded: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-16 09:54:12,605 - INFO - Saving metadata for: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-16 09:54:12,605 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-05-12-––_Sivas_İli,_Gürün_.json
+2024-08-16 09:54:12,966 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-16 09:54:12,966 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-16 09:54:12,966 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_İskend.json
+2024-08-16 09:54:13,388 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-16 09:54:13,388 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-16 09:54:13,389 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Antaky.json
+2024-08-16 09:54:13,786 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-16 09:54:13,786 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-16 09:54:13,786 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Defne_.json
+2024-08-16 09:54:14,101 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-16 09:54:14,101 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-16 09:54:14,102 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_İskend.json
+2024-08-16 09:54:17,059 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-16 09:54:17,059 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-16 09:54:17,060 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Antaky.json
+2024-08-16 09:54:17,410 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-16 09:54:17,410 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-16 09:54:17,411 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Defne_.json
+2024-08-16 09:54:17,940 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-16 09:54:17,940 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-16 09:54:17,940 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_İskend.json
+2024-08-16 09:54:18,337 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-16 09:54:18,337 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-16 09:54:18,338 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Antaky.json
+2024-08-16 09:54:18,630 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-16 09:54:18,631 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-16 09:54:18,631 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Defne_.json
+2024-08-16 09:54:19,036 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-16 09:54:19,037 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-16 09:54:19,037 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Antaky.json
+2024-08-16 09:54:19,443 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-16 09:54:19,443 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-16 09:54:19,444 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Defne_.json
+2024-08-16 09:54:21,602 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-16 09:54:21,602 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-16 09:54:21,603 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Antaky.json
+2024-08-16 09:54:22,240 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-16 09:54:22,240 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-16 09:54:22,241 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Defne_.json
+2024-08-16 09:54:22,834 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-16 09:54:22,834 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-16 09:54:22,835 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Antaky.json
+2024-08-16 09:54:23,236 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-16 09:54:23,236 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-16 09:54:23,237 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Defne_.json
+2024-08-16 09:54:23,480 - INFO - Downloaded: 2023-03-24-––_Vakıf_Kültür_Varl
+2024-08-16 09:54:23,481 - INFO - Saving metadata for: 2023-03-24-––_Vakıf_Kültür_Varl
+2024-08-16 09:54:23,481 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-03-24-––_Vakıf_Kültür_Varl.json
+2024-08-16 09:54:25,782 - INFO - Downloaded: 2023-03-09-––_Türkiye_İçin_Çevr
+2024-08-16 09:54:25,782 - INFO - Saving metadata for: 2023-03-09-––_Türkiye_İçin_Çevr
+2024-08-16 09:54:25,782 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-03-09-––_Türkiye_İçin_Çevr.json
+2024-08-16 09:54:27,026 - INFO - Downloaded: 2023-02-24-––_Çevre_ve_Şehircil
+2024-08-16 09:54:27,026 - INFO - Saving metadata for: 2023-02-24-––_Çevre_ve_Şehircil
+2024-08-16 09:54:27,027 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-02-24-––_Çevre_ve_Şehircil.json
+2024-08-16 09:54:27,027 - INFO - Saving PDF data for keyword: Çevre
+2024-08-16 09:54:27,027 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2024-05-11-––_Vakıf_Kültür_Varl.pdf
+2024-08-16 09:54:27,028 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2024-04-30-––_Korunması_Gerekli.pdf
+2024-08-16 09:54:27,028 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2024-04-07-––_Narlı-Pazarcık-8..pdf
+2024-08-16 09:54:27,028 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-12-29-––_2872_Sayılı_Çevre.pdf
+2024-08-16 09:54:27,030 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-25-––_Çevre,_Şehircilik.pdf
+2024-08-16 09:54:27,030 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-03-––_Mersin_İli,_Akden.pdf
+2024-08-16 09:54:27,030 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-03-––_Çevre,_Şehircilik.pdf
+2024-08-16 09:54:27,031 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-03-––_Mersin_İli,_Akden.pdf
+2024-08-16 09:54:27,032 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-03-––_Çevre,_Şehircilik.pdf
+2024-08-16 09:54:27,032 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-09-16-––_Türkiye_Cumhuriye.pdf
+2024-08-16 09:54:27,032 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Malatya_İli,_Doğa.pdf
+2024-08-16 09:54:27,032 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Mardin_İli,_Midya.pdf
+2024-08-16 09:54:27,032 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Samsun_İli,_Canik.pdf
+2024-08-16 09:54:27,032 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Malatya_İli,_Doğa.pdf
+2024-08-16 09:54:27,033 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Mardin_İli,_Midya.pdf
+2024-08-16 09:54:27,033 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Samsun_İli,_Canik.pdf
+2024-08-16 09:54:27,039 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Malatya_İli,_Doğa.pdf
+2024-08-16 09:54:27,039 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Mardin_İli,_Midya.pdf
+2024-08-16 09:54:27,040 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Samsun_İli,_Canik.pdf
+2024-08-16 09:54:27,040 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-16-1389_Çevre_Komisyonu.pdf
+2024-08-16 09:54:27,040 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-07-––_Trabzon_Güney_Çev.pdf
+2024-08-16 09:54:27,040 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-05-12-––_Sivas_İli,_Gürün_.pdf
+2024-08-16 09:54:27,040 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-05-12-––_Sivas_İli,_Gürün_.pdf
+2024-08-16 09:54:27,040 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_İskend.pdf
+2024-08-16 09:54:27,041 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:54:27,041 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Defne_.pdf
+2024-08-16 09:54:27,041 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_İskend.pdf
+2024-08-16 09:54:27,042 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:54:27,042 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Defne_.pdf
+2024-08-16 09:54:27,043 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_İskend.pdf
+2024-08-16 09:54:27,043 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:54:27,044 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Defne_.pdf
+2024-08-16 09:54:27,044 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:54:27,044 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Defne_.pdf
+2024-08-16 09:54:27,045 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:54:27,045 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Defne_.pdf
+2024-08-16 09:54:27,045 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:54:27,046 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Defne_.pdf
+2024-08-16 09:54:27,046 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-03-24-––_Vakıf_Kültür_Varl.pdf
+2024-08-16 09:54:27,049 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-03-09-––_Türkiye_İçin_Çevr.pdf
+2024-08-16 09:54:27,049 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-02-24-––_Çevre_ve_Şehircil.pdf
+2024-08-16 09:54:27,049 - INFO - Processing non-PDF URLs for keyword: Çevre
+2024-08-16 09:54:27,218 - INFO - Saving summary for: 2024-06-03-––_Zonguldak_Bülent_
+2024-08-16 09:54:27,218 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-06-03-––_Zonguldak_Bülent_.txt
+2024-08-16 09:54:27,218 - INFO - Extracting tables from page: 2024-06-03-––_Zonguldak_Bülent_
+2024-08-16 09:54:27,219 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/06/20240603-1.htm
+2024-08-16 09:54:27,219 - INFO - Saving metadata for: 2024-06-03-––_Zonguldak_Bülent_
+2024-08-16 09:54:27,220 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-06-03-––_Zonguldak_Bülent_.json
+2024-08-16 09:54:27,358 - INFO - Saving summary for: 2024-04-06-––_Türk_Mühendis_ve_
+2024-08-16 09:54:27,358 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-04-06-––_Türk_Mühendis_ve_.txt
+2024-08-16 09:54:27,358 - INFO - Extracting tables from page: 2024-04-06-––_Türk_Mühendis_ve_
+2024-08-16 09:54:27,358 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/04/20240406-18.htm
+2024-08-16 09:54:27,359 - INFO - Saving metadata for: 2024-04-06-––_Türk_Mühendis_ve_
+2024-08-16 09:54:27,359 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-04-06-––_Türk_Mühendis_ve_.json
+2024-08-16 09:54:27,508 - INFO - Saving summary for: 2024-01-31-––_Korunması_Gerekli
+2024-08-16 09:54:27,508 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-01-31-––_Korunması_Gerekli.txt
+2024-08-16 09:54:27,509 - INFO - Extracting tables from page: 2024-01-31-––_Korunması_Gerekli
+2024-08-16 09:54:27,509 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/01/20240131-5.htm
+2024-08-16 09:54:27,509 - INFO - Saving metadata for: 2024-01-31-––_Korunması_Gerekli
+2024-08-16 09:54:27,509 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-01-31-––_Korunması_Gerekli.json
+2024-08-16 09:54:27,699 - INFO - Saving summary for: 2024-01-28-––_Çanakkale_Onsekiz
+2024-08-16 09:54:27,699 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-01-28-––_Çanakkale_Onsekiz.txt
+2024-08-16 09:54:27,699 - INFO - Extracting tables from page: 2024-01-28-––_Çanakkale_Onsekiz
+2024-08-16 09:54:27,699 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/01/20240128-3.htm
+2024-08-16 09:54:27,700 - INFO - Saving metadata for: 2024-01-28-––_Çanakkale_Onsekiz
+2024-08-16 09:54:27,700 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-01-28-––_Çanakkale_Onsekiz.json
+2024-08-16 09:54:27,838 - INFO - Saving summary for: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-16 09:54:27,838 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-12-29-––_2872_Sayılı_Çevre.txt
+2024-08-16 09:54:27,838 - INFO - Extracting tables from page: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-16 09:54:27,839 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231229-6.htm
+2024-08-16 09:54:27,839 - INFO - Saving metadata for: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-16 09:54:27,839 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-12-29-––_2872_Sayılı_Çevre.json
+2024-08-16 09:54:28,015 - INFO - Saving summary for: 2023-12-28-––_2872_sayılı_Çevre
+2024-08-16 09:54:28,015 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-12-28-––_2872_sayılı_Çevre.txt
+2024-08-16 09:54:28,015 - INFO - Extracting tables from page: 2023-12-28-––_2872_sayılı_Çevre
+2024-08-16 09:54:28,015 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231228-4.htm
+2024-08-16 09:54:28,015 - INFO - Saving metadata for: 2023-12-28-––_2872_sayılı_Çevre
+2024-08-16 09:54:28,016 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-12-28-––_2872_sayılı_Çevre.json
+2024-08-16 09:54:28,168 - INFO - Saving summary for: 2023-11-13-––_Dokuz_Eylül_Ünive
+2024-08-16 09:54:28,168 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-11-13-––_Dokuz_Eylül_Ünive.txt
+2024-08-16 09:54:28,168 - INFO - Extracting tables from page: 2023-11-13-––_Dokuz_Eylül_Ünive
+2024-08-16 09:54:28,169 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/11/20231113-1.htm
+2024-08-16 09:54:28,169 - INFO - Saving metadata for: 2023-11-13-––_Dokuz_Eylül_Ünive
+2024-08-16 09:54:28,169 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-11-13-––_Dokuz_Eylül_Ünive.json
+2024-08-16 09:54:28,359 - INFO - Saving summary for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,359 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-06-26-––_Orta_Doğu_Teknik_.txt
+2024-08-16 09:54:28,359 - INFO - Extracting tables from page: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,360 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-7.htm
+2024-08-16 09:54:28,360 - INFO - Saving metadata for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,360 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-06-26-––_Orta_Doğu_Teknik_.json
+2024-08-16 09:54:28,548 - INFO - Saving summary for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,549 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-06-26-––_Orta_Doğu_Teknik_.txt
+2024-08-16 09:54:28,549 - INFO - Extracting tables from page: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,549 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-9.htm
+2024-08-16 09:54:28,549 - INFO - Saving metadata for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,549 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-06-26-––_Orta_Doğu_Teknik_.json
+2024-08-16 09:54:28,752 - INFO - Saving summary for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,752 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-06-26-––_Orta_Doğu_Teknik_.txt
+2024-08-16 09:54:28,752 - INFO - Extracting tables from page: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,752 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-7.htm
+2024-08-16 09:54:28,752 - INFO - Saving metadata for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,752 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-06-26-––_Orta_Doğu_Teknik_.json
+2024-08-16 09:54:28,957 - INFO - Saving summary for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,957 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-06-26-––_Orta_Doğu_Teknik_.txt
+2024-08-16 09:54:28,957 - INFO - Extracting tables from page: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,957 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-9.htm
+2024-08-16 09:54:28,957 - INFO - Saving metadata for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-16 09:54:28,957 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-06-26-––_Orta_Doğu_Teknik_.json
+2024-08-16 09:54:29,132 - INFO - Saving summary for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,132 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-7446_Çevre_Kanunu_il.txt
+2024-08-16 09:54:29,132 - INFO - Extracting tables from page: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,133 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-16 09:54:29,133 - INFO - Saving metadata for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,133 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-7446_Çevre_Kanunu_il.json
+2024-08-16 09:54:29,284 - INFO - Saving summary for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,284 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-7446_Çevre_Kanunu_il.txt
+2024-08-16 09:54:29,284 - INFO - Extracting tables from page: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,285 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-16 09:54:29,285 - INFO - Saving metadata for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,285 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-7446_Çevre_Kanunu_il.json
+2024-08-16 09:54:29,902 - INFO - Saving summary for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,902 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-7446_Çevre_Kanunu_il.txt
+2024-08-16 09:54:29,902 - INFO - Extracting tables from page: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,903 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-16 09:54:29,903 - INFO - Saving metadata for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-16 09:54:29,903 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-7446_Çevre_Kanunu_il.json
+2024-08-16 09:54:30,715 - INFO - Saving summary for: 2023-03-29-––_Çevre_ve_Şehircil
+2024-08-16 09:54:30,715 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-03-29-––_Çevre_ve_Şehircil.txt
+2024-08-16 09:54:30,715 - INFO - Extracting tables from page: 2023-03-29-––_Çevre_ve_Şehircil
+2024-08-16 09:54:30,715 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/03/20230329-1.htm
+2024-08-16 09:54:30,715 - INFO - Saving metadata for: 2023-03-29-––_Çevre_ve_Şehircil
+2024-08-16 09:54:30,716 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-03-29-––_Çevre_ve_Şehircil.json
+2024-08-16 09:54:31,100 - INFO - Saving summary for: 2023-03-25-––_Çevre,_Şehircilik
+2024-08-16 09:54:31,100 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-03-25-––_Çevre,_Şehircilik.txt
+2024-08-16 09:54:31,100 - INFO - Extracting tables from page: 2023-03-25-––_Çevre,_Şehircilik
+2024-08-16 09:54:31,101 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/03/20230325-1.htm
+2024-08-16 09:54:31,101 - INFO - Saving metadata for: 2023-03-25-––_Çevre,_Şehircilik
+2024-08-16 09:54:31,101 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-03-25-––_Çevre,_Şehircilik.json
+2024-08-16 09:54:31,352 - INFO - Saving summary for: 2023-02-23-––_Çevre_İzin_ve_Lis
+2024-08-16 09:54:31,353 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-02-23-––_Çevre_İzin_ve_Lis.txt
+2024-08-16 09:54:31,353 - INFO - Extracting tables from page: 2023-02-23-––_Çevre_İzin_ve_Lis
+2024-08-16 09:54:31,353 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/02/20230223-1.htm
+2024-08-16 09:54:31,353 - INFO - Saving metadata for: 2023-02-23-––_Çevre_İzin_ve_Lis
+2024-08-16 09:54:31,353 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-02-23-––_Çevre_İzin_ve_Lis.json
+2024-08-16 09:54:31,605 - INFO - Saving summary for: 2023-01-27-––_Korunması_Gerekli
+2024-08-16 09:54:31,605 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-01-27-––_Korunması_Gerekli.txt
+2024-08-16 09:54:31,605 - INFO - Extracting tables from page: 2023-01-27-––_Korunması_Gerekli
+2024-08-16 09:54:31,605 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230127-2.htm
+2024-08-16 09:54:31,605 - INFO - Saving metadata for: 2023-01-27-––_Korunması_Gerekli
+2024-08-16 09:54:31,605 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-01-27-––_Korunması_Gerekli.json
+2024-08-16 09:54:31,836 - INFO - Saving summary for: 2023-01-23-––_Bitlis_Eren_Ünive
+2024-08-16 09:54:31,837 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-01-23-––_Bitlis_Eren_Ünive.txt
+2024-08-16 09:54:31,837 - INFO - Extracting tables from page: 2023-01-23-––_Bitlis_Eren_Ünive
+2024-08-16 09:54:31,838 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230123-1.htm
+2024-08-16 09:54:31,839 - INFO - Saving metadata for: 2023-01-23-––_Bitlis_Eren_Ünive
+2024-08-16 09:54:31,839 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-01-23-––_Bitlis_Eren_Ünive.json
+2024-08-16 09:54:32,162 - INFO - Saving summary for: 2023-01-14-––_2872_Sayılı_Çevre
+2024-08-16 09:54:32,163 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-01-14-––_2872_Sayılı_Çevre.txt
+2024-08-16 09:54:32,163 - INFO - Extracting tables from page: 2023-01-14-––_2872_Sayılı_Çevre
+2024-08-16 09:54:32,164 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230114-16.htm
+2024-08-16 09:54:32,164 - INFO - Saving metadata for: 2023-01-14-––_2872_Sayılı_Çevre
+2024-08-16 09:54:32,164 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-01-14-––_2872_Sayılı_Çevre.json
+2024-08-16 09:54:32,222 - INFO - Scraping process completed.
+2024-08-20 12:25:10,384 - INFO - Starting the scraping process.
+2024-08-20 12:25:10,392 - INFO - Processing keyword: Çevre
+2024-08-20 12:25:10,392 - INFO - Creating folder structure for keyword: Çevre
+2024-08-20 12:25:10,392 - INFO - Searching for keyword: Çevre
+2024-08-20 12:25:28,552 - INFO - Processing page 1
+2024-08-20 12:26:36,818 - INFO - Processing page 2
+2024-08-20 12:27:45,175 - INFO - Processing page 3
+2024-08-20 12:28:54,384 - INFO - Processing page 4
+2024-08-20 12:30:02,955 - INFO - Processing page 5
+2024-08-20 12:31:06,210 - INFO - Downloading PDF files for keyword: Çevre
+2024-08-20 12:31:06,580 - INFO - Downloaded: 2024-05-11-––_Vakıf_Kültür_Varl
+2024-08-20 12:31:06,580 - INFO - Saving metadata for: 2024-05-11-––_Vakıf_Kültür_Varl
+2024-08-20 12:31:06,582 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-05-11-––_Vakıf_Kültür_Varl.json
+2024-08-20 12:31:06,582 - INFO - Saving summary for: 2024-05-11-––_Vakıf_Kültür_Varl
+2024-08-20 12:31:06,583 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-05-11-––_Vakıf_Kültür_Varl.txt
+2024-08-20 12:31:06,913 - INFO - Downloaded: 2024-04-30-––_Korunması_Gerekli
+2024-08-20 12:31:06,914 - INFO - Saving metadata for: 2024-04-30-––_Korunması_Gerekli
+2024-08-20 12:31:06,916 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-04-30-––_Korunması_Gerekli.json
+2024-08-20 12:31:06,916 - INFO - Saving summary for: 2024-04-30-––_Korunması_Gerekli
+2024-08-20 12:31:06,916 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-04-30-––_Korunması_Gerekli.txt
+2024-08-20 12:31:07,235 - INFO - Downloaded: 2024-04-07-––_Narlı-Pazarcık-8.
+2024-08-20 12:31:07,236 - INFO - Saving metadata for: 2024-04-07-––_Narlı-Pazarcık-8.
+2024-08-20 12:31:07,237 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-04-07-––_Narlı-Pazarcık-8..json
+2024-08-20 12:31:07,237 - INFO - Saving summary for: 2024-04-07-––_Narlı-Pazarcık-8.
+2024-08-20 12:31:07,238 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-04-07-––_Narlı-Pazarcık-8..txt
+2024-08-20 12:31:07,487 - INFO - Downloaded: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-20 12:31:07,488 - INFO - Saving metadata for: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-20 12:31:07,489 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-12-29-––_2872_Sayılı_Çevre.json
+2024-08-20 12:31:07,490 - INFO - Saving summary for: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-20 12:31:07,490 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-12-29-––_2872_Sayılı_Çevre.txt
+2024-08-20 12:31:09,275 - INFO - Downloaded: 2023-10-25-––_Çevre,_Şehircilik
+2024-08-20 12:31:09,275 - INFO - Saving metadata for: 2023-10-25-––_Çevre,_Şehircilik
+2024-08-20 12:31:09,276 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-25-––_Çevre,_Şehircilik.json
+2024-08-20 12:31:09,276 - INFO - Saving summary for: 2023-10-25-––_Çevre,_Şehircilik
+2024-08-20 12:31:09,276 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-10-25-––_Çevre,_Şehircilik.txt
+2024-08-20 12:31:09,756 - INFO - Downloaded: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-20 12:31:09,756 - INFO - Saving metadata for: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-20 12:31:09,756 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-03-––_Mersin_İli,_Akden.json
+2024-08-20 12:31:09,756 - INFO - Saving summary for: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-20 12:31:09,757 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-10-03-––_Mersin_İli,_Akden.txt
+2024-08-20 12:31:10,798 - INFO - Downloaded: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-20 12:31:10,798 - INFO - Saving metadata for: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-20 12:31:10,798 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-03-––_Çevre,_Şehircilik.json
+2024-08-20 12:31:10,799 - INFO - Saving summary for: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-20 12:31:10,799 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-10-03-––_Çevre,_Şehircilik.txt
+2024-08-20 12:31:11,042 - INFO - Downloaded: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-20 12:31:11,043 - INFO - Saving metadata for: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-20 12:31:11,043 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-03-––_Mersin_İli,_Akden.json
+2024-08-20 12:31:11,043 - INFO - Saving summary for: 2023-10-03-––_Mersin_İli,_Akden
+2024-08-20 12:31:11,043 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-10-03-––_Mersin_İli,_Akden.txt
+2024-08-20 12:31:11,595 - INFO - Downloaded: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-20 12:31:11,595 - INFO - Saving metadata for: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-20 12:31:11,596 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-10-03-––_Çevre,_Şehircilik.json
+2024-08-20 12:31:11,597 - INFO - Saving summary for: 2023-10-03-––_Çevre,_Şehircilik
+2024-08-20 12:31:11,597 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-10-03-––_Çevre,_Şehircilik.txt
+2024-08-20 12:31:11,988 - INFO - Downloaded: 2023-09-16-––_Türkiye_Cumhuriye
+2024-08-20 12:31:11,989 - INFO - Saving metadata for: 2023-09-16-––_Türkiye_Cumhuriye
+2024-08-20 12:31:11,990 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-09-16-––_Türkiye_Cumhuriye.json
+2024-08-20 12:31:11,991 - INFO - Saving summary for: 2023-09-16-––_Türkiye_Cumhuriye
+2024-08-20 12:31:11,991 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-09-16-––_Türkiye_Cumhuriye.txt
+2024-08-20 12:31:12,269 - INFO - Downloaded: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:12,269 - INFO - Saving metadata for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:12,270 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Malatya_İli,_Doğa.json
+2024-08-20 12:31:12,270 - INFO - Saving summary for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:12,270 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Malatya_İli,_Doğa.txt
+2024-08-20 12:31:12,611 - INFO - Downloaded: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:12,612 - INFO - Saving metadata for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:12,613 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Mardin_İli,_Midya.json
+2024-08-20 12:31:12,613 - INFO - Saving summary for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:12,613 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Mardin_İli,_Midya.txt
+2024-08-20 12:31:12,876 - INFO - Downloaded: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:12,877 - INFO - Saving metadata for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:12,879 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Samsun_İli,_Canik.json
+2024-08-20 12:31:12,879 - INFO - Saving summary for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:12,879 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Samsun_İli,_Canik.txt
+2024-08-20 12:31:13,162 - INFO - Downloaded: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:13,162 - INFO - Saving metadata for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:13,163 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Malatya_İli,_Doğa.json
+2024-08-20 12:31:13,164 - INFO - Saving summary for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:13,164 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Malatya_İli,_Doğa.txt
+2024-08-20 12:31:13,473 - INFO - Downloaded: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:13,474 - INFO - Saving metadata for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:13,476 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Mardin_İli,_Midya.json
+2024-08-20 12:31:13,476 - INFO - Saving summary for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:13,476 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Mardin_İli,_Midya.txt
+2024-08-20 12:31:13,702 - INFO - Downloaded: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:13,703 - INFO - Saving metadata for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:13,704 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Samsun_İli,_Canik.json
+2024-08-20 12:31:13,704 - INFO - Saving summary for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:13,704 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Samsun_İli,_Canik.txt
+2024-08-20 12:31:13,941 - INFO - Downloaded: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:13,942 - INFO - Saving metadata for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:13,943 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Malatya_İli,_Doğa.json
+2024-08-20 12:31:13,943 - INFO - Saving summary for: 2023-07-29-––_Malatya_İli,_Doğa
+2024-08-20 12:31:13,944 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Malatya_İli,_Doğa.txt
+2024-08-20 12:31:14,201 - INFO - Downloaded: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:14,202 - INFO - Saving metadata for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:14,203 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Mardin_İli,_Midya.json
+2024-08-20 12:31:14,203 - INFO - Saving summary for: 2023-07-29-––_Mardin_İli,_Midya
+2024-08-20 12:31:14,204 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Mardin_İli,_Midya.txt
+2024-08-20 12:31:14,497 - INFO - Downloaded: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:14,498 - INFO - Saving metadata for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:14,499 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-29-––_Samsun_İli,_Canik.json
+2024-08-20 12:31:14,499 - INFO - Saving summary for: 2023-07-29-––_Samsun_İli,_Canik
+2024-08-20 12:31:14,500 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-29-––_Samsun_İli,_Canik.txt
+2024-08-20 12:31:14,725 - INFO - Downloaded: 2023-07-16-1389_Çevre_Komisyonu
+2024-08-20 12:31:14,726 - INFO - Saving metadata for: 2023-07-16-1389_Çevre_Komisyonu
+2024-08-20 12:31:14,726 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-16-1389_Çevre_Komisyonu.json
+2024-08-20 12:31:14,726 - INFO - Saving summary for: 2023-07-16-1389_Çevre_Komisyonu
+2024-08-20 12:31:14,727 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-16-1389_Çevre_Komisyonu.txt
+2024-08-20 12:31:15,028 - INFO - Downloaded: 2023-07-07-––_Trabzon_Güney_Çev
+2024-08-20 12:31:15,029 - INFO - Saving metadata for: 2023-07-07-––_Trabzon_Güney_Çev
+2024-08-20 12:31:15,031 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-07-07-––_Trabzon_Güney_Çev.json
+2024-08-20 12:31:15,031 - INFO - Saving summary for: 2023-07-07-––_Trabzon_Güney_Çev
+2024-08-20 12:31:15,032 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-07-07-––_Trabzon_Güney_Çev.txt
+2024-08-20 12:31:15,283 - INFO - Downloaded: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-20 12:31:15,283 - INFO - Saving metadata for: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-20 12:31:15,284 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-05-12-––_Sivas_İli,_Gürün_.json
+2024-08-20 12:31:15,284 - INFO - Saving summary for: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-20 12:31:15,284 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-05-12-––_Sivas_İli,_Gürün_.txt
+2024-08-20 12:31:15,534 - INFO - Downloaded: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-20 12:31:15,535 - INFO - Saving metadata for: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-20 12:31:15,536 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-05-12-––_Sivas_İli,_Gürün_.json
+2024-08-20 12:31:15,536 - INFO - Saving summary for: 2023-05-12-––_Sivas_İli,_Gürün_
+2024-08-20 12:31:15,537 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-05-12-––_Sivas_İli,_Gürün_.txt
+2024-08-20 12:31:15,857 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:15,859 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:15,860 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_İskend.json
+2024-08-20 12:31:15,860 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:15,860 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_İskend.txt
+2024-08-20 12:31:16,711 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:16,712 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:16,713 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Antaky.json
+2024-08-20 12:31:16,713 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:16,713 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_Antaky.txt
+2024-08-20 12:31:17,077 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:17,078 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:17,079 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Defne_.json
+2024-08-20 12:31:17,080 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:17,080 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_Defne_.txt
+2024-08-20 12:31:17,464 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:17,466 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:17,467 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_İskend.json
+2024-08-20 12:31:17,467 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:17,468 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_İskend.txt
+2024-08-20 12:31:17,774 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:17,775 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:17,776 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Antaky.json
+2024-08-20 12:31:17,776 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:17,777 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_Antaky.txt
+2024-08-20 12:31:18,073 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:18,073 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:18,075 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Defne_.json
+2024-08-20 12:31:18,075 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:18,075 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_Defne_.txt
+2024-08-20 12:31:18,488 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:18,489 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:18,490 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_İskend.json
+2024-08-20 12:31:18,490 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_İskend
+2024-08-20 12:31:18,491 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_İskend.txt
+2024-08-20 12:31:18,829 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:18,830 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:18,831 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Antaky.json
+2024-08-20 12:31:18,831 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_Antaky
+2024-08-20 12:31:18,831 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_Antaky.txt
+2024-08-20 12:31:19,341 - INFO - Downloaded: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:19,342 - INFO - Saving metadata for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:19,343 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-14-––_Hatay_İli,_Defne_.json
+2024-08-20 12:31:19,343 - INFO - Saving summary for: 2023-04-14-––_Hatay_İli,_Defne_
+2024-08-20 12:31:19,344 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-14-––_Hatay_İli,_Defne_.txt
+2024-08-20 12:31:19,879 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:19,880 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:19,881 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Antaky.json
+2024-08-20 12:31:19,881 - INFO - Saving summary for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:19,882 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-––_Hatay_İli,_Antaky.txt
+2024-08-20 12:31:20,168 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:20,168 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:20,169 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Defne_.json
+2024-08-20 12:31:20,169 - INFO - Saving summary for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:20,169 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-––_Hatay_İli,_Defne_.txt
+2024-08-20 12:31:20,450 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:20,450 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:20,452 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Antaky.json
+2024-08-20 12:31:20,452 - INFO - Saving summary for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:20,452 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-––_Hatay_İli,_Antaky.txt
+2024-08-20 12:31:20,756 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:20,756 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:20,757 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Defne_.json
+2024-08-20 12:31:20,757 - INFO - Saving summary for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:20,757 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-––_Hatay_İli,_Defne_.txt
+2024-08-20 12:31:21,105 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:21,106 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:21,108 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Antaky.json
+2024-08-20 12:31:21,108 - INFO - Saving summary for: 2023-04-05-––_Hatay_İli,_Antaky
+2024-08-20 12:31:21,108 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-––_Hatay_İli,_Antaky.txt
+2024-08-20 12:31:21,651 - INFO - Downloaded: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:21,652 - INFO - Saving metadata for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:21,653 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-––_Hatay_İli,_Defne_.json
+2024-08-20 12:31:21,654 - INFO - Saving summary for: 2023-04-05-––_Hatay_İli,_Defne_
+2024-08-20 12:31:21,654 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-––_Hatay_İli,_Defne_.txt
+2024-08-20 12:31:21,966 - INFO - Downloaded: 2023-03-24-––_Vakıf_Kültür_Varl
+2024-08-20 12:31:21,967 - INFO - Saving metadata for: 2023-03-24-––_Vakıf_Kültür_Varl
+2024-08-20 12:31:21,968 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-03-24-––_Vakıf_Kültür_Varl.json
+2024-08-20 12:31:21,969 - INFO - Saving summary for: 2023-03-24-––_Vakıf_Kültür_Varl
+2024-08-20 12:31:21,969 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-03-24-––_Vakıf_Kültür_Varl.txt
+2024-08-20 12:31:23,600 - INFO - Downloaded: 2023-03-09-––_Türkiye_İçin_Çevr
+2024-08-20 12:31:23,600 - INFO - Saving metadata for: 2023-03-09-––_Türkiye_İçin_Çevr
+2024-08-20 12:31:23,601 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-03-09-––_Türkiye_İçin_Çevr.json
+2024-08-20 12:31:23,601 - INFO - Saving summary for: 2023-03-09-––_Türkiye_İçin_Çevr
+2024-08-20 12:31:23,601 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-03-09-––_Türkiye_İçin_Çevr.txt
+2024-08-20 12:31:23,991 - INFO - Downloaded: 2023-02-24-––_Çevre_ve_Şehircil
+2024-08-20 12:31:23,992 - INFO - Saving metadata for: 2023-02-24-––_Çevre_ve_Şehircil
+2024-08-20 12:31:23,993 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-02-24-––_Çevre_ve_Şehircil.json
+2024-08-20 12:31:23,993 - INFO - Saving summary for: 2023-02-24-––_Çevre_ve_Şehircil
+2024-08-20 12:31:23,993 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-02-24-––_Çevre_ve_Şehircil.txt
+2024-08-20 12:31:23,995 - INFO - Saving PDF data for keyword: Çevre
+2024-08-20 12:31:23,997 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2024-05-11-––_Vakıf_Kültür_Varl.pdf
+2024-08-20 12:31:23,997 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2024-04-30-––_Korunması_Gerekli.pdf
+2024-08-20 12:31:23,998 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2024-04-07-––_Narlı-Pazarcık-8..pdf
+2024-08-20 12:31:23,998 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-12-29-––_2872_Sayılı_Çevre.pdf
+2024-08-20 12:31:24,000 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-25-––_Çevre,_Şehircilik.pdf
+2024-08-20 12:31:24,001 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-03-––_Mersin_İli,_Akden.pdf
+2024-08-20 12:31:24,002 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-03-––_Çevre,_Şehircilik.pdf
+2024-08-20 12:31:24,003 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-03-––_Mersin_İli,_Akden.pdf
+2024-08-20 12:31:24,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-10-03-––_Çevre,_Şehircilik.pdf
+2024-08-20 12:31:24,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-09-16-––_Türkiye_Cumhuriye.pdf
+2024-08-20 12:31:24,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Malatya_İli,_Doğa.pdf
+2024-08-20 12:31:24,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Mardin_İli,_Midya.pdf
+2024-08-20 12:31:24,004 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Samsun_İli,_Canik.pdf
+2024-08-20 12:31:24,005 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Malatya_İli,_Doğa.pdf
+2024-08-20 12:31:24,005 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Mardin_İli,_Midya.pdf
+2024-08-20 12:31:24,005 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Samsun_İli,_Canik.pdf
+2024-08-20 12:31:24,011 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Malatya_İli,_Doğa.pdf
+2024-08-20 12:31:24,011 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Mardin_İli,_Midya.pdf
+2024-08-20 12:31:24,011 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-29-––_Samsun_İli,_Canik.pdf
+2024-08-20 12:31:24,012 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-16-1389_Çevre_Komisyonu.pdf
+2024-08-20 12:31:24,012 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-07-07-––_Trabzon_Güney_Çev.pdf
+2024-08-20 12:31:24,012 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-05-12-––_Sivas_İli,_Gürün_.pdf
+2024-08-20 12:31:24,012 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-05-12-––_Sivas_İli,_Gürün_.pdf
+2024-08-20 12:31:24,012 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_İskend.pdf
+2024-08-20 12:31:24,013 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Antaky.pdf
+2024-08-20 12:31:24,013 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Defne_.pdf
+2024-08-20 12:31:24,013 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_İskend.pdf
+2024-08-20 12:31:24,014 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Antaky.pdf
+2024-08-20 12:31:24,014 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Defne_.pdf
+2024-08-20 12:31:24,015 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_İskend.pdf
+2024-08-20 12:31:24,015 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Antaky.pdf
+2024-08-20 12:31:24,016 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-14-––_Hatay_İli,_Defne_.pdf
+2024-08-20 12:31:24,016 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Antaky.pdf
+2024-08-20 12:31:24,016 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Defne_.pdf
+2024-08-20 12:31:24,017 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Antaky.pdf
+2024-08-20 12:31:24,017 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Defne_.pdf
+2024-08-20 12:31:24,017 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Antaky.pdf
+2024-08-20 12:31:24,018 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-04-05-––_Hatay_İli,_Defne_.pdf
+2024-08-20 12:31:24,018 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-03-24-––_Vakıf_Kültür_Varl.pdf
+2024-08-20 12:31:24,021 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-03-09-––_Türkiye_İçin_Çevr.pdf
+2024-08-20 12:31:24,021 - INFO - PDF saved to data/raw/resmigazete/Çevre/pdf/2023-02-24-––_Çevre_ve_Şehircil.pdf
+2024-08-20 12:31:24,021 - INFO - Processing non-PDF URLs for keyword: Çevre
+2024-08-20 12:31:24,251 - INFO - Saving summary for: 2024-06-03-––_Zonguldak_Bülent_
+2024-08-20 12:31:24,251 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-06-03-––_Zonguldak_Bülent_.txt
+2024-08-20 12:31:24,251 - INFO - Extracting tables from page: 2024-06-03-––_Zonguldak_Bülent_
+2024-08-20 12:31:24,278 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/06/20240603-1.htm
+2024-08-20 12:31:24,278 - INFO - Saving metadata for: 2024-06-03-––_Zonguldak_Bülent_
+2024-08-20 12:31:24,278 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-06-03-––_Zonguldak_Bülent_.json
+2024-08-20 12:31:24,405 - INFO - Saving summary for: 2024-04-06-––_Türk_Mühendis_ve_
+2024-08-20 12:31:24,405 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-04-06-––_Türk_Mühendis_ve_.txt
+2024-08-20 12:31:24,405 - INFO - Extracting tables from page: 2024-04-06-––_Türk_Mühendis_ve_
+2024-08-20 12:31:24,412 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/04/20240406-18.htm
+2024-08-20 12:31:24,412 - INFO - Saving metadata for: 2024-04-06-––_Türk_Mühendis_ve_
+2024-08-20 12:31:24,413 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-04-06-––_Türk_Mühendis_ve_.json
+2024-08-20 12:31:24,563 - INFO - Saving summary for: 2024-01-31-––_Korunması_Gerekli
+2024-08-20 12:31:24,564 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-01-31-––_Korunması_Gerekli.txt
+2024-08-20 12:31:24,564 - INFO - Extracting tables from page: 2024-01-31-––_Korunması_Gerekli
+2024-08-20 12:31:24,572 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/01/20240131-5.htm
+2024-08-20 12:31:24,572 - INFO - Saving metadata for: 2024-01-31-––_Korunması_Gerekli
+2024-08-20 12:31:24,573 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-01-31-––_Korunması_Gerekli.json
+2024-08-20 12:31:24,735 - INFO - Saving summary for: 2024-01-28-––_Çanakkale_Onsekiz
+2024-08-20 12:31:24,736 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2024-01-28-––_Çanakkale_Onsekiz.txt
+2024-08-20 12:31:24,736 - INFO - Extracting tables from page: 2024-01-28-––_Çanakkale_Onsekiz
+2024-08-20 12:31:24,742 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/01/20240128-3.htm
+2024-08-20 12:31:24,742 - INFO - Saving metadata for: 2024-01-28-––_Çanakkale_Onsekiz
+2024-08-20 12:31:24,742 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2024-01-28-––_Çanakkale_Onsekiz.json
+2024-08-20 12:31:24,868 - INFO - Saving summary for: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-20 12:31:24,869 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-12-29-––_2872_Sayılı_Çevre.txt
+2024-08-20 12:31:24,869 - INFO - Extracting tables from page: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-20 12:31:24,875 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231229-6.htm
+2024-08-20 12:31:24,875 - INFO - Saving metadata for: 2023-12-29-––_2872_Sayılı_Çevre
+2024-08-20 12:31:24,875 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-12-29-––_2872_Sayılı_Çevre.json
+2024-08-20 12:31:25,029 - INFO - Saving summary for: 2023-12-28-––_2872_sayılı_Çevre
+2024-08-20 12:31:25,029 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-12-28-––_2872_sayılı_Çevre.txt
+2024-08-20 12:31:25,029 - INFO - Extracting tables from page: 2023-12-28-––_2872_sayılı_Çevre
+2024-08-20 12:31:25,035 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231228-4.htm
+2024-08-20 12:31:25,035 - INFO - Saving metadata for: 2023-12-28-––_2872_sayılı_Çevre
+2024-08-20 12:31:25,036 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-12-28-––_2872_sayılı_Çevre.json
+2024-08-20 12:31:25,249 - INFO - Saving summary for: 2023-11-13-––_Dokuz_Eylül_Ünive
+2024-08-20 12:31:25,250 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-11-13-––_Dokuz_Eylül_Ünive.txt
+2024-08-20 12:31:25,250 - INFO - Extracting tables from page: 2023-11-13-––_Dokuz_Eylül_Ünive
+2024-08-20 12:31:25,273 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/11/20231113-1.htm
+2024-08-20 12:31:25,273 - INFO - Saving metadata for: 2023-11-13-––_Dokuz_Eylül_Ünive
+2024-08-20 12:31:25,273 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-11-13-––_Dokuz_Eylül_Ünive.json
+2024-08-20 12:31:25,426 - INFO - Saving summary for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,426 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-06-26-––_Orta_Doğu_Teknik_.txt
+2024-08-20 12:31:25,426 - INFO - Extracting tables from page: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,433 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-7.htm
+2024-08-20 12:31:25,433 - INFO - Saving metadata for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,433 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-06-26-––_Orta_Doğu_Teknik_.json
+2024-08-20 12:31:25,602 - INFO - Saving summary for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,602 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-06-26-––_Orta_Doğu_Teknik_.txt
+2024-08-20 12:31:25,602 - INFO - Extracting tables from page: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,608 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-9.htm
+2024-08-20 12:31:25,608 - INFO - Saving metadata for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,608 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-06-26-––_Orta_Doğu_Teknik_.json
+2024-08-20 12:31:25,795 - INFO - Saving summary for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,796 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-06-26-––_Orta_Doğu_Teknik_.txt
+2024-08-20 12:31:25,796 - INFO - Extracting tables from page: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,810 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-7.htm
+2024-08-20 12:31:25,810 - INFO - Saving metadata for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,811 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-06-26-––_Orta_Doğu_Teknik_.json
+2024-08-20 12:31:25,992 - INFO - Saving summary for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,992 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-06-26-––_Orta_Doğu_Teknik_.txt
+2024-08-20 12:31:25,992 - INFO - Extracting tables from page: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,998 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/06/20230626-9.htm
+2024-08-20 12:31:25,998 - INFO - Saving metadata for: 2023-06-26-––_Orta_Doğu_Teknik_
+2024-08-20 12:31:25,998 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-06-26-––_Orta_Doğu_Teknik_.json
+2024-08-20 12:31:26,277 - INFO - Saving summary for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,277 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-7446_Çevre_Kanunu_il.txt
+2024-08-20 12:31:26,277 - INFO - Extracting tables from page: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,289 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-20 12:31:26,289 - INFO - Saving metadata for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,290 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-7446_Çevre_Kanunu_il.json
+2024-08-20 12:31:26,470 - INFO - Saving summary for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,470 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-7446_Çevre_Kanunu_il.txt
+2024-08-20 12:31:26,470 - INFO - Extracting tables from page: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,483 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-20 12:31:26,483 - INFO - Saving metadata for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,483 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-7446_Çevre_Kanunu_il.json
+2024-08-20 12:31:26,676 - INFO - Saving summary for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,676 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-04-05-7446_Çevre_Kanunu_il.txt
+2024-08-20 12:31:26,676 - INFO - Extracting tables from page: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,699 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm
+2024-08-20 12:31:26,700 - INFO - Saving metadata for: 2023-04-05-7446_Çevre_Kanunu_il
+2024-08-20 12:31:26,700 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-04-05-7446_Çevre_Kanunu_il.json
+2024-08-20 12:31:26,879 - INFO - Saving summary for: 2023-03-29-––_Çevre_ve_Şehircil
+2024-08-20 12:31:26,880 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-03-29-––_Çevre_ve_Şehircil.txt
+2024-08-20 12:31:26,880 - INFO - Extracting tables from page: 2023-03-29-––_Çevre_ve_Şehircil
+2024-08-20 12:31:26,887 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/03/20230329-1.htm
+2024-08-20 12:31:26,887 - INFO - Saving metadata for: 2023-03-29-––_Çevre_ve_Şehircil
+2024-08-20 12:31:26,887 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-03-29-––_Çevre_ve_Şehircil.json
+2024-08-20 12:31:27,074 - INFO - Saving summary for: 2023-03-25-––_Çevre,_Şehircilik
+2024-08-20 12:31:27,074 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-03-25-––_Çevre,_Şehircilik.txt
+2024-08-20 12:31:27,074 - INFO - Extracting tables from page: 2023-03-25-––_Çevre,_Şehircilik
+2024-08-20 12:31:27,080 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/03/20230325-1.htm
+2024-08-20 12:31:27,080 - INFO - Saving metadata for: 2023-03-25-––_Çevre,_Şehircilik
+2024-08-20 12:31:27,080 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-03-25-––_Çevre,_Şehircilik.json
+2024-08-20 12:31:27,244 - INFO - Saving summary for: 2023-02-23-––_Çevre_İzin_ve_Lis
+2024-08-20 12:31:27,244 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-02-23-––_Çevre_İzin_ve_Lis.txt
+2024-08-20 12:31:27,244 - INFO - Extracting tables from page: 2023-02-23-––_Çevre_İzin_ve_Lis
+2024-08-20 12:31:27,250 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/02/20230223-1.htm
+2024-08-20 12:31:27,250 - INFO - Saving metadata for: 2023-02-23-––_Çevre_İzin_ve_Lis
+2024-08-20 12:31:27,250 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-02-23-––_Çevre_İzin_ve_Lis.json
+2024-08-20 12:31:27,414 - INFO - Saving summary for: 2023-01-27-––_Korunması_Gerekli
+2024-08-20 12:31:27,415 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-01-27-––_Korunması_Gerekli.txt
+2024-08-20 12:31:27,415 - INFO - Extracting tables from page: 2023-01-27-––_Korunması_Gerekli
+2024-08-20 12:31:27,423 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230127-2.htm
+2024-08-20 12:31:27,423 - INFO - Saving metadata for: 2023-01-27-––_Korunması_Gerekli
+2024-08-20 12:31:27,424 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-01-27-––_Korunması_Gerekli.json
+2024-08-20 12:31:27,621 - INFO - Saving summary for: 2023-01-23-––_Bitlis_Eren_Ünive
+2024-08-20 12:31:27,622 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-01-23-––_Bitlis_Eren_Ünive.txt
+2024-08-20 12:31:27,622 - INFO - Extracting tables from page: 2023-01-23-––_Bitlis_Eren_Ünive
+2024-08-20 12:31:27,653 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230123-1.htm
+2024-08-20 12:31:27,653 - INFO - Saving metadata for: 2023-01-23-––_Bitlis_Eren_Ünive
+2024-08-20 12:31:27,653 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-01-23-––_Bitlis_Eren_Ünive.json
+2024-08-20 12:31:27,876 - INFO - Saving summary for: 2023-01-14-––_2872_Sayılı_Çevre
+2024-08-20 12:31:27,876 - INFO - Summary saved to data/raw/resmigazete/Çevre/text/2023-01-14-––_2872_Sayılı_Çevre.txt
+2024-08-20 12:31:27,876 - INFO - Extracting tables from page: 2023-01-14-––_2872_Sayılı_Çevre
+2024-08-20 12:31:27,882 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/01/20230114-16.htm
+2024-08-20 12:31:27,883 - INFO - Saving metadata for: 2023-01-14-––_2872_Sayılı_Çevre
+2024-08-20 12:31:27,883 - INFO - Metadata saved to data/raw/resmigazete/Çevre/metadata/metadata_2023-01-14-––_2872_Sayılı_Çevre.json
+2024-08-20 12:31:27,941 - INFO - Scraping process completed.

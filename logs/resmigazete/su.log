@@ -1,0 +1,13 @@
+2024-08-20 12:19:12,832 - INFO - Starting the scraping process.
+2024-08-20 12:19:12,832 - INFO - Processing keyword: su
+2024-08-20 12:19:12,832 - INFO - Creating folder structure for keyword: su
+2024-08-20 12:19:12,832 - INFO - Searching for keyword: su
+2024-08-20 12:19:31,009 - INFO - Processing page 1
+2024-08-20 12:20:39,959 - INFO - Processing page 2
+2024-08-20 12:21:48,102 - INFO - Processing page 3
+2024-08-20 12:22:56,071 - INFO - Processing page 4
+2024-08-20 12:24:04,377 - INFO - Processing page 5
+2024-08-20 12:25:07,787 - INFO - Downloading PDF files for keyword: su
+2024-08-20 12:25:07,787 - INFO - Saving PDF data for keyword: su
+2024-08-20 12:25:07,787 - INFO - Processing non-PDF URLs for keyword: su
+2024-08-20 12:25:07,845 - INFO - Scraping process completed.

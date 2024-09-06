@@ -1,0 +1,32 @@
+2024-08-15 18:46:38,886 - INFO - Starting the scraping process.
+2024-08-15 18:46:38,886 - INFO - Processing keyword: KKDİK
+2024-08-15 18:46:38,886 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-15 18:46:38,887 - INFO - Searching for keyword: KKDİK
+2024-08-15 18:47:07,385 - ERROR - An error occurred: Message: 
+. Continuing with the next iteration.
+2024-08-15 18:47:07,408 - INFO - Downloading PDF files for keyword: KKDİK
+2024-08-15 18:47:07,408 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-15 18:47:07,408 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-15 18:47:07,464 - INFO - Scraping process completed.
+2024-08-16 09:47:05,742 - INFO - Starting the scraping process.
+2024-08-16 09:47:05,742 - INFO - Processing keyword: KKDİK
+2024-08-16 09:47:05,742 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-16 09:47:05,743 - INFO - Searching for keyword: KKDİK
+2024-08-16 09:47:23,930 - INFO - Processing page 1
+2024-08-16 09:47:34,105 - ERROR - An error occurred: Message: 
+. Continuing with the next iteration.
+2024-08-16 09:47:34,116 - INFO - Downloading PDF files for keyword: KKDİK
+2024-08-16 09:47:34,116 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-16 09:47:34,117 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-16 09:47:34,173 - INFO - Scraping process completed.
+2024-08-20 12:34:04,392 - INFO - Starting the scraping process.
+2024-08-20 12:34:04,392 - INFO - Processing keyword: KKDİK
+2024-08-20 12:34:04,392 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-20 12:34:04,392 - INFO - Searching for keyword: KKDİK
+2024-08-20 12:34:22,587 - INFO - Processing page 1
+2024-08-20 12:34:32,872 - ERROR - An error occurred: Message: 
+. Continuing with the next iteration.
+2024-08-20 12:34:32,907 - INFO - Downloading PDF files for keyword: KKDİK
+2024-08-20 12:34:32,908 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-20 12:34:32,908 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-20 12:34:32,965 - INFO - Scraping process completed.

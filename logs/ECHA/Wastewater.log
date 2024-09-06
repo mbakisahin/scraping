@@ -1,0 +1,198 @@
+2024-08-15 16:52:05,669 - INFO - Starting the scraping process.
+2024-08-15 16:52:05,669 - INFO - Processing keyword: Wastewater
+2024-08-15 16:52:05,669 - INFO - Creating folder structure for keyword: Wastewater
+2024-08-15 16:52:11,528 - INFO - Retrieving URLs for keyword: Wastewater
+2024-08-15 16:52:11,528 - INFO - Searching for keyword: Wastewater
+2024-08-15 16:52:22,888 - INFO - Selecting date: 2012-8-9
+2024-08-15 16:52:31,083 - INFO - Sorting by last modified date.
+2024-08-15 16:52:51,420 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5868d553a6ca <unknown>
+#1 0x5868d520b600 <unknown>
+#2 0x5868d525abcb <unknown>
+#3 0x5868d525aeb1 <unknown>
+#4 0x5868d529eb24 <unknown>
+#5 0x5868d527d8cd <unknown>
+#6 0x5868d529c04a <unknown>
+#7 0x5868d527d643 <unknown>
+#8 0x5868d524dd31 <unknown>
+#9 0x5868d524e79e <unknown>
+#10 0x5868d550225b <unknown>
+#11 0x5868d55061f2 <unknown>
+#12 0x5868d54ef615 <unknown>
+#13 0x5868d5506d82 <unknown>
+#14 0x5868d54d425f <unknown>
+#15 0x5868d5529e68 <unknown>
+#16 0x5868d552a040 <unknown>
+#17 0x5868d553949c <unknown>
+#18 0x72a38a694ac3 <unknown>
+
+2024-08-15 16:52:51,421 - INFO - Downloading PDF files for keyword: Wastewater
+2024-08-15 16:52:51,421 - INFO - Saving PDF data for keyword: Wastewater
+2024-08-15 16:52:51,421 - INFO - Processing non-PDF URLs for keyword: Wastewater
+2024-08-15 16:52:51,490 - INFO - Scraping process completed.
+2024-08-16 00:21:29,537 - INFO - Starting the scraping process.
+2024-08-16 00:21:29,545 - INFO - Processing keyword: Wastewater
+2024-08-16 00:21:29,546 - INFO - Creating folder structure for keyword: Wastewater
+2024-08-16 00:21:37,235 - INFO - Retrieving URLs for keyword: Wastewater
+2024-08-16 00:21:37,236 - INFO - Searching for keyword: Wastewater
+2024-08-16 00:21:49,074 - INFO - Selecting date: 2012-8-9
+2024-08-16 00:21:57,276 - INFO - Sorting by last modified date.
+2024-08-16 00:22:17,384 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x55d18aa156ca <unknown>
+#1 0x55d18a6e6600 <unknown>
+#2 0x55d18a735bcb <unknown>
+#3 0x55d18a735eb1 <unknown>
+#4 0x55d18a779b24 <unknown>
+#5 0x55d18a7588cd <unknown>
+#6 0x55d18a77704a <unknown>
+#7 0x55d18a758643 <unknown>
+#8 0x55d18a728d31 <unknown>
+#9 0x55d18a72979e <unknown>
+#10 0x55d18a9dd25b <unknown>
+#11 0x55d18a9e11f2 <unknown>
+#12 0x55d18a9ca615 <unknown>
+#13 0x55d18a9e1d82 <unknown>
+#14 0x55d18a9af25f <unknown>
+#15 0x55d18aa04e68 <unknown>
+#16 0x55d18aa05040 <unknown>
+#17 0x55d18aa1449c <unknown>
+#18 0x7c1107094ac3 <unknown>
+
+2024-08-16 00:22:17,385 - INFO - Downloading PDF files for keyword: Wastewater
+2024-08-16 00:22:17,385 - INFO - Saving PDF data for keyword: Wastewater
+2024-08-16 00:22:17,385 - INFO - Processing non-PDF URLs for keyword: Wastewater
+2024-08-16 00:22:17,442 - INFO - Scraping process completed.
+2024-08-19 18:28:07,423 - INFO - Starting the scraping process.
+2024-08-19 18:28:07,426 - INFO - Processing keyword: Wastewater
+2024-08-19 18:28:07,427 - INFO - Creating folder structure for keyword: Wastewater
+2024-08-19 18:28:13,320 - INFO - Retrieving URLs for keyword: Wastewater
+2024-08-19 18:28:13,320 - INFO - Searching for keyword: Wastewater
+2024-08-19 18:28:24,463 - INFO - Selecting date: 2012-8-9
+2024-08-19 18:28:32,677 - INFO - Sorting by last modified date.
+2024-08-19 18:28:52,925 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x6300932d56ca <unknown>
+#1 0x630092fa6600 <unknown>
+#2 0x630092ff5bcb <unknown>
+#3 0x630092ff5eb1 <unknown>
+#4 0x630093039b24 <unknown>
+#5 0x6300930188cd <unknown>
+#6 0x63009303704a <unknown>
+#7 0x630093018643 <unknown>
+#8 0x630092fe8d31 <unknown>
+#9 0x630092fe979e <unknown>
+#10 0x63009329d25b <unknown>
+#11 0x6300932a11f2 <unknown>
+#12 0x63009328a615 <unknown>
+#13 0x6300932a1d82 <unknown>
+#14 0x63009326f25f <unknown>
+#15 0x6300932c4e68 <unknown>
+#16 0x6300932c5040 <unknown>
+#17 0x6300932d449c <unknown>
+#18 0x73b0a7894ac3 <unknown>
+
+2024-08-19 18:28:52,925 - INFO - Downloading PDF files for keyword: Wastewater
+2024-08-19 18:29:06,425 - INFO - Saving PDF data for keyword: Wastewater
+2024-08-19 18:29:06,425 - INFO - Processing non-PDF URLs for keyword: Wastewater
+2024-08-19 18:29:06,490 - INFO - Scraping process completed.
+2024-08-19 19:09:18,738 - INFO - Starting the scraping process.
+2024-08-19 19:09:18,745 - INFO - Processing keyword: Wastewater
+2024-08-19 19:09:18,745 - INFO - Creating folder structure for keyword: Wastewater
+2024-08-19 19:09:24,480 - INFO - Retrieving URLs for keyword: Wastewater
+2024-08-19 19:09:24,481 - INFO - Searching for keyword: Wastewater
+2024-08-19 19:09:35,403 - INFO - Selecting date: 2012-8-9
+2024-08-19 19:09:43,613 - INFO - Sorting by last modified date.
+2024-08-19 19:10:03,753 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5a441a5a86ca <unknown>
+#1 0x5a441a279600 <unknown>
+#2 0x5a441a2c8bcb <unknown>
+#3 0x5a441a2c8eb1 <unknown>
+#4 0x5a441a30cb24 <unknown>
+#5 0x5a441a2eb8cd <unknown>
+#6 0x5a441a30a04a <unknown>
+#7 0x5a441a2eb643 <unknown>
+#8 0x5a441a2bbd31 <unknown>
+#9 0x5a441a2bc79e <unknown>
+#10 0x5a441a57025b <unknown>
+#11 0x5a441a5741f2 <unknown>
+#12 0x5a441a55d615 <unknown>
+#13 0x5a441a574d82 <unknown>
+#14 0x5a441a54225f <unknown>
+#15 0x5a441a597e68 <unknown>
+#16 0x5a441a598040 <unknown>
+#17 0x5a441a5a749c <unknown>
+#18 0x7fa180a94ac3 <unknown>
+
+2024-08-19 19:10:03,753 - INFO - Downloading PDF files for keyword: Wastewater
+2024-08-19 19:10:03,754 - INFO - Saving PDF data for keyword: Wastewater
+2024-08-19 19:10:03,754 - INFO - Processing non-PDF URLs for keyword: Wastewater
+2024-08-19 19:10:03,815 - INFO - Scraping process completed.
+2024-08-20 09:48:24,381 - INFO - Starting the scraping process.
+2024-08-20 09:48:24,381 - INFO - Processing keyword: Wastewater
+2024-08-20 09:48:24,381 - INFO - Creating folder structure for keyword: Wastewater
+2024-08-20 09:48:30,211 - INFO - Retrieving URLs for keyword: Wastewater
+2024-08-20 09:48:30,211 - INFO - Searching for keyword: Wastewater
+2024-08-20 09:48:41,215 - INFO - Selecting date: 2012-8-9
+2024-08-20 09:48:49,410 - INFO - Sorting by last modified date.
+2024-08-20 09:49:09,528 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x575c5dafe6ca <unknown>
+#1 0x575c5d7cf600 <unknown>
+#2 0x575c5d81ebcb <unknown>
+#3 0x575c5d81eeb1 <unknown>
+#4 0x575c5d862b24 <unknown>
+#5 0x575c5d8418cd <unknown>
+#6 0x575c5d86004a <unknown>
+#7 0x575c5d841643 <unknown>
+#8 0x575c5d811d31 <unknown>
+#9 0x575c5d81279e <unknown>
+#10 0x575c5dac625b <unknown>
+#11 0x575c5daca1f2 <unknown>
+#12 0x575c5dab3615 <unknown>
+#13 0x575c5dacad82 <unknown>
+#14 0x575c5da9825f <unknown>
+#15 0x575c5daede68 <unknown>
+#16 0x575c5daee040 <unknown>
+#17 0x575c5dafd49c <unknown>
+#18 0x7cecd8c94ac3 <unknown>
+
+2024-08-20 09:49:09,529 - INFO - Downloading PDF files and saving summaries for keyword: Wastewater
+2024-08-20 09:49:09,529 - INFO - Saving PDF data for keyword: Wastewater
+2024-08-20 09:49:09,529 - INFO - Processing non-PDF URLs for keyword: Wastewater
+2024-08-20 09:49:09,586 - INFO - Scraping process completed.
+2024-08-20 11:11:56,619 - INFO - Starting the scraping process.
+2024-08-20 11:11:56,619 - INFO - Processing keyword: Wastewater
+2024-08-20 11:11:56,620 - INFO - Creating folder structure for keyword: Wastewater
+2024-08-20 11:12:02,658 - INFO - Retrieving URLs for keyword: Wastewater
+2024-08-20 11:12:02,659 - INFO - Searching for keyword: Wastewater
+2024-08-20 11:12:13,837 - INFO - Selecting date: 2012-8-9
+2024-08-20 11:12:22,067 - INFO - Sorting by last modified date.
+2024-08-20 11:12:42,355 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x614624e596ca <unknown>
+#1 0x614624b2a600 <unknown>
+#2 0x614624b79bcb <unknown>
+#3 0x614624b79eb1 <unknown>
+#4 0x614624bbdb24 <unknown>
+#5 0x614624b9c8cd <unknown>
+#6 0x614624bbb04a <unknown>
+#7 0x614624b9c643 <unknown>
+#8 0x614624b6cd31 <unknown>
+#9 0x614624b6d79e <unknown>
+#10 0x614624e2125b <unknown>
+#11 0x614624e251f2 <unknown>
+#12 0x614624e0e615 <unknown>
+#13 0x614624e25d82 <unknown>
+#14 0x614624df325f <unknown>
+#15 0x614624e48e68 <unknown>
+#16 0x614624e49040 <unknown>
+#17 0x614624e5849c <unknown>
+#18 0x760336294ac3 <unknown>
+
+2024-08-20 11:12:42,355 - INFO - Downloading PDF files and saving summaries for keyword: Wastewater
+2024-08-20 11:12:42,355 - INFO - Saving PDF data for keyword: Wastewater
+2024-08-20 11:12:42,356 - INFO - Processing non-PDF URLs for keyword: Wastewater
+2024-08-20 11:12:42,427 - INFO - Scraping process completed.

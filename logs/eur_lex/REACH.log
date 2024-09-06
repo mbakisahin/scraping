@@ -1,0 +1,206 @@
+2024-08-15 17:37:55,300 - INFO - Starting the scraping process.
+2024-08-15 17:37:55,301 - INFO - Processing keyword: REACH
+2024-08-15 17:37:55,301 - INFO - Creating folder structure for keyword: REACH
+2024-08-15 17:38:01,173 - INFO - Searching for keyword: REACH
+2024-08-15 17:38:15,668 - INFO - Sorting results by last modified date.
+2024-08-15 17:38:23,908 - INFO - Processing page 1
+2024-08-15 17:38:23,934 - INFO - Extracting pdf links from results.
+2024-08-15 17:38:24,149 - INFO - Extracting html links from results.
+2024-08-15 17:38:25,424 - ERROR - Error clicking next button: Message: element click intercepted: Element <a href="./search.html?lang=en&amp;text=REACH&amp;qid=1723732681447&amp;type=quick&amp;scope=EURLEX&amp;sortOne=DD&amp;sortOneOrder=desc&amp;page=2" aria-hidden="true" tabindex="-1" class="btn btn-primary btn-sm" onclick="showHourglass();" title="Next Page">...</a> is not clickable at point (1485, 1014). Other element would receive the click: <a href="#refuse" class="wt-ecl-button wt-ecl-button--primary cck-actions-button ea_ignore">...</a>
+  (Session info: chrome-headless-shell=127.0.6533.88)
+Stacktrace:
+#0 0x61b75f47e6ca <unknown>
+#1 0x61b75f14f600 <unknown>
+#2 0x61b75f1a58e6 <unknown>
+#3 0x61b75f1a37f6 <unknown>
+#4 0x61b75f1a1277 <unknown>
+#5 0x61b75f1a011c <unknown>
+#6 0x61b75f193be6 <unknown>
+#7 0x61b75f1c18a2 <unknown>
+#8 0x61b75f193599 <unknown>
+#9 0x61b75f1c1a6e <unknown>
+#10 0x61b75f1e004a <unknown>
+#11 0x61b75f1c1643 <unknown>
+#12 0x61b75f191d31 <unknown>
+#13 0x61b75f19279e <unknown>
+#14 0x61b75f44625b <unknown>
+#15 0x61b75f44a1f2 <unknown>
+#16 0x61b75f433615 <unknown>
+#17 0x61b75f44ad82 <unknown>
+#18 0x61b75f41825f <unknown>
+#19 0x61b75f46de68 <unknown>
+#20 0x61b75f46e040 <unknown>
+#21 0x61b75f47d49c <unknown>
+#22 0x71bf68a94ac3 <unknown>
+
+2024-08-15 17:38:25,425 - INFO - Downloading PDF files.
+2024-08-15 17:38:25,941 - INFO - Downloaded: 30_12_2024_Consolidated_text_R
+2024-08-15 17:38:26,537 - INFO - Downloaded: 14_08_2024_Communication_from_t
+2024-08-15 17:38:26,982 - INFO - Downloaded: 14_08_2024_Prior_notification_o
+2024-08-15 17:38:27,924 - INFO - Downloaded: 14_08_2024_Consolidated_text_C
+2024-08-15 17:38:28,415 - INFO - Downloaded: 14_08_2024_Consolidated_text_D
+2024-08-15 17:38:28,416 - INFO - Saving PDF data for keyword: REACH
+2024-08-15 17:38:28,417 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/30_12_2024_Consolidated_text_R.pdf
+2024-08-15 17:38:28,420 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/14_08_2024_Communication_from_t.pdf
+2024-08-15 17:38:28,421 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/14_08_2024_Prior_notification_o.pdf
+2024-08-15 17:38:28,426 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/14_08_2024_Consolidated_text_C.pdf
+2024-08-15 17:38:28,427 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/14_08_2024_Consolidated_text_D.pdf
+2024-08-15 17:38:28,427 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-15 17:38:29,085 - INFO - Saving summary for: 30_12_2024_Consolidated_text_R
+2024-08-15 17:38:29,085 - INFO - Summary saved to data/raw/eur_lex/REACH/text/30_12_2024_Consolidated_text_R.txt
+2024-08-15 17:38:29,085 - INFO - Extracting tables from page: 30_12_2024_Consolidated_text_R
+2024-08-15 17:38:29,088 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230
+2024-08-15 17:38:29,088 - INFO - Saving metadata for: 30_12_2024_Consolidated_text_R
+2024-08-15 17:38:29,088 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_30_12_2024_Consolidated_text_R.json
+2024-08-15 17:38:30,479 - INFO - Saving summary for: 14_08_2024_COMMISSION_IMPLEMENT
+2024-08-15 17:38:30,479 - INFO - Summary saved to data/raw/eur_lex/REACH/text/14_08_2024_COMMISSION_IMPLEMENT.txt
+2024-08-15 17:38:30,479 - INFO - Extracting tables from page: 14_08_2024_COMMISSION_IMPLEMENT
+2024-08-15 17:38:30,558 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=PI_COM:Ares(2024)5852498
+2024-08-15 17:38:30,558 - INFO - Saving metadata for: 14_08_2024_COMMISSION_IMPLEMENT
+2024-08-15 17:38:30,559 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_14_08_2024_COMMISSION_IMPLEMENT.json
+2024-08-15 17:38:31,201 - INFO - Saving summary for: 14_08_2024_Communication_from_t
+2024-08-15 17:38:31,202 - INFO - Summary saved to data/raw/eur_lex/REACH/text/14_08_2024_Communication_from_t.txt
+2024-08-15 17:38:31,202 - INFO - Extracting tables from page: 14_08_2024_Communication_from_t
+2024-08-15 17:38:31,224 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52024XC05046
+2024-08-15 17:38:31,224 - INFO - Saving metadata for: 14_08_2024_Communication_from_t
+2024-08-15 17:38:31,224 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_14_08_2024_Communication_from_t.json
+2024-08-15 17:38:31,652 - INFO - Saving summary for: 14_08_2024_Prior_notification_o
+2024-08-15 17:38:31,652 - INFO - Summary saved to data/raw/eur_lex/REACH/text/14_08_2024_Prior_notification_o.txt
+2024-08-15 17:38:31,652 - INFO - Extracting tables from page: 14_08_2024_Prior_notification_o
+2024-08-15 17:38:31,653 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52024M11661
+2024-08-15 17:38:31,653 - INFO - Saving metadata for: 14_08_2024_Prior_notification_o
+2024-08-15 17:38:31,653 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_14_08_2024_Prior_notification_o.json
+2024-08-15 17:38:34,543 - INFO - Saving summary for: 14_08_2024_Consolidated_text_C
+2024-08-15 17:38:34,543 - INFO - Summary saved to data/raw/eur_lex/REACH/text/14_08_2024_Consolidated_text_C.txt
+2024-08-15 17:38:34,543 - INFO - Extracting tables from page: 14_08_2024_Consolidated_text_C
+2024-08-15 17:38:34,584 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0965-20240814
+2024-08-15 17:38:34,584 - INFO - Saving metadata for: 14_08_2024_Consolidated_text_C
+2024-08-15 17:38:34,585 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_14_08_2024_Consolidated_text_C.json
+2024-08-15 17:38:35,042 - INFO - Saving summary for: 14_08_2024_Consolidated_text_D
+2024-08-15 17:38:35,042 - INFO - Summary saved to data/raw/eur_lex/REACH/text/14_08_2024_Consolidated_text_D.txt
+2024-08-15 17:38:35,042 - INFO - Extracting tables from page: 14_08_2024_Consolidated_text_D
+2024-08-15 17:38:35,043 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02004D0002-20240814
+2024-08-15 17:38:35,043 - INFO - Saving metadata for: 14_08_2024_Consolidated_text_D
+2024-08-15 17:38:35,044 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_14_08_2024_Consolidated_text_D.json
+2024-08-15 17:38:35,598 - INFO - Saving summary for: 12_08_2024_Consolidated_text_C
+2024-08-15 17:38:35,598 - INFO - Summary saved to data/raw/eur_lex/REACH/text/12_08_2024_Consolidated_text_C.txt
+2024-08-15 17:38:35,598 - INFO - Extracting tables from page: 12_08_2024_Consolidated_text_C
+2024-08-15 17:38:35,602 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1763-20240812
+2024-08-15 17:38:35,602 - INFO - Saving metadata for: 12_08_2024_Consolidated_text_C
+2024-08-15 17:38:35,602 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_12_08_2024_Consolidated_text_C.json
+2024-08-15 17:38:36,121 - INFO - Saving summary for: 12_08_2024_COMMISSION_DELEGATED
+2024-08-15 17:38:36,121 - INFO - Summary saved to data/raw/eur_lex/REACH/text/12_08_2024_COMMISSION_DELEGATED.txt
+2024-08-15 17:38:36,121 - INFO - Extracting tables from page: 12_08_2024_COMMISSION_DELEGATED
+2024-08-15 17:38:36,121 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=PI_COM:Ares(2024)5787349
+2024-08-15 17:38:36,121 - INFO - Saving metadata for: 12_08_2024_COMMISSION_DELEGATED
+2024-08-15 17:38:36,121 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_12_08_2024_COMMISSION_DELEGATED.json
+2024-08-15 17:38:36,658 - INFO - Saving summary for: 12_08_2024_COMMISSION_IMPLEMENT
+2024-08-15 17:38:36,658 - INFO - Summary saved to data/raw/eur_lex/REACH/text/12_08_2024_COMMISSION_IMPLEMENT.txt
+2024-08-15 17:38:36,658 - INFO - Extracting tables from page: 12_08_2024_COMMISSION_IMPLEMENT
+2024-08-15 17:38:36,661 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=PI_COM:Ares(2024)5787288
+2024-08-15 17:38:36,661 - INFO - Saving metadata for: 12_08_2024_COMMISSION_IMPLEMENT
+2024-08-15 17:38:36,661 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_12_08_2024_COMMISSION_IMPLEMENT.json
+2024-08-15 17:38:37,220 - INFO - Saving summary for: 12_08_2024_COMMISSION_IMPLEMENT_1
+2024-08-15 17:38:37,221 - INFO - Summary saved to data/raw/eur_lex/REACH/text/12_08_2024_COMMISSION_IMPLEMENT_1.txt
+2024-08-15 17:38:37,221 - INFO - Extracting tables from page: 12_08_2024_COMMISSION_IMPLEMENT_1
+2024-08-15 17:38:37,223 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=PI_COM:Ares(2024)5786790
+2024-08-15 17:38:37,223 - INFO - Saving metadata for: 12_08_2024_COMMISSION_IMPLEMENT_1
+2024-08-15 17:38:37,223 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_12_08_2024_COMMISSION_IMPLEMENT_1.json
+2024-08-15 17:38:37,280 - INFO - Scraping process completed.
+2024-08-16 09:20:50,413 - INFO - Starting the scraping process.
+2024-08-16 09:20:50,413 - INFO - Processing keyword: REACH
+2024-08-16 09:20:50,413 - INFO - Creating folder structure for keyword: REACH
+2024-08-16 09:20:56,124 - INFO - Searching for keyword: REACH
+2024-08-16 09:21:09,999 - INFO - Sorting results by last modified date.
+2024-08-16 09:21:18,794 - INFO - Processing page 1
+2024-08-16 09:21:18,818 - INFO - Extracting pdf links from results.
+2024-08-16 09:21:19,032 - INFO - Extracting html links from results.
+2024-08-16 09:21:20,266 - ERROR - Error clicking next button: Message: element click intercepted: Element <a href="./search.html?lang=en&amp;text=REACH&amp;qid=1723789256259&amp;type=quick&amp;scope=EURLEX&amp;sortOne=DD&amp;sortOneOrder=desc&amp;page=2" aria-hidden="true" tabindex="-1" class="btn btn-primary btn-sm" onclick="showHourglass();" title="Next Page">...</a> is not clickable at point (1485, 1014). Other element would receive the click: <a href="#refuse" class="wt-ecl-button wt-ecl-button--primary cck-actions-button ea_ignore">...</a>
+  (Session info: chrome-headless-shell=127.0.6533.88)
+Stacktrace:
+#0 0x5cb784d4b6ca <unknown>
+#1 0x5cb784a1c600 <unknown>
+#2 0x5cb784a728e6 <unknown>
+#3 0x5cb784a707f6 <unknown>
+#4 0x5cb784a6e277 <unknown>
+#5 0x5cb784a6d11c <unknown>
+#6 0x5cb784a60be6 <unknown>
+#7 0x5cb784a8e8a2 <unknown>
+#8 0x5cb784a60599 <unknown>
+#9 0x5cb784a8ea6e <unknown>
+#10 0x5cb784aad04a <unknown>
+#11 0x5cb784a8e643 <unknown>
+#12 0x5cb784a5ed31 <unknown>
+#13 0x5cb784a5f79e <unknown>
+#14 0x5cb784d1325b <unknown>
+#15 0x5cb784d171f2 <unknown>
+#16 0x5cb784d00615 <unknown>
+#17 0x5cb784d17d82 <unknown>
+#18 0x5cb784ce525f <unknown>
+#19 0x5cb784d3ae68 <unknown>
+#20 0x5cb784d3b040 <unknown>
+#21 0x5cb784d4a49c <unknown>
+#22 0x7d619f094ac3 <unknown>
+
+2024-08-16 09:21:20,266 - INFO - Downloading PDF files.
+2024-08-16 09:21:21,117 - INFO - Downloaded: 2024-12-30-Consolidated_text_R
+2024-08-16 09:21:21,661 - INFO - Downloaded: 2024-08-16-Publication_of_an_ap
+2024-08-16 09:21:22,185 - INFO - Downloaded: 2024-08-16-Prior_notification_o
+2024-08-16 09:21:23,659 - INFO - Downloaded: 2024-08-14-Commission_Implement
+2024-08-16 09:21:24,433 - INFO - Downloaded: 2024-08-14-Communication_from_t
+2024-08-16 09:21:24,885 - INFO - Downloaded: 2024-08-14-Prior_notification_o
+2024-08-16 09:21:25,769 - INFO - Downloaded: 2024-08-14-Consolidated_text_C
+2024-08-16 09:21:26,252 - INFO - Downloaded: 2024-08-14-Consolidated_text_D
+2024-08-16 09:21:26,252 - INFO - Saving PDF data for keyword: REACH
+2024-08-16 09:21:26,253 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/2024-12-30-Consolidated_text_R.pdf
+2024-08-16 09:21:26,254 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/2024-08-16-Publication_of_an_ap.pdf
+2024-08-16 09:21:26,254 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/2024-08-16-Prior_notification_o.pdf
+2024-08-16 09:21:26,262 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/2024-08-14-Commission_Implement.pdf
+2024-08-16 09:21:26,262 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/2024-08-14-Communication_from_t.pdf
+2024-08-16 09:21:26,263 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/2024-08-14-Prior_notification_o.pdf
+2024-08-16 09:21:26,264 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/2024-08-14-Consolidated_text_C.pdf
+2024-08-16 09:21:26,264 - INFO - PDF saved to data/raw/eur_lex/REACH/pdf/2024-08-14-Consolidated_text_D.pdf
+2024-08-16 09:21:26,264 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-16 09:21:27,007 - INFO - Saving summary for: 2024-12-30-Consolidated_text_R
+2024-08-16 09:21:27,008 - INFO - Summary saved to data/raw/eur_lex/REACH/text/2024-12-30-Consolidated_text_R.txt
+2024-08-16 09:21:27,008 - INFO - Extracting tables from page: 2024-12-30-Consolidated_text_R
+2024-08-16 09:21:27,010 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230
+2024-08-16 09:21:27,010 - INFO - Saving metadata for: 2024-12-30-Consolidated_text_R
+2024-08-16 09:21:27,010 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_2024-12-30-Consolidated_text_R.json
+2024-08-16 09:21:28,368 - INFO - Saving summary for: 2024-08-14-COMMISSION_IMPLEMENT
+2024-08-16 09:21:28,369 - INFO - Summary saved to data/raw/eur_lex/REACH/text/2024-08-14-COMMISSION_IMPLEMENT.txt
+2024-08-16 09:21:28,369 - INFO - Extracting tables from page: 2024-08-14-COMMISSION_IMPLEMENT
+2024-08-16 09:21:28,450 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=PI_COM:Ares(2024)5852498
+2024-08-16 09:21:28,450 - INFO - Saving metadata for: 2024-08-14-COMMISSION_IMPLEMENT
+2024-08-16 09:21:28,450 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_2024-08-14-COMMISSION_IMPLEMENT.json
+2024-08-16 09:21:29,118 - INFO - Saving summary for: 2024-08-14-Communication_from_t
+2024-08-16 09:21:29,118 - INFO - Summary saved to data/raw/eur_lex/REACH/text/2024-08-14-Communication_from_t.txt
+2024-08-16 09:21:29,118 - INFO - Extracting tables from page: 2024-08-14-Communication_from_t
+2024-08-16 09:21:29,142 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52024XC05046
+2024-08-16 09:21:29,142 - INFO - Saving metadata for: 2024-08-14-Communication_from_t
+2024-08-16 09:21:29,142 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_2024-08-14-Communication_from_t.json
+2024-08-16 09:21:29,615 - INFO - Saving summary for: 2024-08-14-Prior_notification_o
+2024-08-16 09:21:29,616 - INFO - Summary saved to data/raw/eur_lex/REACH/text/2024-08-14-Prior_notification_o.txt
+2024-08-16 09:21:29,616 - INFO - Extracting tables from page: 2024-08-14-Prior_notification_o
+2024-08-16 09:21:29,616 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52024M11661
+2024-08-16 09:21:29,616 - INFO - Saving metadata for: 2024-08-14-Prior_notification_o
+2024-08-16 09:21:29,616 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_2024-08-14-Prior_notification_o.json
+2024-08-16 09:21:32,117 - INFO - Saving summary for: 2024-08-14-Consolidated_text_C
+2024-08-16 09:21:32,117 - INFO - Summary saved to data/raw/eur_lex/REACH/text/2024-08-14-Consolidated_text_C.txt
+2024-08-16 09:21:32,117 - INFO - Extracting tables from page: 2024-08-14-Consolidated_text_C
+2024-08-16 09:21:32,150 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0965-20240814
+2024-08-16 09:21:32,150 - INFO - Saving metadata for: 2024-08-14-Consolidated_text_C
+2024-08-16 09:21:32,150 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_2024-08-14-Consolidated_text_C.json
+2024-08-16 09:21:32,609 - INFO - Saving summary for: 2024-08-14-Consolidated_text_D
+2024-08-16 09:21:32,609 - INFO - Summary saved to data/raw/eur_lex/REACH/text/2024-08-14-Consolidated_text_D.txt
+2024-08-16 09:21:32,610 - INFO - Extracting tables from page: 2024-08-14-Consolidated_text_D
+2024-08-16 09:21:32,610 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02004D0002-20240814
+2024-08-16 09:21:32,610 - INFO - Saving metadata for: 2024-08-14-Consolidated_text_D
+2024-08-16 09:21:32,611 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_2024-08-14-Consolidated_text_D.json
+2024-08-16 09:21:33,028 - INFO - Saving summary for: 2024-08-12-Consolidated_text_C
+2024-08-16 09:21:33,028 - INFO - Summary saved to data/raw/eur_lex/REACH/text/2024-08-12-Consolidated_text_C.txt
+2024-08-16 09:21:33,028 - INFO - Extracting tables from page: 2024-08-12-Consolidated_text_C
+2024-08-16 09:21:33,032 - INFO - Extracted summary and checked for tables from: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1763-20240812
+2024-08-16 09:21:33,032 - INFO - Saving metadata for: 2024-08-12-Consolidated_text_C
+2024-08-16 09:21:33,032 - INFO - Metadata saved to data/raw/eur_lex/REACH/metadata/metadata_2024-08-12-Consolidated_text_C.json
+2024-08-16 09:21:33,091 - INFO - Scraping process completed.

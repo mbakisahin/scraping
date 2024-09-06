@@ -1,0 +1,22 @@
+2024-08-15 17:37:13,775 - INFO - Starting the scraping process.
+2024-08-15 17:37:13,775 - INFO - Processing keyword: KKDİK
+2024-08-15 17:37:13,775 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-15 17:37:19,686 - INFO - Searching for keyword: KKDİK
+2024-08-15 17:37:31,399 - INFO - Sorting results by last modified date.
+2024-08-15 17:37:51,700 - ERROR - No results found for this keyword. Error: Message: 
+2024-08-15 17:37:51,712 - ERROR - Error at https://eur-lex.europa.eu/search.html?scope=EURLEX&text=KKD%C4%B0K&lang=en&type=quick&qid=1723732639961: No results found for this keyword.
+2024-08-15 17:37:51,712 - INFO - Downloading PDF files.
+2024-08-15 17:37:51,712 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-15 17:37:51,712 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-15 17:37:51,769 - INFO - Scraping process completed.
+2024-08-16 09:20:09,625 - INFO - Starting the scraping process.
+2024-08-16 09:20:09,625 - INFO - Processing keyword: KKDİK
+2024-08-16 09:20:09,625 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-16 09:20:15,298 - INFO - Searching for keyword: KKDİK
+2024-08-16 09:20:26,581 - INFO - Sorting results by last modified date.
+2024-08-16 09:20:46,761 - ERROR - No results found for this keyword. Error: Message: 
+2024-08-16 09:20:46,772 - ERROR - Error at https://eur-lex.europa.eu/search.html?scope=EURLEX&text=KKD%C4%B0K&lang=en&type=quick&qid=1723789215419: No results found for this keyword.
+2024-08-16 09:20:46,772 - INFO - Downloading PDF files.
+2024-08-16 09:20:46,772 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-16 09:20:46,772 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-16 09:20:46,829 - INFO - Scraping process completed.

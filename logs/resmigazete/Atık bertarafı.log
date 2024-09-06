@@ -1,0 +1,34 @@
+2024-08-15 18:41:37,697 - INFO - Starting the scraping process.
+2024-08-15 18:41:37,697 - INFO - Processing keyword: Atık bertarafı
+2024-08-15 18:41:37,697 - INFO - Creating folder structure for keyword: Atık bertarafı
+2024-08-15 18:41:37,697 - INFO - Searching for keyword: Atık bertarafı
+2024-08-15 18:46:36,664 - INFO - Downloading PDF files for keyword: Atık bertarafı
+2024-08-15 18:46:36,664 - INFO - Saving PDF data for keyword: Atık bertarafı
+2024-08-15 18:46:36,664 - INFO - Processing non-PDF URLs for keyword: Atık bertarafı
+2024-08-15 18:46:36,737 - INFO - Scraping process completed.
+2024-08-16 09:54:35,575 - INFO - Starting the scraping process.
+2024-08-16 09:54:35,575 - INFO - Processing keyword: Atık bertarafı
+2024-08-16 09:54:35,575 - INFO - Creating folder structure for keyword: Atık bertarafı
+2024-08-16 09:54:35,576 - INFO - Searching for keyword: Atık bertarafı
+2024-08-16 09:54:53,725 - INFO - Processing page 1
+2024-08-16 09:56:01,192 - INFO - Processing page 2
+2024-08-16 09:57:08,960 - INFO - Processing page 3
+2024-08-16 09:58:15,731 - INFO - Processing page 4
+2024-08-16 09:59:22,677 - INFO - Processing page 5
+2024-08-16 09:59:34,949 - INFO - Downloading PDF files for keyword: Atık bertarafı
+2024-08-16 09:59:34,949 - INFO - Saving PDF data for keyword: Atık bertarafı
+2024-08-16 09:59:34,949 - INFO - Processing non-PDF URLs for keyword: Atık bertarafı
+2024-08-16 09:59:35,025 - INFO - Scraping process completed.
+2024-08-20 12:14:09,661 - INFO - Starting the scraping process.
+2024-08-20 12:14:09,661 - INFO - Processing keyword: Atık bertarafı
+2024-08-20 12:14:09,661 - INFO - Creating folder structure for keyword: Atık bertarafı
+2024-08-20 12:14:09,662 - INFO - Searching for keyword: Atık bertarafı
+2024-08-20 12:14:27,833 - INFO - Processing page 1
+2024-08-20 12:15:35,778 - INFO - Processing page 2
+2024-08-20 12:16:43,152 - INFO - Processing page 3
+2024-08-20 12:17:50,307 - INFO - Processing page 4
+2024-08-20 12:18:57,447 - INFO - Processing page 5
+2024-08-20 12:19:09,831 - INFO - Downloading PDF files for keyword: Atık bertarafı
+2024-08-20 12:19:09,831 - INFO - Saving PDF data for keyword: Atık bertarafı
+2024-08-20 12:19:09,831 - INFO - Processing non-PDF URLs for keyword: Atık bertarafı
+2024-08-20 12:19:09,909 - INFO - Scraping process completed.

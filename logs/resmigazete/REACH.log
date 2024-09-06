@@ -1,0 +1,21 @@
+2024-08-15 21:02:50,341 - INFO - Starting the scraping process.
+2024-08-15 21:02:50,341 - INFO - Processing keyword: REACH
+2024-08-15 21:02:50,341 - INFO - Creating folder structure for keyword: REACH
+2024-08-15 21:02:50,341 - INFO - Searching for keyword: REACH
+2024-08-15 21:03:18,668 - ERROR - An error occurred: Message: 
+. Continuing with the next iteration.
+2024-08-15 21:03:18,679 - INFO - Downloading PDF files for keyword: REACH
+2024-08-15 21:03:18,679 - INFO - Saving PDF data for keyword: REACH
+2024-08-15 21:03:18,679 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-15 21:03:18,735 - INFO - Scraping process completed.
+2024-08-16 09:47:36,772 - INFO - Starting the scraping process.
+2024-08-16 09:47:36,773 - INFO - Processing keyword: REACH
+2024-08-16 09:47:36,773 - INFO - Creating folder structure for keyword: REACH
+2024-08-16 09:47:36,773 - INFO - Searching for keyword: REACH
+2024-08-16 09:47:54,915 - INFO - Processing page 1
+2024-08-16 09:48:05,064 - ERROR - An error occurred: Message: 
+. Continuing with the next iteration.
+2024-08-16 09:48:05,075 - INFO - Downloading PDF files for keyword: REACH
+2024-08-16 09:48:05,075 - INFO - Saving PDF data for keyword: REACH
+2024-08-16 09:48:05,075 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-16 09:48:05,131 - INFO - Scraping process completed.

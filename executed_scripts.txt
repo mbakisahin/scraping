@@ -1,0 +1,1 @@
+bundesanzeigerWebScraping.py https://www.bundesanzeiger.de Keywords: Informationstechnologie, Wettbewerbsrecht, Datenschutz

@@ -1,0 +1,681 @@
+2024-08-15 21:03:50,753 - INFO - Starting the scraping process.
+2024-08-15 21:03:50,753 - INFO - Processing keyword: Su
+2024-08-15 21:03:50,753 - INFO - Creating folder structure for keyword: Su
+2024-08-15 21:03:50,753 - INFO - Searching for keyword: Su
+2024-08-15 21:20:10,908 - ERROR - An error occurred: Message: element click intercepted: Element <a href="/fihrist?tarih=2023-11-08" target="_blank">...</a> is not clickable at point (804, 11). Other element would receive the click: <div id="loaderContainer" style="display: block;">...</div>
+  (Session info: chrome-headless-shell=127.0.6533.88)
+Stacktrace:
+#0 0x5c78b3c646ca <unknown>
+#1 0x5c78b3935600 <unknown>
+#2 0x5c78b398b8e6 <unknown>
+#3 0x5c78b39897f6 <unknown>
+#4 0x5c78b3987277 <unknown>
+#5 0x5c78b398611c <unknown>
+#6 0x5c78b3979be6 <unknown>
+#7 0x5c78b39a78a2 <unknown>
+#8 0x5c78b3979599 <unknown>
+#9 0x5c78b39a7a6e <unknown>
+#10 0x5c78b39c604a <unknown>
+#11 0x5c78b39a7643 <unknown>
+#12 0x5c78b3977d31 <unknown>
+#13 0x5c78b397879e <unknown>
+#14 0x5c78b3c2c25b <unknown>
+#15 0x5c78b3c301f2 <unknown>
+#16 0x5c78b3c19615 <unknown>
+#17 0x5c78b3c30d82 <unknown>
+#18 0x5c78b3bfe25f <unknown>
+#19 0x5c78b3c53e68 <unknown>
+#20 0x5c78b3c54040 <unknown>
+#21 0x5c78b3c6349c <unknown>
+#22 0x71eab3894ac3 <unknown>
+. Continuing with the next iteration.
+2024-08-15 21:23:15,536 - INFO - Starting the scraping process.
+2024-08-15 21:23:15,536 - INFO - Processing keyword: Su
+2024-08-15 21:23:15,536 - INFO - Creating folder structure for keyword: Su
+2024-08-15 21:23:15,537 - INFO - Searching for keyword: Su
+2024-08-15 21:23:33,751 - INFO - Starting the scraping process.
+2024-08-15 21:23:33,751 - INFO - Processing keyword: Su
+2024-08-15 21:23:33,751 - INFO - Creating folder structure for keyword: Su
+2024-08-15 21:23:33,751 - INFO - Searching for keyword: Su
+2024-08-15 21:23:51,907 - INFO - Processing page 1
+2024-08-15 21:25:16,539 - INFO - Processing page 2
+2024-08-15 21:27:50,216 - INFO - Processing page 3
+2024-08-15 21:27:51,479 - ERROR - An error occurred: Message: element click intercepted: Element <a href="/fihrist?tarih=2024-07-28" target="_blank">...</a> is not clickable at point (804, 9). Other element would receive the click: <div id="loaderContainer" style="display: block;">...</div>
+  (Session info: chrome-headless-shell=127.0.6533.88)
+Stacktrace:
+#0 0x59800be1f6ca <unknown>
+#1 0x59800baf0600 <unknown>
+#2 0x59800bb468e6 <unknown>
+#3 0x59800bb447f6 <unknown>
+#4 0x59800bb42277 <unknown>
+#5 0x59800bb4111c <unknown>
+#6 0x59800bb34be6 <unknown>
+#7 0x59800bb628a2 <unknown>
+#8 0x59800bb34599 <unknown>
+#9 0x59800bb62a6e <unknown>
+#10 0x59800bb8104a <unknown>
+#11 0x59800bb62643 <unknown>
+#12 0x59800bb32d31 <unknown>
+#13 0x59800bb3379e <unknown>
+#14 0x59800bde725b <unknown>
+#15 0x59800bdeb1f2 <unknown>
+#16 0x59800bdd4615 <unknown>
+#17 0x59800bdebd82 <unknown>
+#18 0x59800bdb925f <unknown>
+#19 0x59800be0ee68 <unknown>
+#20 0x59800be0f040 <unknown>
+#21 0x59800be1e49c <unknown>
+#22 0x755aca894ac3 <unknown>
+. Continuing with the next iteration.
+2024-08-15 21:27:51,987 - ERROR - Next button could not be found or clicked: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome-headless-shell=127.0.6533.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59800be1f6ca <unknown>
+#1 0x59800baf0600 <unknown>
+#2 0x59800baf648f <unknown>
+#3 0x59800baf80b5 <unknown>
+#4 0x59800baf813c <unknown>
+#5 0x59800bb467fc <unknown>
+#6 0x59800bb447f6 <unknown>
+#7 0x59800bb42277 <unknown>
+#8 0x59800bb4111c <unknown>
+#9 0x59800bb34be6 <unknown>
+#10 0x59800bb628a2 <unknown>
+#11 0x59800bb34599 <unknown>
+#12 0x59800bb62a6e <unknown>
+#13 0x59800bb8104a <unknown>
+#14 0x59800bb62643 <unknown>
+#15 0x59800bb32d31 <unknown>
+#16 0x59800bb3379e <unknown>
+#17 0x59800bde725b <unknown>
+#18 0x59800bdeb1f2 <unknown>
+#19 0x59800bdd4615 <unknown>
+#20 0x59800bdebd82 <unknown>
+#21 0x59800bdb925f <unknown>
+#22 0x59800be0ee68 <unknown>
+#23 0x59800be0f040 <unknown>
+#24 0x59800be1e49c <unknown>
+#25 0x755aca894ac3 <unknown>
+. Ending the loop.
+2024-08-15 21:27:51,988 - INFO - Downloading PDF files for keyword: Su
+2024-08-15 21:27:51,988 - INFO - Saving PDF data for keyword: Su
+2024-08-15 21:27:51,988 - INFO - Processing non-PDF URLs for keyword: Su
+2024-08-15 21:27:52,777 - INFO - Saving summary for: 11.08.2024_––_6_1_Numaralı_Tica
+2024-08-15 21:27:52,778 - INFO - Summary saved to data/raw/resmigazete/Su/text/11.08.2024_––_6_1_Numaralı_Tica.txt
+2024-08-15 21:27:52,778 - INFO - Extracting tables from page: 11.08.2024_––_6_1_Numaralı_Tica
+2024-08-15 21:27:53,030 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm
+2024-08-15 21:27:53,030 - INFO - Saving metadata for: 11.08.2024_––_6_1_Numaralı_Tica
+2024-08-15 21:27:53,031 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_11.08.2024_––_6_1_Numaralı_Tica.json
+2024-08-15 21:27:53,496 - INFO - Saving summary for: 11.08.2024_––_6_2_Numaralı_Amat
+2024-08-15 21:27:53,496 - INFO - Summary saved to data/raw/resmigazete/Su/text/11.08.2024_––_6_2_Numaralı_Amat.txt
+2024-08-15 21:27:53,496 - INFO - Extracting tables from page: 11.08.2024_––_6_2_Numaralı_Amat
+2024-08-15 21:27:53,558 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-4.htm
+2024-08-15 21:27:53,558 - INFO - Saving metadata for: 11.08.2024_––_6_2_Numaralı_Amat
+2024-08-15 21:27:53,559 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_11.08.2024_––_6_2_Numaralı_Amat.json
+2024-08-15 21:27:54,231 - INFO - Saving summary for: 11.08.2024_––_6_1_Numaralı_Tica
+2024-08-15 21:27:54,231 - INFO - Summary saved to data/raw/resmigazete/Su/text/11.08.2024_––_6_1_Numaralı_Tica.txt
+2024-08-15 21:27:54,231 - INFO - Extracting tables from page: 11.08.2024_––_6_1_Numaralı_Tica
+2024-08-15 21:27:54,517 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm
+2024-08-15 21:27:54,517 - INFO - Saving metadata for: 11.08.2024_––_6_1_Numaralı_Tica
+2024-08-15 21:27:54,518 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_11.08.2024_––_6_1_Numaralı_Tica.json
+2024-08-15 21:27:55,055 - INFO - Saving summary for: 11.08.2024_––_6_2_Numaralı_Amat
+2024-08-15 21:27:55,056 - INFO - Summary saved to data/raw/resmigazete/Su/text/11.08.2024_––_6_2_Numaralı_Amat.txt
+2024-08-15 21:27:55,056 - INFO - Extracting tables from page: 11.08.2024_––_6_2_Numaralı_Amat
+2024-08-15 21:27:55,123 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-4.htm
+2024-08-15 21:27:55,123 - INFO - Saving metadata for: 11.08.2024_––_6_2_Numaralı_Amat
+2024-08-15 21:27:55,124 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_11.08.2024_––_6_2_Numaralı_Amat.json
+2024-08-15 21:27:55,493 - INFO - Saving summary for: 08.08.2024_––_Gazi_Üniversitesi
+2024-08-15 21:27:55,493 - INFO - Summary saved to data/raw/resmigazete/Su/text/08.08.2024_––_Gazi_Üniversitesi.txt
+2024-08-15 21:27:55,493 - INFO - Extracting tables from page: 08.08.2024_––_Gazi_Üniversitesi
+2024-08-15 21:27:55,502 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240808-4.htm
+2024-08-15 21:27:55,502 - INFO - Saving metadata for: 08.08.2024_––_Gazi_Üniversitesi
+2024-08-15 21:27:55,502 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_08.08.2024_––_Gazi_Üniversitesi.json
+2024-08-15 21:27:55,559 - INFO - Scraping process completed.
+2024-08-16 09:22:01,766 - INFO - Starting the scraping process.
+2024-08-16 09:22:01,766 - INFO - Processing keyword: Su
+2024-08-16 09:22:01,766 - INFO - Creating folder structure for keyword: Su
+2024-08-16 09:22:01,766 - INFO - Searching for keyword: Su
+2024-08-16 09:22:19,914 - INFO - Processing page 1
+2024-08-16 09:23:27,712 - INFO - Processing page 2
+2024-08-16 09:24:35,429 - INFO - Processing page 3
+2024-08-16 09:25:42,842 - INFO - Processing page 4
+2024-08-16 09:26:51,161 - INFO - Processing page 5
+2024-08-16 09:27:58,963 - INFO - Processing page 6
+2024-08-16 09:29:06,436 - INFO - Processing page 7
+2024-08-16 09:30:14,271 - INFO - Processing page 8
+2024-08-16 09:31:21,769 - INFO - Processing page 9
+2024-08-16 09:32:29,518 - INFO - Processing page 10
+2024-08-16 09:33:37,328 - INFO - Processing page 11
+2024-08-16 09:34:45,470 - INFO - Processing page 12
+2024-08-16 09:35:53,487 - INFO - Processing page 13
+2024-08-16 09:37:01,219 - INFO - Processing page 14
+2024-08-16 09:38:09,025 - INFO - Processing page 15
+2024-08-16 09:39:16,852 - INFO - Processing page 16
+2024-08-16 09:40:24,595 - INFO - Processing page 17
+2024-08-16 09:41:32,270 - INFO - Processing page 18
+2024-08-16 09:42:40,679 - INFO - Processing page 19
+2024-08-16 09:43:48,770 - INFO - Processing page 20
+2024-08-16 09:44:53,385 - INFO - Downloading PDF files for keyword: Su
+2024-08-16 09:44:53,558 - INFO - Downloaded: 2024-06-28-––_Manisa_İli,_Ahmet
+2024-08-16 09:44:53,558 - INFO - Saving metadata for: 2024-06-28-––_Manisa_İli,_Ahmet
+2024-08-16 09:44:53,558 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-06-28-––_Manisa_İli,_Ahmet.json
+2024-08-16 09:44:53,800 - INFO - Downloaded: 2024-05-31-––_Uluırmak_(Mamasın
+2024-08-16 09:44:53,800 - INFO - Saving metadata for: 2024-05-31-––_Uluırmak_(Mamasın
+2024-08-16 09:44:53,800 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-05-31-––_Uluırmak_(Mamasın.json
+2024-08-16 09:44:59,227 - INFO - Downloaded: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 09:44:59,227 - INFO - Saving metadata for: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 09:44:59,228 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-05-25-––_Şehir_Altyapısı_K.json
+2024-08-16 09:45:00,003 - INFO - Downloaded: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 09:45:00,003 - INFO - Saving metadata for: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 09:45:00,004 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-05-25-––_Şehir_Altyapısı_K.json
+2024-08-16 09:45:00,811 - INFO - Downloaded: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 09:45:00,811 - INFO - Saving metadata for: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 09:45:00,811 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-05-25-––_Şehir_Altyapısı_K.json
+2024-08-16 09:45:06,259 - INFO - Downloaded: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 09:45:06,259 - INFO - Saving metadata for: 2024-05-25-––_Şehir_Altyapısı_K
+2024-08-16 09:45:06,259 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-05-25-––_Şehir_Altyapısı_K.json
+2024-08-16 09:45:06,525 - INFO - Downloaded: 2024-04-30-––_Çermik-Kale_Proje
+2024-08-16 09:45:06,526 - INFO - Saving metadata for: 2024-04-30-––_Çermik-Kale_Proje
+2024-08-16 09:45:06,526 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Çermik-Kale_Proje.json
+2024-08-16 09:45:06,683 - INFO - Downloaded: 2024-04-30-––_Hatay-Altınözü_Al
+2024-08-16 09:45:06,683 - INFO - Saving metadata for: 2024-04-30-––_Hatay-Altınözü_Al
+2024-08-16 09:45:06,684 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Hatay-Altınözü_Al.json
+2024-08-16 09:45:06,858 - INFO - Downloaded: 2024-04-30-––_Aşağı_Dalaman_Pro
+2024-08-16 09:45:06,858 - INFO - Saving metadata for: 2024-04-30-––_Aşağı_Dalaman_Pro
+2024-08-16 09:45:06,858 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Aşağı_Dalaman_Pro.json
+2024-08-16 09:45:06,999 - INFO - Downloaded: 2024-04-30-––_Çermik-Kale_Proje
+2024-08-16 09:45:06,999 - INFO - Saving metadata for: 2024-04-30-––_Çermik-Kale_Proje
+2024-08-16 09:45:06,999 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Çermik-Kale_Proje.json
+2024-08-16 09:45:07,122 - INFO - Downloaded: 2024-04-30-––_Hatay-Altınözü_Al
+2024-08-16 09:45:07,122 - INFO - Saving metadata for: 2024-04-30-––_Hatay-Altınözü_Al
+2024-08-16 09:45:07,122 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Hatay-Altınözü_Al.json
+2024-08-16 09:45:07,252 - INFO - Downloaded: 2024-04-30-––_Aşağı_Dalaman_Pro
+2024-08-16 09:45:07,252 - INFO - Saving metadata for: 2024-04-30-––_Aşağı_Dalaman_Pro
+2024-08-16 09:45:07,252 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Aşağı_Dalaman_Pro.json
+2024-08-16 09:45:07,381 - INFO - Downloaded: 2024-04-30-––_Çermik-Kale_Proje
+2024-08-16 09:45:07,381 - INFO - Saving metadata for: 2024-04-30-––_Çermik-Kale_Proje
+2024-08-16 09:45:07,381 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Çermik-Kale_Proje.json
+2024-08-16 09:45:07,502 - INFO - Downloaded: 2024-04-30-––_Hatay-Altınözü_Al
+2024-08-16 09:45:07,502 - INFO - Saving metadata for: 2024-04-30-––_Hatay-Altınözü_Al
+2024-08-16 09:45:07,503 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Hatay-Altınözü_Al.json
+2024-08-16 09:45:07,656 - INFO - Downloaded: 2024-04-30-––_Aşağı_Dalaman_Pro
+2024-08-16 09:45:07,656 - INFO - Saving metadata for: 2024-04-30-––_Aşağı_Dalaman_Pro
+2024-08-16 09:45:07,656 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-30-––_Aşağı_Dalaman_Pro.json
+2024-08-16 09:45:11,811 - INFO - Downloaded: 2024-04-20-––_Cizre_Barajı_ve_H
+2024-08-16 09:45:11,811 - INFO - Saving metadata for: 2024-04-20-––_Cizre_Barajı_ve_H
+2024-08-16 09:45:11,812 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-20-––_Cizre_Barajı_ve_H.json
+2024-08-16 09:45:12,000 - INFO - Downloaded: 2024-04-07-––_Adıyaman_İli,_Mer
+2024-08-16 09:45:12,001 - INFO - Saving metadata for: 2024-04-07-––_Adıyaman_İli,_Mer
+2024-08-16 09:45:12,001 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-07-––_Adıyaman_İli,_Mer.json
+2024-08-16 09:45:12,130 - INFO - Downloaded: 2024-04-07-––_Adıyaman_İli,_Mer
+2024-08-16 09:45:12,130 - INFO - Saving metadata for: 2024-04-07-––_Adıyaman_İli,_Mer
+2024-08-16 09:45:12,130 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-04-07-––_Adıyaman_İli,_Mer.json
+2024-08-16 09:45:12,313 - INFO - Downloaded: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:12,313 - INFO - Saving metadata for: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:12,313 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Mersin_Anamur_Ala.json
+2024-08-16 09:45:12,508 - INFO - Downloaded: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:12,508 - INFO - Saving metadata for: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:12,508 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Çemişgezek_(DAP)_.json
+2024-08-16 09:45:12,674 - INFO - Downloaded: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:12,674 - INFO - Saving metadata for: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:12,674 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Hatay_İli,_Antaky.json
+2024-08-16 09:45:12,805 - INFO - Downloaded: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:12,805 - INFO - Saving metadata for: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:12,805 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Niğde_İlinde_“Kem.json
+2024-08-16 09:45:12,923 - INFO - Downloaded: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:12,923 - INFO - Saving metadata for: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:12,924 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Mersin_Anamur_Ala.json
+2024-08-16 09:45:13,044 - INFO - Downloaded: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:13,045 - INFO - Saving metadata for: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:13,045 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Çemişgezek_(DAP)_.json
+2024-08-16 09:45:13,157 - INFO - Downloaded: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:13,157 - INFO - Saving metadata for: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:13,157 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Hatay_İli,_Antaky.json
+2024-08-16 09:45:13,265 - INFO - Downloaded: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:13,265 - INFO - Saving metadata for: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:13,265 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Niğde_İlinde_“Kem.json
+2024-08-16 09:45:13,387 - INFO - Downloaded: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:13,387 - INFO - Saving metadata for: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:13,388 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Mersin_Anamur_Ala.json
+2024-08-16 09:45:13,522 - INFO - Downloaded: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:13,522 - INFO - Saving metadata for: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:13,522 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Çemişgezek_(DAP)_.json
+2024-08-16 09:45:13,633 - INFO - Downloaded: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:13,633 - INFO - Saving metadata for: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:13,634 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Hatay_İli,_Antaky.json
+2024-08-16 09:45:13,751 - INFO - Downloaded: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:13,751 - INFO - Saving metadata for: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:13,751 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Niğde_İlinde_“Kem.json
+2024-08-16 09:45:13,901 - INFO - Downloaded: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:13,901 - INFO - Saving metadata for: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:13,901 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Mersin_Anamur_Ala.json
+2024-08-16 09:45:14,040 - INFO - Downloaded: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:14,040 - INFO - Saving metadata for: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:14,040 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Çemişgezek_(DAP)_.json
+2024-08-16 09:45:14,169 - INFO - Downloaded: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:14,170 - INFO - Saving metadata for: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:14,170 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Hatay_İli,_Antaky.json
+2024-08-16 09:45:14,266 - INFO - Downloaded: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:14,267 - INFO - Saving metadata for: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:14,267 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Niğde_İlinde_“Kem.json
+2024-08-16 09:45:14,403 - INFO - Downloaded: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:14,403 - INFO - Saving metadata for: 2024-02-13-––_Mersin_Anamur_Ala
+2024-08-16 09:45:14,403 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Mersin_Anamur_Ala.json
+2024-08-16 09:45:14,567 - INFO - Downloaded: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:14,567 - INFO - Saving metadata for: 2024-02-13-––_Çemişgezek_(DAP)_
+2024-08-16 09:45:14,568 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Çemişgezek_(DAP)_.json
+2024-08-16 09:45:14,709 - INFO - Downloaded: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:14,709 - INFO - Saving metadata for: 2024-02-13-––_Hatay_İli,_Antaky
+2024-08-16 09:45:14,710 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Hatay_İli,_Antaky.json
+2024-08-16 09:45:14,813 - INFO - Downloaded: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:14,813 - INFO - Saving metadata for: 2024-02-13-––_Niğde_İlinde_“Kem
+2024-08-16 09:45:14,814 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-02-13-––_Niğde_İlinde_“Kem.json
+2024-08-16 09:45:14,949 - INFO - Downloaded: 2024-01-19-1400_Balıkçılık_ve_S
+2024-08-16 09:45:14,949 - INFO - Saving metadata for: 2024-01-19-1400_Balıkçılık_ve_S
+2024-08-16 09:45:14,949 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-01-19-1400_Balıkçılık_ve_S.json
+2024-08-16 09:45:15,050 - INFO - Downloaded: 2024-01-19-1400_Balıkçılık_ve_S
+2024-08-16 09:45:15,050 - INFO - Saving metadata for: 2024-01-19-1400_Balıkçılık_ve_S
+2024-08-16 09:45:15,050 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-01-19-1400_Balıkçılık_ve_S.json
+2024-08-16 09:45:15,209 - INFO - Downloaded: 2024-01-18-––_Tahtaköprü_Barajı
+2024-08-16 09:45:15,209 - INFO - Saving metadata for: 2024-01-18-––_Tahtaköprü_Barajı
+2024-08-16 09:45:15,209 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-01-18-––_Tahtaköprü_Barajı.json
+2024-08-16 09:45:15,358 - INFO - Downloaded: 2024-01-18-––_Tahtaköprü_Barajı
+2024-08-16 09:45:15,358 - INFO - Saving metadata for: 2024-01-18-––_Tahtaköprü_Barajı
+2024-08-16 09:45:15,358 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-01-18-––_Tahtaköprü_Barajı.json
+2024-08-16 09:45:16,063 - INFO - Downloaded: 2024-01-06-––_Türkiye_Cumhuriye
+2024-08-16 09:45:16,063 - INFO - Saving metadata for: 2024-01-06-––_Türkiye_Cumhuriye
+2024-08-16 09:45:16,063 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-01-06-––_Türkiye_Cumhuriye.json
+2024-08-16 09:45:16,286 - INFO - Downloaded: 2024-01-06-––_Türkiye_Cumhuriye
+2024-08-16 09:45:16,287 - INFO - Saving metadata for: 2024-01-06-––_Türkiye_Cumhuriye
+2024-08-16 09:45:16,287 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-01-06-––_Türkiye_Cumhuriye.json
+2024-08-16 09:45:16,479 - INFO - Downloaded: 2023-11-14-––_Silvan_1._Merhale
+2024-08-16 09:45:16,480 - INFO - Saving metadata for: 2023-11-14-––_Silvan_1._Merhale
+2024-08-16 09:45:16,480 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-11-14-––_Silvan_1._Merhale.json
+2024-08-16 09:45:24,076 - INFO - Downloaded: 2023-10-27-––_Su_Ürünleri_Tesci
+2024-08-16 09:45:24,076 - INFO - Saving metadata for: 2023-10-27-––_Su_Ürünleri_Tesci
+2024-08-16 09:45:24,076 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-10-27-––_Su_Ürünleri_Tesci.json
+2024-08-16 09:45:24,198 - INFO - Downloaded: 2023-10-19-1391_Balıkçılık_ve_S
+2024-08-16 09:45:24,198 - INFO - Saving metadata for: 2023-10-19-1391_Balıkçılık_ve_S
+2024-08-16 09:45:24,198 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-10-19-1391_Balıkçılık_ve_S.json
+2024-08-16 09:45:25,375 - INFO - Downloaded: 2023-10-19-1391_Balıkçılık_ve_S
+2024-08-16 09:45:25,375 - INFO - Saving metadata for: 2023-10-19-1391_Balıkçılık_ve_S
+2024-08-16 09:45:25,376 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-10-19-1391_Balıkçılık_ve_S.json
+2024-08-16 09:45:25,575 - INFO - Downloaded: 2023-10-17-––_Rize_İli,_Merkez_
+2024-08-16 09:45:25,575 - INFO - Saving metadata for: 2023-10-17-––_Rize_İli,_Merkez_
+2024-08-16 09:45:25,575 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-10-17-––_Rize_İli,_Merkez_.json
+2024-08-16 09:45:25,689 - INFO - Downloaded: 2023-10-17-––_Rize_İli,_Merkez_
+2024-08-16 09:45:25,689 - INFO - Saving metadata for: 2023-10-17-––_Rize_İli,_Merkez_
+2024-08-16 09:45:25,690 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-10-17-––_Rize_İli,_Merkez_.json
+2024-08-16 09:45:25,845 - INFO - Downloaded: 2023-10-17-––_Rize_İli,_Merkez_
+2024-08-16 09:45:25,845 - INFO - Saving metadata for: 2023-10-17-––_Rize_İli,_Merkez_
+2024-08-16 09:45:25,846 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-10-17-––_Rize_İli,_Merkez_.json
+2024-08-16 09:45:26,022 - INFO - Downloaded: 2023-09-15-––_Yukarı_Afrin_(Kil
+2024-08-16 09:45:26,022 - INFO - Saving metadata for: 2023-09-15-––_Yukarı_Afrin_(Kil
+2024-08-16 09:45:26,023 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-15-––_Yukarı_Afrin_(Kil.json
+2024-08-16 09:45:26,175 - INFO - Downloaded: 2023-09-03-––_Yatağan_2._Merhal
+2024-08-16 09:45:26,175 - INFO - Saving metadata for: 2023-09-03-––_Yatağan_2._Merhal
+2024-08-16 09:45:26,175 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Yatağan_2._Merhal.json
+2024-08-16 09:45:26,328 - INFO - Downloaded: 2023-09-03-––_Çine_Projesi_Büny
+2024-08-16 09:45:26,328 - INFO - Saving metadata for: 2023-09-03-––_Çine_Projesi_Büny
+2024-08-16 09:45:26,328 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Çine_Projesi_Büny.json
+2024-08-16 09:45:26,485 - INFO - Downloaded: 2023-09-03-––_Çamur_Barajı_ve_S
+2024-08-16 09:45:26,485 - INFO - Saving metadata for: 2023-09-03-––_Çamur_Barajı_ve_S
+2024-08-16 09:45:26,485 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Çamur_Barajı_ve_S.json
+2024-08-16 09:45:26,751 - INFO - Downloaded: 2023-09-03-––_Bazı_Taşınmazları
+2024-08-16 09:45:26,751 - INFO - Saving metadata for: 2023-09-03-––_Bazı_Taşınmazları
+2024-08-16 09:45:26,752 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Bazı_Taşınmazları.json
+2024-08-16 09:45:26,872 - INFO - Downloaded: 2023-09-03-––_Yatağan_2._Merhal
+2024-08-16 09:45:26,872 - INFO - Saving metadata for: 2023-09-03-––_Yatağan_2._Merhal
+2024-08-16 09:45:26,873 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Yatağan_2._Merhal.json
+2024-08-16 09:45:26,998 - INFO - Downloaded: 2023-09-03-––_Çine_Projesi_Büny
+2024-08-16 09:45:26,998 - INFO - Saving metadata for: 2023-09-03-––_Çine_Projesi_Büny
+2024-08-16 09:45:26,999 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Çine_Projesi_Büny.json
+2024-08-16 09:45:27,129 - INFO - Downloaded: 2023-09-03-––_Çamur_Barajı_ve_S
+2024-08-16 09:45:27,129 - INFO - Saving metadata for: 2023-09-03-––_Çamur_Barajı_ve_S
+2024-08-16 09:45:27,129 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Çamur_Barajı_ve_S.json
+2024-08-16 09:45:27,335 - INFO - Downloaded: 2023-09-03-––_Bazı_Taşınmazları
+2024-08-16 09:45:27,335 - INFO - Saving metadata for: 2023-09-03-––_Bazı_Taşınmazları
+2024-08-16 09:45:27,335 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Bazı_Taşınmazları.json
+2024-08-16 09:45:27,459 - INFO - Downloaded: 2023-09-03-––_Yatağan_2._Merhal
+2024-08-16 09:45:27,459 - INFO - Saving metadata for: 2023-09-03-––_Yatağan_2._Merhal
+2024-08-16 09:45:27,459 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Yatağan_2._Merhal.json
+2024-08-16 09:45:27,589 - INFO - Downloaded: 2023-09-03-––_Çine_Projesi_Büny
+2024-08-16 09:45:27,590 - INFO - Saving metadata for: 2023-09-03-––_Çine_Projesi_Büny
+2024-08-16 09:45:27,590 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Çine_Projesi_Büny.json
+2024-08-16 09:45:27,744 - INFO - Downloaded: 2023-09-03-––_Çamur_Barajı_ve_S
+2024-08-16 09:45:27,744 - INFO - Saving metadata for: 2023-09-03-––_Çamur_Barajı_ve_S
+2024-08-16 09:45:27,744 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Çamur_Barajı_ve_S.json
+2024-08-16 09:45:27,930 - INFO - Downloaded: 2023-09-03-––_Bazı_Taşınmazları
+2024-08-16 09:45:27,930 - INFO - Saving metadata for: 2023-09-03-––_Bazı_Taşınmazları
+2024-08-16 09:45:27,930 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Bazı_Taşınmazları.json
+2024-08-16 09:45:28,054 - INFO - Downloaded: 2023-09-03-––_Yatağan_2._Merhal
+2024-08-16 09:45:28,054 - INFO - Saving metadata for: 2023-09-03-––_Yatağan_2._Merhal
+2024-08-16 09:45:28,054 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Yatağan_2._Merhal.json
+2024-08-16 09:45:28,187 - INFO - Downloaded: 2023-09-03-––_Çine_Projesi_Büny
+2024-08-16 09:45:28,187 - INFO - Saving metadata for: 2023-09-03-––_Çine_Projesi_Büny
+2024-08-16 09:45:28,187 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Çine_Projesi_Büny.json
+2024-08-16 09:45:28,317 - INFO - Downloaded: 2023-09-03-––_Çamur_Barajı_ve_S
+2024-08-16 09:45:28,317 - INFO - Saving metadata for: 2023-09-03-––_Çamur_Barajı_ve_S
+2024-08-16 09:45:28,317 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Çamur_Barajı_ve_S.json
+2024-08-16 09:45:28,621 - INFO - Downloaded: 2023-09-03-––_Bazı_Taşınmazları
+2024-08-16 09:45:28,621 - INFO - Saving metadata for: 2023-09-03-––_Bazı_Taşınmazları
+2024-08-16 09:45:28,622 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-09-03-––_Bazı_Taşınmazları.json
+2024-08-16 09:45:28,874 - INFO - Downloaded: 2023-07-22-––_Türkiye_Cumhuriye
+2024-08-16 09:45:28,874 - INFO - Saving metadata for: 2023-07-22-––_Türkiye_Cumhuriye
+2024-08-16 09:45:28,875 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-07-22-––_Türkiye_Cumhuriye.json
+2024-08-16 09:45:29,004 - INFO - Downloaded: 2023-07-07-1376_Balıkçılık_ve_S
+2024-08-16 09:45:29,004 - INFO - Saving metadata for: 2023-07-07-1376_Balıkçılık_ve_S
+2024-08-16 09:45:29,004 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-07-07-1376_Balıkçılık_ve_S.json
+2024-08-16 09:45:29,164 - INFO - Downloaded: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,164 - INFO - Saving metadata for: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,165 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Alanya_2._Merhale.json
+2024-08-16 09:45:29,339 - INFO - Downloaded: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,340 - INFO - Saving metadata for: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,344 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Alanya_2._Merhale.json
+2024-08-16 09:45:29,485 - INFO - Downloaded: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,485 - INFO - Saving metadata for: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,485 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Alanya_2._Merhale.json
+2024-08-16 09:45:29,627 - INFO - Downloaded: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,628 - INFO - Saving metadata for: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,628 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Alanya_2._Merhale.json
+2024-08-16 09:45:29,769 - INFO - Downloaded: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,769 - INFO - Saving metadata for: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,769 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Alanya_2._Merhale.json
+2024-08-16 09:45:29,944 - INFO - Downloaded: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,944 - INFO - Saving metadata for: 2023-05-12-––_Alanya_2._Merhale
+2024-08-16 09:45:29,945 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Alanya_2._Merhale.json
+2024-08-16 09:45:30,160 - INFO - Downloaded: 2023-05-04-––_Su_Verimliliği_St
+2024-08-16 09:45:30,160 - INFO - Saving metadata for: 2023-05-04-––_Su_Verimliliği_St
+2024-08-16 09:45:30,161 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-04-––_Su_Verimliliği_St.json
+2024-08-16 09:45:30,550 - INFO - Downloaded: 2023-05-03-––_Depremden_Zarar_G
+2024-08-16 09:45:30,550 - INFO - Saving metadata for: 2023-05-03-––_Depremden_Zarar_G
+2024-08-16 09:45:30,550 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-03-––_Depremden_Zarar_G.json
+2024-08-16 09:45:30,872 - INFO - Downloaded: 2023-05-03-––_Depremden_Zarar_G
+2024-08-16 09:45:30,872 - INFO - Saving metadata for: 2023-05-03-––_Depremden_Zarar_G
+2024-08-16 09:45:30,872 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-03-––_Depremden_Zarar_G.json
+2024-08-16 09:45:31,105 - INFO - Downloaded: 2023-04-26-––_Tarımsal_Sulama_A
+2024-08-16 09:45:31,105 - INFO - Saving metadata for: 2023-04-26-––_Tarımsal_Sulama_A
+2024-08-16 09:45:31,105 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-26-––_Tarımsal_Sulama_A.json
+2024-08-16 09:45:35,247 - INFO - Downloaded: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:35,247 - INFO - Saving metadata for: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:35,248 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-20-––_Bölgede_Yaşanan_K.json
+2024-08-16 09:45:35,827 - INFO - Downloaded: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:35,827 - INFO - Saving metadata for: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:35,827 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-20-––_Bölgede_Yaşanan_K.json
+2024-08-16 09:45:36,461 - INFO - Downloaded: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:36,461 - INFO - Saving metadata for: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:36,461 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-20-––_Bölgede_Yaşanan_K.json
+2024-08-16 09:45:37,932 - INFO - Downloaded: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:37,932 - INFO - Saving metadata for: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:37,932 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-20-––_Bölgede_Yaşanan_K.json
+2024-08-16 09:45:38,453 - INFO - Downloaded: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:38,453 - INFO - Saving metadata for: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:38,453 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-20-––_Bölgede_Yaşanan_K.json
+2024-08-16 09:45:39,037 - INFO - Downloaded: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:39,037 - INFO - Saving metadata for: 2023-04-20-––_Bölgede_Yaşanan_K
+2024-08-16 09:45:39,037 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-20-––_Bölgede_Yaşanan_K.json
+2024-08-16 09:45:39,654 - INFO - Downloaded: 2023-04-13-––_Kolludere_Barajı_
+2024-08-16 09:45:39,654 - INFO - Saving metadata for: 2023-04-13-––_Kolludere_Barajı_
+2024-08-16 09:45:39,654 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-13-––_Kolludere_Barajı_.json
+2024-08-16 09:45:39,887 - INFO - Downloaded: 2023-04-13-––_Kolludere_Barajı_
+2024-08-16 09:45:39,887 - INFO - Saving metadata for: 2023-04-13-––_Kolludere_Barajı_
+2024-08-16 09:45:39,887 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-13-––_Kolludere_Barajı_.json
+2024-08-16 09:45:39,887 - INFO - Saving PDF data for keyword: Su
+2024-08-16 09:45:39,888 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-06-28-––_Manisa_İli,_Ahmet.pdf
+2024-08-16 09:45:39,888 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-05-31-––_Uluırmak_(Mamasın.pdf
+2024-08-16 09:45:39,890 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-05-25-––_Şehir_Altyapısı_K.pdf
+2024-08-16 09:45:39,894 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-05-25-––_Şehir_Altyapısı_K.pdf
+2024-08-16 09:45:39,901 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-05-25-––_Şehir_Altyapısı_K.pdf
+2024-08-16 09:45:39,907 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-05-25-––_Şehir_Altyapısı_K.pdf
+2024-08-16 09:45:39,907 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Çermik-Kale_Proje.pdf
+2024-08-16 09:45:39,908 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Hatay-Altınözü_Al.pdf
+2024-08-16 09:45:39,908 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Aşağı_Dalaman_Pro.pdf
+2024-08-16 09:45:39,908 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Çermik-Kale_Proje.pdf
+2024-08-16 09:45:39,908 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Hatay-Altınözü_Al.pdf
+2024-08-16 09:45:39,908 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Aşağı_Dalaman_Pro.pdf
+2024-08-16 09:45:39,917 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Çermik-Kale_Proje.pdf
+2024-08-16 09:45:39,918 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Hatay-Altınözü_Al.pdf
+2024-08-16 09:45:39,918 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-30-––_Aşağı_Dalaman_Pro.pdf
+2024-08-16 09:45:39,920 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-20-––_Cizre_Barajı_ve_H.pdf
+2024-08-16 09:45:39,920 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-07-––_Adıyaman_İli,_Mer.pdf
+2024-08-16 09:45:39,920 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-04-07-––_Adıyaman_İli,_Mer.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Mersin_Anamur_Ala.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Çemişgezek_(DAP)_.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Niğde_İlinde_“Kem.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Mersin_Anamur_Ala.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Çemişgezek_(DAP)_.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Niğde_İlinde_“Kem.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Mersin_Anamur_Ala.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Çemişgezek_(DAP)_.pdf
+2024-08-16 09:45:39,921 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:45:39,922 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Niğde_İlinde_“Kem.pdf
+2024-08-16 09:45:39,922 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Mersin_Anamur_Ala.pdf
+2024-08-16 09:45:39,922 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Çemişgezek_(DAP)_.pdf
+2024-08-16 09:45:39,922 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:45:39,922 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Niğde_İlinde_“Kem.pdf
+2024-08-16 09:45:39,922 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Mersin_Anamur_Ala.pdf
+2024-08-16 09:45:39,922 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Çemişgezek_(DAP)_.pdf
+2024-08-16 09:45:39,922 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Hatay_İli,_Antaky.pdf
+2024-08-16 09:45:39,925 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-02-13-––_Niğde_İlinde_“Kem.pdf
+2024-08-16 09:45:39,925 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-01-19-1400_Balıkçılık_ve_S.pdf
+2024-08-16 09:45:39,925 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-01-19-1400_Balıkçılık_ve_S.pdf
+2024-08-16 09:45:39,925 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-01-18-––_Tahtaköprü_Barajı.pdf
+2024-08-16 09:45:39,925 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-01-18-––_Tahtaköprü_Barajı.pdf
+2024-08-16 09:45:39,925 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-01-06-––_Türkiye_Cumhuriye.pdf
+2024-08-16 09:45:39,926 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2024-01-06-––_Türkiye_Cumhuriye.pdf
+2024-08-16 09:45:39,926 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-11-14-––_Silvan_1._Merhale.pdf
+2024-08-16 09:45:39,940 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-10-27-––_Su_Ürünleri_Tesci.pdf
+2024-08-16 09:45:39,940 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-10-19-1391_Balıkçılık_ve_S.pdf
+2024-08-16 09:45:39,940 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-10-19-1391_Balıkçılık_ve_S.pdf
+2024-08-16 09:45:39,940 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-10-17-––_Rize_İli,_Merkez_.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-10-17-––_Rize_İli,_Merkez_.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-10-17-––_Rize_İli,_Merkez_.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-15-––_Yukarı_Afrin_(Kil.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Yatağan_2._Merhal.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Çine_Projesi_Büny.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Çamur_Barajı_ve_S.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Bazı_Taşınmazları.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Yatağan_2._Merhal.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Çine_Projesi_Büny.pdf
+2024-08-16 09:45:39,941 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Çamur_Barajı_ve_S.pdf
+2024-08-16 09:45:39,942 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Bazı_Taşınmazları.pdf
+2024-08-16 09:45:39,942 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Yatağan_2._Merhal.pdf
+2024-08-16 09:45:39,942 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Çine_Projesi_Büny.pdf
+2024-08-16 09:45:39,942 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Çamur_Barajı_ve_S.pdf
+2024-08-16 09:45:39,942 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Bazı_Taşınmazları.pdf
+2024-08-16 09:45:39,942 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Yatağan_2._Merhal.pdf
+2024-08-16 09:45:39,942 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Çine_Projesi_Büny.pdf
+2024-08-16 09:45:39,943 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Çamur_Barajı_ve_S.pdf
+2024-08-16 09:45:39,943 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-09-03-––_Bazı_Taşınmazları.pdf
+2024-08-16 09:45:39,943 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-07-22-––_Türkiye_Cumhuriye.pdf
+2024-08-16 09:45:39,943 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-07-07-1376_Balıkçılık_ve_S.pdf
+2024-08-16 09:45:39,943 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-12-––_Alanya_2._Merhale.pdf
+2024-08-16 09:45:39,943 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-12-––_Alanya_2._Merhale.pdf
+2024-08-16 09:45:39,943 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-12-––_Alanya_2._Merhale.pdf
+2024-08-16 09:45:39,944 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-12-––_Alanya_2._Merhale.pdf
+2024-08-16 09:45:39,944 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-12-––_Alanya_2._Merhale.pdf
+2024-08-16 09:45:39,944 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-12-––_Alanya_2._Merhale.pdf
+2024-08-16 09:45:39,944 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-04-––_Su_Verimliliği_St.pdf
+2024-08-16 09:45:39,944 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-03-––_Depremden_Zarar_G.pdf
+2024-08-16 09:45:39,944 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-05-03-––_Depremden_Zarar_G.pdf
+2024-08-16 09:45:39,944 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-26-––_Tarımsal_Sulama_A.pdf
+2024-08-16 09:45:39,947 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-20-––_Bölgede_Yaşanan_K.pdf
+2024-08-16 09:45:39,950 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-20-––_Bölgede_Yaşanan_K.pdf
+2024-08-16 09:45:39,956 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-20-––_Bölgede_Yaşanan_K.pdf
+2024-08-16 09:45:39,962 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-20-––_Bölgede_Yaşanan_K.pdf
+2024-08-16 09:45:39,975 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-20-––_Bölgede_Yaşanan_K.pdf
+2024-08-16 09:45:39,981 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-20-––_Bölgede_Yaşanan_K.pdf
+2024-08-16 09:45:39,982 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-13-––_Kolludere_Barajı_.pdf
+2024-08-16 09:45:39,983 - INFO - PDF saved to data/raw/resmigazete/Su/pdf/2023-04-13-––_Kolludere_Barajı_.pdf
+2024-08-16 09:45:39,983 - INFO - Processing non-PDF URLs for keyword: Su
+2024-08-16 09:45:40,255 - INFO - Saving summary for: 2024-08-11-––_6_1_Numaralı_Tica
+2024-08-16 09:45:40,255 - INFO - Summary saved to data/raw/resmigazete/Su/text/2024-08-11-––_6_1_Numaralı_Tica.txt
+2024-08-16 09:45:40,255 - INFO - Extracting tables from page: 2024-08-11-––_6_1_Numaralı_Tica
+2024-08-16 09:45:40,285 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm
+2024-08-16 09:45:40,285 - INFO - Saving metadata for: 2024-08-11-––_6_1_Numaralı_Tica
+2024-08-16 09:45:40,286 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-08-11-––_6_1_Numaralı_Tica.json
+2024-08-16 09:45:40,441 - INFO - Saving summary for: 2024-08-11-––_6_2_Numaralı_Amat
+2024-08-16 09:45:40,442 - INFO - Summary saved to data/raw/resmigazete/Su/text/2024-08-11-––_6_2_Numaralı_Amat.txt
+2024-08-16 09:45:40,442 - INFO - Extracting tables from page: 2024-08-11-––_6_2_Numaralı_Amat
+2024-08-16 09:45:40,445 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-4.htm
+2024-08-16 09:45:40,445 - INFO - Saving metadata for: 2024-08-11-––_6_2_Numaralı_Amat
+2024-08-16 09:45:40,446 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-08-11-––_6_2_Numaralı_Amat.json
+2024-08-16 09:45:40,774 - INFO - Saving summary for: 2024-08-11-––_6_1_Numaralı_Tica
+2024-08-16 09:45:40,774 - INFO - Summary saved to data/raw/resmigazete/Su/text/2024-08-11-––_6_1_Numaralı_Tica.txt
+2024-08-16 09:45:40,774 - INFO - Extracting tables from page: 2024-08-11-––_6_1_Numaralı_Tica
+2024-08-16 09:45:40,788 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm
+2024-08-16 09:45:40,788 - INFO - Saving metadata for: 2024-08-11-––_6_1_Numaralı_Tica
+2024-08-16 09:45:40,789 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-08-11-––_6_1_Numaralı_Tica.json
+2024-08-16 09:45:40,901 - INFO - Saving summary for: 2024-08-11-––_6_2_Numaralı_Amat
+2024-08-16 09:45:40,902 - INFO - Summary saved to data/raw/resmigazete/Su/text/2024-08-11-––_6_2_Numaralı_Amat.txt
+2024-08-16 09:45:40,902 - INFO - Extracting tables from page: 2024-08-11-––_6_2_Numaralı_Amat
+2024-08-16 09:45:40,905 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-4.htm
+2024-08-16 09:45:40,906 - INFO - Saving metadata for: 2024-08-11-––_6_2_Numaralı_Amat
+2024-08-16 09:45:40,906 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-08-11-––_6_2_Numaralı_Amat.json
+2024-08-16 09:45:41,019 - INFO - Saving summary for: 2024-08-08-––_Gazi_Üniversitesi
+2024-08-16 09:45:41,019 - INFO - Summary saved to data/raw/resmigazete/Su/text/2024-08-08-––_Gazi_Üniversitesi.txt
+2024-08-16 09:45:41,019 - INFO - Extracting tables from page: 2024-08-08-––_Gazi_Üniversitesi
+2024-08-16 09:45:41,020 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/08/20240808-4.htm
+2024-08-16 09:45:41,020 - INFO - Saving metadata for: 2024-08-08-––_Gazi_Üniversitesi
+2024-08-16 09:45:41,020 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-08-08-––_Gazi_Üniversitesi.json
+2024-08-16 09:45:41,128 - INFO - Saving summary for: 2024-03-06-––_Elektrik,_Su_ve_G
+2024-08-16 09:45:41,128 - INFO - Summary saved to data/raw/resmigazete/Su/text/2024-03-06-––_Elektrik,_Su_ve_G.txt
+2024-08-16 09:45:41,128 - INFO - Extracting tables from page: 2024-03-06-––_Elektrik,_Su_ve_G
+2024-08-16 09:45:41,129 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/03/20240306-3.htm
+2024-08-16 09:45:41,129 - INFO - Saving metadata for: 2024-03-06-––_Elektrik,_Su_ve_G
+2024-08-16 09:45:41,129 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-03-06-––_Elektrik,_Su_ve_G.json
+2024-08-16 09:45:41,268 - INFO - Saving summary for: 2024-03-03-––_Dokuz_Eylül_Ünive
+2024-08-16 09:45:41,269 - INFO - Summary saved to data/raw/resmigazete/Su/text/2024-03-03-––_Dokuz_Eylül_Ünive.txt
+2024-08-16 09:45:41,269 - INFO - Extracting tables from page: 2024-03-03-––_Dokuz_Eylül_Ünive
+2024-08-16 09:45:41,271 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/03/20240303-2.htm
+2024-08-16 09:45:41,271 - INFO - Saving metadata for: 2024-03-03-––_Dokuz_Eylül_Ünive
+2024-08-16 09:45:41,271 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-03-03-––_Dokuz_Eylül_Ünive.json
+2024-08-16 09:45:41,384 - INFO - Saving summary for: 2024-01-07-––_İstanbul_Üniversi
+2024-08-16 09:45:41,384 - INFO - Summary saved to data/raw/resmigazete/Su/text/2024-01-07-––_İstanbul_Üniversi.txt
+2024-08-16 09:45:41,384 - INFO - Extracting tables from page: 2024-01-07-––_İstanbul_Üniversi
+2024-08-16 09:45:41,385 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2024/01/20240107-12.htm
+2024-08-16 09:45:41,385 - INFO - Saving metadata for: 2024-01-07-––_İstanbul_Üniversi
+2024-08-16 09:45:41,385 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2024-01-07-––_İstanbul_Üniversi.json
+2024-08-16 09:45:41,490 - INFO - Saving summary for: 2023-12-30-––_Su,_Elektrik_ve_G
+2024-08-16 09:45:41,490 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-12-30-––_Su,_Elektrik_ve_G.txt
+2024-08-16 09:45:41,490 - INFO - Extracting tables from page: 2023-12-30-––_Su,_Elektrik_ve_G
+2024-08-16 09:45:41,491 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231230-8.htm
+2024-08-16 09:45:41,491 - INFO - Saving metadata for: 2023-12-30-––_Su,_Elektrik_ve_G
+2024-08-16 09:45:41,491 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-12-30-––_Su,_Elektrik_ve_G.json
+2024-08-16 09:45:41,595 - INFO - Saving summary for: 2023-12-16-––_Su_Dışındaki_Sıvı
+2024-08-16 09:45:41,595 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-12-16-––_Su_Dışındaki_Sıvı.txt
+2024-08-16 09:45:41,595 - INFO - Extracting tables from page: 2023-12-16-––_Su_Dışındaki_Sıvı
+2024-08-16 09:45:41,596 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231216-7.htm
+2024-08-16 09:45:41,596 - INFO - Saving metadata for: 2023-12-16-––_Su_Dışındaki_Sıvı
+2024-08-16 09:45:41,596 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-12-16-––_Su_Dışındaki_Sıvı.json
+2024-08-16 09:45:41,740 - INFO - Saving summary for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,740 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-12-02-––_Su_Ürünleri_Yetiş.txt
+2024-08-16 09:45:41,740 - INFO - Extracting tables from page: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,742 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231202-5.htm
+2024-08-16 09:45:41,742 - INFO - Saving metadata for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,742 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-12-02-––_Su_Ürünleri_Yetiş.json
+2024-08-16 09:45:41,871 - INFO - Saving summary for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,871 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-12-02-––_Su_Ürünleri_Yetiş.txt
+2024-08-16 09:45:41,871 - INFO - Extracting tables from page: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,872 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231202-6.htm
+2024-08-16 09:45:41,872 - INFO - Saving metadata for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,872 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-12-02-––_Su_Ürünleri_Yetiş.json
+2024-08-16 09:45:41,975 - INFO - Saving summary for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,975 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-12-02-––_Su_Ürünleri_Yetiş.txt
+2024-08-16 09:45:41,975 - INFO - Extracting tables from page: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,977 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231202-5.htm
+2024-08-16 09:45:41,977 - INFO - Saving metadata for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:41,977 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-12-02-––_Su_Ürünleri_Yetiş.json
+2024-08-16 09:45:42,061 - INFO - Saving summary for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,061 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-12-02-––_Su_Ürünleri_Yetiş.txt
+2024-08-16 09:45:42,061 - INFO - Extracting tables from page: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,063 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231202-6.htm
+2024-08-16 09:45:42,063 - INFO - Saving metadata for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,063 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-12-02-––_Su_Ürünleri_Yetiş.json
+2024-08-16 09:45:42,157 - INFO - Saving summary for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,157 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-12-02-––_Su_Ürünleri_Yetiş.txt
+2024-08-16 09:45:42,158 - INFO - Extracting tables from page: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,159 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231202-5.htm
+2024-08-16 09:45:42,159 - INFO - Saving metadata for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,159 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-12-02-––_Su_Ürünleri_Yetiş.json
+2024-08-16 09:45:42,246 - INFO - Saving summary for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,247 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-12-02-––_Su_Ürünleri_Yetiş.txt
+2024-08-16 09:45:42,247 - INFO - Extracting tables from page: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,248 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/12/20231202-6.htm
+2024-08-16 09:45:42,248 - INFO - Saving metadata for: 2023-12-02-––_Su_Ürünleri_Yetiş
+2024-08-16 09:45:42,248 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-12-02-––_Su_Ürünleri_Yetiş.json
+2024-08-16 09:45:42,379 - INFO - Saving summary for: 2023-11-23-––_Elektrik,_Su_ve_G
+2024-08-16 09:45:42,379 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-11-23-––_Elektrik,_Su_ve_G.txt
+2024-08-16 09:45:42,379 - INFO - Extracting tables from page: 2023-11-23-––_Elektrik,_Su_ve_G
+2024-08-16 09:45:42,381 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/11/20231123-2.htm
+2024-08-16 09:45:42,381 - INFO - Saving metadata for: 2023-11-23-––_Elektrik,_Su_ve_G
+2024-08-16 09:45:42,381 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-11-23-––_Elektrik,_Su_ve_G.json
+2024-08-16 09:45:42,502 - INFO - Saving summary for: 2023-11-03-––_Devlet_Su_İşleri_
+2024-08-16 09:45:42,502 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-11-03-––_Devlet_Su_İşleri_.txt
+2024-08-16 09:45:42,502 - INFO - Extracting tables from page: 2023-11-03-––_Devlet_Su_İşleri_
+2024-08-16 09:45:42,502 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/11/20231103-5.htm
+2024-08-16 09:45:42,502 - INFO - Saving metadata for: 2023-11-03-––_Devlet_Su_İşleri_
+2024-08-16 09:45:42,502 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-11-03-––_Devlet_Su_İşleri_.json
+2024-08-16 09:45:42,648 - INFO - Saving summary for: 2023-08-16-––_Depremden_Zarar_G
+2024-08-16 09:45:42,648 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-08-16-––_Depremden_Zarar_G.txt
+2024-08-16 09:45:42,648 - INFO - Extracting tables from page: 2023-08-16-––_Depremden_Zarar_G
+2024-08-16 09:45:42,650 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/08/20230816-4.htm
+2024-08-16 09:45:42,650 - INFO - Saving metadata for: 2023-08-16-––_Depremden_Zarar_G
+2024-08-16 09:45:42,650 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-08-16-––_Depremden_Zarar_G.json
+2024-08-16 09:45:42,757 - INFO - Saving summary for: 2023-07-17-––_Ege_Üniversitesi_
+2024-08-16 09:45:42,757 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-07-17-––_Ege_Üniversitesi_.txt
+2024-08-16 09:45:42,757 - INFO - Extracting tables from page: 2023-07-17-––_Ege_Üniversitesi_
+2024-08-16 09:45:42,759 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/07/20230717-3.htm
+2024-08-16 09:45:42,759 - INFO - Saving metadata for: 2023-07-17-––_Ege_Üniversitesi_
+2024-08-16 09:45:42,759 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-07-17-––_Ege_Üniversitesi_.json
+2024-08-16 09:45:42,872 - INFO - Saving summary for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:42,872 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-05-12-––_Su_Kirliliği_Kont.txt
+2024-08-16 09:45:42,872 - INFO - Extracting tables from page: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:42,872 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/05/20230512-22.htm
+2024-08-16 09:45:42,872 - INFO - Saving metadata for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:42,873 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Su_Kirliliği_Kont.json
+2024-08-16 09:45:42,954 - INFO - Saving summary for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:42,954 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-05-12-––_Su_Kirliliği_Kont.txt
+2024-08-16 09:45:42,954 - INFO - Extracting tables from page: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:42,955 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/05/20230512-22.htm
+2024-08-16 09:45:42,955 - INFO - Saving metadata for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:42,955 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Su_Kirliliği_Kont.json
+2024-08-16 09:45:43,053 - INFO - Saving summary for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,054 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-05-12-––_Su_Kirliliği_Kont.txt
+2024-08-16 09:45:43,054 - INFO - Extracting tables from page: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,055 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/05/20230512-22.htm
+2024-08-16 09:45:43,055 - INFO - Saving metadata for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,055 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Su_Kirliliği_Kont.json
+2024-08-16 09:45:43,147 - INFO - Saving summary for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,147 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-05-12-––_Su_Kirliliği_Kont.txt
+2024-08-16 09:45:43,148 - INFO - Extracting tables from page: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,149 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/05/20230512-22.htm
+2024-08-16 09:45:43,149 - INFO - Saving metadata for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,149 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Su_Kirliliği_Kont.json
+2024-08-16 09:45:43,224 - INFO - Saving summary for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,224 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-05-12-––_Su_Kirliliği_Kont.txt
+2024-08-16 09:45:43,224 - INFO - Extracting tables from page: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,225 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/05/20230512-22.htm
+2024-08-16 09:45:43,225 - INFO - Saving metadata for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,225 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Su_Kirliliği_Kont.json
+2024-08-16 09:45:43,328 - INFO - Saving summary for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,329 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-05-12-––_Su_Kirliliği_Kont.txt
+2024-08-16 09:45:43,329 - INFO - Extracting tables from page: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,329 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/05/20230512-22.htm
+2024-08-16 09:45:43,329 - INFO - Saving metadata for: 2023-05-12-––_Su_Kirliliği_Kont
+2024-08-16 09:45:43,329 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-12-––_Su_Kirliliği_Kont.json
+2024-08-16 09:45:43,456 - INFO - Saving summary for: 2023-05-06-––_Tarımsal_Sulama_A
+2024-08-16 09:45:43,456 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-05-06-––_Tarımsal_Sulama_A.txt
+2024-08-16 09:45:43,456 - INFO - Extracting tables from page: 2023-05-06-––_Tarımsal_Sulama_A
+2024-08-16 09:45:43,457 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/05/20230506-15.htm
+2024-08-16 09:45:43,457 - INFO - Saving metadata for: 2023-05-06-––_Tarımsal_Sulama_A
+2024-08-16 09:45:43,457 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-05-06-––_Tarımsal_Sulama_A.json
+2024-08-16 09:45:43,577 - INFO - Saving summary for: 2023-04-14-––_Su_Dışındaki_Sıvı
+2024-08-16 09:45:43,577 - INFO - Summary saved to data/raw/resmigazete/Su/text/2023-04-14-––_Su_Dışındaki_Sıvı.txt
+2024-08-16 09:45:43,577 - INFO - Extracting tables from page: 2023-04-14-––_Su_Dışındaki_Sıvı
+2024-08-16 09:45:43,577 - INFO - Extracted summary and checked for tables from: https://www.resmigazete.gov.tr/eskiler/2023/04/20230414-10.htm
+2024-08-16 09:45:43,578 - INFO - Saving metadata for: 2023-04-14-––_Su_Dışındaki_Sıvı
+2024-08-16 09:45:43,578 - INFO - Metadata saved to data/raw/resmigazete/Su/metadata/metadata_2023-04-14-––_Su_Dışındaki_Sıvı.json
+2024-08-16 09:45:43,635 - INFO - Scraping process completed.

@@ -1,0 +1,231 @@
+2024-08-15 16:45:55,408 - INFO - Starting the scraping process.
+2024-08-15 16:45:55,408 - INFO - Processing keyword: KKDİK
+2024-08-15 16:45:55,408 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-15 16:46:01,314 - INFO - Retrieving URLs for keyword: KKDİK
+2024-08-15 16:46:01,315 - INFO - Searching for keyword: KKDİK
+2024-08-15 16:46:12,364 - INFO - Selecting date: 2012-8-9
+2024-08-15 16:46:20,591 - INFO - Sorting by last modified date.
+2024-08-15 16:46:40,883 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5fdebdeb66ca <unknown>
+#1 0x5fdebdb87600 <unknown>
+#2 0x5fdebdbd6bcb <unknown>
+#3 0x5fdebdbd6eb1 <unknown>
+#4 0x5fdebdc1ab24 <unknown>
+#5 0x5fdebdbf98cd <unknown>
+#6 0x5fdebdc1804a <unknown>
+#7 0x5fdebdbf9643 <unknown>
+#8 0x5fdebdbc9d31 <unknown>
+#9 0x5fdebdbca79e <unknown>
+#10 0x5fdebde7e25b <unknown>
+#11 0x5fdebde821f2 <unknown>
+#12 0x5fdebde6b615 <unknown>
+#13 0x5fdebde82d82 <unknown>
+#14 0x5fdebde5025f <unknown>
+#15 0x5fdebdea5e68 <unknown>
+#16 0x5fdebdea6040 <unknown>
+#17 0x5fdebdeb549c <unknown>
+#18 0x7b116d494ac3 <unknown>
+
+2024-08-15 16:46:40,883 - INFO - Downloading PDF files for keyword: KKDİK
+2024-08-15 16:46:40,883 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-15 16:46:40,883 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-15 16:46:40,942 - INFO - Scraping process completed.
+2024-08-15 23:56:31,749 - INFO - Starting the scraping process.
+2024-08-15 23:56:31,756 - INFO - Processing keyword: KKDİK
+2024-08-15 23:56:31,757 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-15 23:56:37,827 - INFO - Retrieving URLs for keyword: KKDİK
+2024-08-15 23:56:37,827 - INFO - Searching for keyword: KKDİK
+2024-08-15 23:56:49,652 - INFO - Selecting date: 2012-8-9
+2024-08-15 23:56:57,850 - INFO - Sorting by last modified date.
+2024-08-15 23:57:18,008 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5cd98846c6ca <unknown>
+#1 0x5cd98813d600 <unknown>
+#2 0x5cd98818cbcb <unknown>
+#3 0x5cd98818ceb1 <unknown>
+#4 0x5cd9881d0b24 <unknown>
+#5 0x5cd9881af8cd <unknown>
+#6 0x5cd9881ce04a <unknown>
+#7 0x5cd9881af643 <unknown>
+#8 0x5cd98817fd31 <unknown>
+#9 0x5cd98818079e <unknown>
+#10 0x5cd98843425b <unknown>
+#11 0x5cd9884381f2 <unknown>
+#12 0x5cd988421615 <unknown>
+#13 0x5cd988438d82 <unknown>
+#14 0x5cd98840625f <unknown>
+#15 0x5cd98845be68 <unknown>
+#16 0x5cd98845c040 <unknown>
+#17 0x5cd98846b49c <unknown>
+#18 0x79010d694ac3 <unknown>
+
+2024-08-15 23:57:18,008 - INFO - Downloading PDF files for keyword: KKDİK
+2024-08-15 23:57:18,008 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-15 23:57:18,008 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-15 23:57:18,069 - INFO - Scraping process completed.
+2024-08-19 18:35:02,014 - INFO - Starting the scraping process.
+2024-08-19 18:35:02,022 - INFO - Processing keyword: KKDİK
+2024-08-19 18:35:02,022 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-19 18:35:07,800 - INFO - Retrieving URLs for keyword: KKDİK
+2024-08-19 18:35:07,800 - INFO - Searching for keyword: KKDİK
+2024-08-19 18:35:18,751 - INFO - Selecting date: 2012-8-9
+2024-08-19 18:35:26,964 - INFO - Sorting by last modified date.
+2024-08-19 18:35:47,169 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5ec40ef416ca <unknown>
+#1 0x5ec40ec12600 <unknown>
+#2 0x5ec40ec61bcb <unknown>
+#3 0x5ec40ec61eb1 <unknown>
+#4 0x5ec40eca5b24 <unknown>
+#5 0x5ec40ec848cd <unknown>
+#6 0x5ec40eca304a <unknown>
+#7 0x5ec40ec84643 <unknown>
+#8 0x5ec40ec54d31 <unknown>
+#9 0x5ec40ec5579e <unknown>
+#10 0x5ec40ef0925b <unknown>
+#11 0x5ec40ef0d1f2 <unknown>
+#12 0x5ec40eef6615 <unknown>
+#13 0x5ec40ef0dd82 <unknown>
+#14 0x5ec40eedb25f <unknown>
+#15 0x5ec40ef30e68 <unknown>
+#16 0x5ec40ef31040 <unknown>
+#17 0x5ec40ef4049c <unknown>
+#18 0x757a74894ac3 <unknown>
+
+2024-08-19 18:35:47,169 - INFO - Downloading PDF files for keyword: KKDİK
+2024-08-19 18:35:50,442 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-19 18:35:50,442 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-19 18:35:50,500 - INFO - Scraping process completed.
+2024-08-19 18:38:54,075 - INFO - Starting the scraping process.
+2024-08-19 18:38:54,075 - INFO - Processing keyword: KKDİK
+2024-08-19 18:38:54,075 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-19 18:38:59,768 - INFO - Retrieving URLs for keyword: KKDİK
+2024-08-19 18:38:59,768 - INFO - Searching for keyword: KKDİK
+2024-08-19 18:39:10,729 - INFO - Selecting date: 2012-8-9
+2024-08-19 18:39:18,954 - INFO - Sorting by last modified date.
+2024-08-19 18:39:39,121 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x55ab8ba236ca <unknown>
+#1 0x55ab8b6f4600 <unknown>
+#2 0x55ab8b743bcb <unknown>
+#3 0x55ab8b743eb1 <unknown>
+#4 0x55ab8b787b24 <unknown>
+#5 0x55ab8b7668cd <unknown>
+#6 0x55ab8b78504a <unknown>
+#7 0x55ab8b766643 <unknown>
+#8 0x55ab8b736d31 <unknown>
+#9 0x55ab8b73779e <unknown>
+#10 0x55ab8b9eb25b <unknown>
+#11 0x55ab8b9ef1f2 <unknown>
+#12 0x55ab8b9d8615 <unknown>
+#13 0x55ab8b9efd82 <unknown>
+#14 0x55ab8b9bd25f <unknown>
+#15 0x55ab8ba12e68 <unknown>
+#16 0x55ab8ba13040 <unknown>
+#17 0x55ab8ba2249c <unknown>
+#18 0x712923a94ac3 <unknown>
+
+2024-08-19 18:39:39,121 - INFO - Downloading PDF files for keyword: KKDİK
+2024-08-19 18:39:39,121 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-19 18:39:39,121 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-19 18:39:39,178 - INFO - Scraping process completed.
+2024-08-19 19:04:11,707 - INFO - Starting the scraping process.
+2024-08-19 19:04:11,707 - INFO - Processing keyword: KKDİK
+2024-08-19 19:04:11,707 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-19 19:04:17,442 - INFO - Retrieving URLs for keyword: KKDİK
+2024-08-19 19:04:17,442 - INFO - Searching for keyword: KKDİK
+2024-08-19 19:04:28,401 - INFO - Selecting date: 2012-8-9
+2024-08-19 19:04:36,591 - INFO - Sorting by last modified date.
+2024-08-19 19:04:56,747 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5af36d3ab6ca <unknown>
+#1 0x5af36d07c600 <unknown>
+#2 0x5af36d0cbbcb <unknown>
+#3 0x5af36d0cbeb1 <unknown>
+#4 0x5af36d10fb24 <unknown>
+#5 0x5af36d0ee8cd <unknown>
+#6 0x5af36d10d04a <unknown>
+#7 0x5af36d0ee643 <unknown>
+#8 0x5af36d0bed31 <unknown>
+#9 0x5af36d0bf79e <unknown>
+#10 0x5af36d37325b <unknown>
+#11 0x5af36d3771f2 <unknown>
+#12 0x5af36d360615 <unknown>
+#13 0x5af36d377d82 <unknown>
+#14 0x5af36d34525f <unknown>
+#15 0x5af36d39ae68 <unknown>
+#16 0x5af36d39b040 <unknown>
+#17 0x5af36d3aa49c <unknown>
+#18 0x7376e5294ac3 <unknown>
+
+2024-08-19 19:04:56,747 - INFO - Downloading PDF files for keyword: KKDİK
+2024-08-19 19:04:56,747 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-19 19:04:56,747 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-19 19:04:56,804 - INFO - Scraping process completed.
+2024-08-20 10:00:09,207 - INFO - Starting the scraping process.
+2024-08-20 10:00:09,215 - INFO - Processing keyword: KKDİK
+2024-08-20 10:00:09,215 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-20 10:00:14,984 - INFO - Retrieving URLs for keyword: KKDİK
+2024-08-20 10:00:14,985 - INFO - Searching for keyword: KKDİK
+2024-08-20 10:00:27,232 - INFO - Selecting date: 2012-8-9
+2024-08-20 10:00:35,446 - INFO - Sorting by last modified date.
+2024-08-20 10:00:55,700 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5aed638dc6ca <unknown>
+#1 0x5aed635ad600 <unknown>
+#2 0x5aed635fcbcb <unknown>
+#3 0x5aed635fceb1 <unknown>
+#4 0x5aed63640b24 <unknown>
+#5 0x5aed6361f8cd <unknown>
+#6 0x5aed6363e04a <unknown>
+#7 0x5aed6361f643 <unknown>
+#8 0x5aed635efd31 <unknown>
+#9 0x5aed635f079e <unknown>
+#10 0x5aed638a425b <unknown>
+#11 0x5aed638a81f2 <unknown>
+#12 0x5aed63891615 <unknown>
+#13 0x5aed638a8d82 <unknown>
+#14 0x5aed6387625f <unknown>
+#15 0x5aed638cbe68 <unknown>
+#16 0x5aed638cc040 <unknown>
+#17 0x5aed638db49c <unknown>
+#18 0x721350e94ac3 <unknown>
+
+2024-08-20 10:00:55,700 - INFO - Downloading PDF files and saving summaries for keyword: KKDİK
+2024-08-20 10:00:55,700 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-20 10:00:55,700 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-20 10:00:55,757 - INFO - Scraping process completed.
+2024-08-20 11:22:44,517 - INFO - Starting the scraping process.
+2024-08-20 11:22:44,518 - INFO - Processing keyword: KKDİK
+2024-08-20 11:22:44,518 - INFO - Creating folder structure for keyword: KKDİK
+2024-08-20 11:22:51,030 - INFO - Retrieving URLs for keyword: KKDİK
+2024-08-20 11:22:51,030 - INFO - Searching for keyword: KKDİK
+2024-08-20 11:23:02,397 - INFO - Selecting date: 2012-8-9
+2024-08-20 11:23:10,612 - INFO - Sorting by last modified date.
+2024-08-20 11:23:30,859 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5ef58c8d66ca <unknown>
+#1 0x5ef58c5a7600 <unknown>
+#2 0x5ef58c5f6bcb <unknown>
+#3 0x5ef58c5f6eb1 <unknown>
+#4 0x5ef58c63ab24 <unknown>
+#5 0x5ef58c6198cd <unknown>
+#6 0x5ef58c63804a <unknown>
+#7 0x5ef58c619643 <unknown>
+#8 0x5ef58c5e9d31 <unknown>
+#9 0x5ef58c5ea79e <unknown>
+#10 0x5ef58c89e25b <unknown>
+#11 0x5ef58c8a21f2 <unknown>
+#12 0x5ef58c88b615 <unknown>
+#13 0x5ef58c8a2d82 <unknown>
+#14 0x5ef58c87025f <unknown>
+#15 0x5ef58c8c5e68 <unknown>
+#16 0x5ef58c8c6040 <unknown>
+#17 0x5ef58c8d549c <unknown>
+#18 0x7f80e0c94ac3 <unknown>
+
+2024-08-20 11:23:30,860 - INFO - Downloading PDF files and saving summaries for keyword: KKDİK
+2024-08-20 11:23:30,860 - INFO - Saving PDF data for keyword: KKDİK
+2024-08-20 11:23:30,860 - INFO - Processing non-PDF URLs for keyword: KKDİK
+2024-08-20 11:23:30,917 - INFO - Scraping process completed.

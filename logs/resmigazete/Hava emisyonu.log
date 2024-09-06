@@ -1,0 +1,26 @@
+2024-08-15 21:03:22,694 - INFO - Starting the scraping process.
+2024-08-15 21:03:22,694 - INFO - Processing keyword: Hava emisyonu
+2024-08-15 21:03:22,694 - INFO - Creating folder structure for keyword: Hava emisyonu
+2024-08-15 21:03:22,694 - INFO - Searching for keyword: Hava emisyonu
+2024-08-15 21:03:47,017 - INFO - Downloading PDF files for keyword: Hava emisyonu
+2024-08-15 21:03:47,017 - INFO - Saving PDF data for keyword: Hava emisyonu
+2024-08-15 21:03:47,017 - INFO - Processing non-PDF URLs for keyword: Hava emisyonu
+2024-08-15 21:03:47,072 - INFO - Scraping process completed.
+2024-08-16 09:21:35,200 - INFO - Starting the scraping process.
+2024-08-16 09:21:35,208 - INFO - Processing keyword: Hava emisyonu
+2024-08-16 09:21:35,208 - INFO - Creating folder structure for keyword: Hava emisyonu
+2024-08-16 09:21:35,208 - INFO - Searching for keyword: Hava emisyonu
+2024-08-16 09:21:53,367 - INFO - Processing page 1
+2024-08-16 09:21:59,569 - INFO - Downloading PDF files for keyword: Hava emisyonu
+2024-08-16 09:21:59,569 - INFO - Saving PDF data for keyword: Hava emisyonu
+2024-08-16 09:21:59,569 - INFO - Processing non-PDF URLs for keyword: Hava emisyonu
+2024-08-16 09:21:59,624 - INFO - Scraping process completed.
+2024-08-20 12:33:37,774 - INFO - Starting the scraping process.
+2024-08-20 12:33:37,774 - INFO - Processing keyword: Hava emisyonu
+2024-08-20 12:33:37,775 - INFO - Creating folder structure for keyword: Hava emisyonu
+2024-08-20 12:33:37,775 - INFO - Searching for keyword: Hava emisyonu
+2024-08-20 12:33:55,932 - INFO - Processing page 1
+2024-08-20 12:34:02,160 - INFO - Downloading PDF files for keyword: Hava emisyonu
+2024-08-20 12:34:02,160 - INFO - Saving PDF data for keyword: Hava emisyonu
+2024-08-20 12:34:02,160 - INFO - Processing non-PDF URLs for keyword: Hava emisyonu
+2024-08-20 12:34:02,216 - INFO - Scraping process completed.

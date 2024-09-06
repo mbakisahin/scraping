@@ -1,0 +1,12 @@
+Name: bundesanzeigerWebScraping.py
+Link: https://www.bundesanzeiger.de
+Limited page number: 10
+Keywords:
+Wettbewerbsrecht
+Informationstechnologie
+Datenschutz
+
+
+
+
+

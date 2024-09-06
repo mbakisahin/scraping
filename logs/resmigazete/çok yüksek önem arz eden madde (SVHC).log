@@ -1,0 +1,11 @@
+2024-08-20 12:13:39,009 - INFO - Starting the scraping process.
+2024-08-20 12:13:39,009 - INFO - Processing keyword: çok yüksek önem arz eden madde (SVHC)
+2024-08-20 12:13:39,009 - INFO - Creating folder structure for keyword: çok yüksek önem arz eden madde (SVHC)
+2024-08-20 12:13:39,010 - INFO - Searching for keyword: çok yüksek önem arz eden madde (SVHC)
+2024-08-20 12:13:57,171 - INFO - Processing page 1
+2024-08-20 12:14:07,308 - ERROR - An error occurred: Message: 
+. Continuing with the next iteration.
+2024-08-20 12:14:07,326 - INFO - Downloading PDF files for keyword: çok yüksek önem arz eden madde (SVHC)
+2024-08-20 12:14:07,326 - INFO - Saving PDF data for keyword: çok yüksek önem arz eden madde (SVHC)
+2024-08-20 12:14:07,327 - INFO - Processing non-PDF URLs for keyword: çok yüksek önem arz eden madde (SVHC)
+2024-08-20 12:14:07,384 - INFO - Scraping process completed.

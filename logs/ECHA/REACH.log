@@ -1,0 +1,198 @@
+2024-08-15 16:46:45,468 - INFO - Starting the scraping process.
+2024-08-15 16:46:45,468 - INFO - Processing keyword: REACH
+2024-08-15 16:46:45,468 - INFO - Creating folder structure for keyword: REACH
+2024-08-15 16:46:51,336 - INFO - Retrieving URLs for keyword: REACH
+2024-08-15 16:46:51,336 - INFO - Searching for keyword: REACH
+2024-08-15 16:47:03,217 - INFO - Selecting date: 2012-8-9
+2024-08-15 16:47:11,427 - INFO - Sorting by last modified date.
+2024-08-15 16:47:31,743 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x615d1e53e6ca <unknown>
+#1 0x615d1e20f600 <unknown>
+#2 0x615d1e25ebcb <unknown>
+#3 0x615d1e25eeb1 <unknown>
+#4 0x615d1e2a2b24 <unknown>
+#5 0x615d1e2818cd <unknown>
+#6 0x615d1e2a004a <unknown>
+#7 0x615d1e281643 <unknown>
+#8 0x615d1e251d31 <unknown>
+#9 0x615d1e25279e <unknown>
+#10 0x615d1e50625b <unknown>
+#11 0x615d1e50a1f2 <unknown>
+#12 0x615d1e4f3615 <unknown>
+#13 0x615d1e50ad82 <unknown>
+#14 0x615d1e4d825f <unknown>
+#15 0x615d1e52de68 <unknown>
+#16 0x615d1e52e040 <unknown>
+#17 0x615d1e53d49c <unknown>
+#18 0x75d138e94ac3 <unknown>
+
+2024-08-15 16:47:31,743 - INFO - Downloading PDF files for keyword: REACH
+2024-08-15 16:47:31,743 - INFO - Saving PDF data for keyword: REACH
+2024-08-15 16:47:31,743 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-15 16:47:31,805 - INFO - Scraping process completed.
+2024-08-15 23:36:46,566 - INFO - Starting the scraping process.
+2024-08-15 23:36:46,574 - INFO - Processing keyword: REACH
+2024-08-15 23:36:46,574 - INFO - Creating folder structure for keyword: REACH
+2024-08-15 23:36:52,365 - INFO - Retrieving URLs for keyword: REACH
+2024-08-15 23:36:52,365 - INFO - Searching for keyword: REACH
+2024-08-15 23:37:05,392 - INFO - Selecting date: 2012-8-9
+2024-08-15 23:37:13,638 - INFO - Sorting by last modified date.
+2024-08-15 23:37:33,863 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x654d45d366ca <unknown>
+#1 0x654d45a07600 <unknown>
+#2 0x654d45a56bcb <unknown>
+#3 0x654d45a56eb1 <unknown>
+#4 0x654d45a9ab24 <unknown>
+#5 0x654d45a798cd <unknown>
+#6 0x654d45a9804a <unknown>
+#7 0x654d45a79643 <unknown>
+#8 0x654d45a49d31 <unknown>
+#9 0x654d45a4a79e <unknown>
+#10 0x654d45cfe25b <unknown>
+#11 0x654d45d021f2 <unknown>
+#12 0x654d45ceb615 <unknown>
+#13 0x654d45d02d82 <unknown>
+#14 0x654d45cd025f <unknown>
+#15 0x654d45d25e68 <unknown>
+#16 0x654d45d26040 <unknown>
+#17 0x654d45d3549c <unknown>
+#18 0x77fe69494ac3 <unknown>
+
+2024-08-15 23:37:33,864 - INFO - Downloading PDF files for keyword: REACH
+2024-08-15 23:37:33,864 - INFO - Saving PDF data for keyword: REACH
+2024-08-15 23:37:33,864 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-15 23:37:33,921 - INFO - Scraping process completed.
+2024-08-19 18:39:43,300 - INFO - Starting the scraping process.
+2024-08-19 18:39:43,308 - INFO - Processing keyword: REACH
+2024-08-19 18:39:43,308 - INFO - Creating folder structure for keyword: REACH
+2024-08-19 18:39:48,995 - INFO - Retrieving URLs for keyword: REACH
+2024-08-19 18:39:48,995 - INFO - Searching for keyword: REACH
+2024-08-19 18:40:01,173 - INFO - Selecting date: 2012-8-9
+2024-08-19 18:40:09,383 - INFO - Sorting by last modified date.
+2024-08-19 18:40:29,564 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x60abbc6c16ca <unknown>
+#1 0x60abbc392600 <unknown>
+#2 0x60abbc3e1bcb <unknown>
+#3 0x60abbc3e1eb1 <unknown>
+#4 0x60abbc425b24 <unknown>
+#5 0x60abbc4048cd <unknown>
+#6 0x60abbc42304a <unknown>
+#7 0x60abbc404643 <unknown>
+#8 0x60abbc3d4d31 <unknown>
+#9 0x60abbc3d579e <unknown>
+#10 0x60abbc68925b <unknown>
+#11 0x60abbc68d1f2 <unknown>
+#12 0x60abbc676615 <unknown>
+#13 0x60abbc68dd82 <unknown>
+#14 0x60abbc65b25f <unknown>
+#15 0x60abbc6b0e68 <unknown>
+#16 0x60abbc6b1040 <unknown>
+#17 0x60abbc6c049c <unknown>
+#18 0x72b406494ac3 <unknown>
+
+2024-08-19 18:40:29,565 - INFO - Downloading PDF files for keyword: REACH
+2024-08-19 18:40:29,565 - INFO - Saving PDF data for keyword: REACH
+2024-08-19 18:40:29,565 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-19 18:40:29,624 - INFO - Scraping process completed.
+2024-08-19 18:58:52,620 - INFO - Starting the scraping process.
+2024-08-19 18:58:52,621 - INFO - Processing keyword: REACH
+2024-08-19 18:58:52,621 - INFO - Creating folder structure for keyword: REACH
+2024-08-19 18:58:58,427 - INFO - Retrieving URLs for keyword: REACH
+2024-08-19 18:58:58,427 - INFO - Searching for keyword: REACH
+2024-08-19 18:59:16,211 - INFO - Selecting date: 2012-8-9
+2024-08-19 18:59:24,432 - INFO - Sorting by last modified date.
+2024-08-19 18:59:44,580 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x600ff2f076ca <unknown>
+#1 0x600ff2bd8600 <unknown>
+#2 0x600ff2c27bcb <unknown>
+#3 0x600ff2c27eb1 <unknown>
+#4 0x600ff2c6bb24 <unknown>
+#5 0x600ff2c4a8cd <unknown>
+#6 0x600ff2c6904a <unknown>
+#7 0x600ff2c4a643 <unknown>
+#8 0x600ff2c1ad31 <unknown>
+#9 0x600ff2c1b79e <unknown>
+#10 0x600ff2ecf25b <unknown>
+#11 0x600ff2ed31f2 <unknown>
+#12 0x600ff2ebc615 <unknown>
+#13 0x600ff2ed3d82 <unknown>
+#14 0x600ff2ea125f <unknown>
+#15 0x600ff2ef6e68 <unknown>
+#16 0x600ff2ef7040 <unknown>
+#17 0x600ff2f0649c <unknown>
+#18 0x799935694ac3 <unknown>
+
+2024-08-19 18:59:44,581 - INFO - Downloading PDF files for keyword: REACH
+2024-08-19 18:59:44,581 - INFO - Saving PDF data for keyword: REACH
+2024-08-19 18:59:44,581 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-19 18:59:44,638 - INFO - Scraping process completed.
+2024-08-20 09:53:47,425 - INFO - Starting the scraping process.
+2024-08-20 09:53:47,433 - INFO - Processing keyword: REACH
+2024-08-20 09:53:47,433 - INFO - Creating folder structure for keyword: REACH
+2024-08-20 09:53:53,442 - INFO - Retrieving URLs for keyword: REACH
+2024-08-20 09:53:53,442 - INFO - Searching for keyword: REACH
+2024-08-20 09:54:05,656 - INFO - Selecting date: 2012-8-9
+2024-08-20 09:54:13,853 - INFO - Sorting by last modified date.
+2024-08-20 09:54:34,103 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5b79e28136ca <unknown>
+#1 0x5b79e24e4600 <unknown>
+#2 0x5b79e2533bcb <unknown>
+#3 0x5b79e2533eb1 <unknown>
+#4 0x5b79e2577b24 <unknown>
+#5 0x5b79e25568cd <unknown>
+#6 0x5b79e257504a <unknown>
+#7 0x5b79e2556643 <unknown>
+#8 0x5b79e2526d31 <unknown>
+#9 0x5b79e252779e <unknown>
+#10 0x5b79e27db25b <unknown>
+#11 0x5b79e27df1f2 <unknown>
+#12 0x5b79e27c8615 <unknown>
+#13 0x5b79e27dfd82 <unknown>
+#14 0x5b79e27ad25f <unknown>
+#15 0x5b79e2802e68 <unknown>
+#16 0x5b79e2803040 <unknown>
+#17 0x5b79e281249c <unknown>
+#18 0x7dc4c3094ac3 <unknown>
+
+2024-08-20 09:54:34,103 - INFO - Downloading PDF files and saving summaries for keyword: REACH
+2024-08-20 09:54:34,103 - INFO - Saving PDF data for keyword: REACH
+2024-08-20 09:54:34,103 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-20 09:54:34,175 - INFO - Scraping process completed.
+2024-08-20 10:46:58,513 - INFO - Starting the scraping process.
+2024-08-20 10:46:58,514 - INFO - Processing keyword: REACH
+2024-08-20 10:46:58,514 - INFO - Creating folder structure for keyword: REACH
+2024-08-20 10:47:04,252 - INFO - Retrieving URLs for keyword: REACH
+2024-08-20 10:47:04,253 - INFO - Searching for keyword: REACH
+2024-08-20 10:47:16,190 - INFO - Selecting date: 2012-8-9
+2024-08-20 10:47:24,388 - INFO - Sorting by last modified date.
+2024-08-20 10:47:44,443 - ERROR - An error occurred while processing https://echa.europa.eu/search?p_p_id=echasearch_WAR_echaportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_echasearch_WAR_echaportlet_doSearch=true&_echasearch_WAR_echaportlet_themeSearch=true: Message: 
+Stacktrace:
+#0 0x5f178bce86ca <unknown>
+#1 0x5f178b9b9600 <unknown>
+#2 0x5f178ba08bcb <unknown>
+#3 0x5f178ba08eb1 <unknown>
+#4 0x5f178ba4cb24 <unknown>
+#5 0x5f178ba2b8cd <unknown>
+#6 0x5f178ba4a04a <unknown>
+#7 0x5f178ba2b643 <unknown>
+#8 0x5f178b9fbd31 <unknown>
+#9 0x5f178b9fc79e <unknown>
+#10 0x5f178bcb025b <unknown>
+#11 0x5f178bcb41f2 <unknown>
+#12 0x5f178bc9d615 <unknown>
+#13 0x5f178bcb4d82 <unknown>
+#14 0x5f178bc8225f <unknown>
+#15 0x5f178bcd7e68 <unknown>
+#16 0x5f178bcd8040 <unknown>
+#17 0x5f178bce749c <unknown>
+#18 0x75e4ab894ac3 <unknown>
+
+2024-08-20 10:47:44,443 - INFO - Downloading PDF files and saving summaries for keyword: REACH
+2024-08-20 10:47:44,443 - INFO - Saving PDF data for keyword: REACH
+2024-08-20 10:47:44,443 - INFO - Processing non-PDF URLs for keyword: REACH
+2024-08-20 10:47:44,501 - INFO - Scraping process completed.
